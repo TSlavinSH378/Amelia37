@@ -1,0 +1,42 @@
+Amelia v3 SDK for IOS
+v3.2.3
+Supporting Custom UI 5.3.0 survey, delivered in outboundFormInputMessage
+
+v3.2.2
+Added hint text in Amelia outbound messages.
+
+v3.2.1
+Fixed incorrect error message issue for network problems
+
+v3.2.0
+fixed TTS voice issue with non-English domain.
+
+v3.1.9
+Added support for form options with images, image alt text and cta buttons
+
+v3.1.7:
+fixed runAction API bug, when argument passed is null.
+
+v3.1.6:
+fixed input enabled bug
+Changed run action json content key name 
+
+v3.1.5:
+-fixed bug in reconnect conversation
+
+v3.1.4c:
+3.1.4 with compatibility for AmeliaV3 rest API v3.1.0+
+v3.1.4:
+-Fixed bug in reset conversation
+
+v3.1.3:
+-Added interface to add initialAttributes and initialBpnVariables when starting new conversation or logging in
+-Fixed file upload, added cancelFileUpload method to cancel upload.
+-Added AmeliaReadyMessage. When Amelia is ready for taking user inputs, this will be received.
+-Added BpnExecutionEventMessage. This contains details about bpn life cycle, and can detect BPN crash from the BpnProcessEvent in it.
+-Added receipt for subscription
+
+v3.1.2:
+Added support for forms and integration messages.
+Modifed logic for logging in with cookie
+

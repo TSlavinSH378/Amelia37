@@ -1,0 +1,103 @@
+Amelia SDK for Android
+3.2.1
+Fixed cookie store issue.
+Fixed anonymous login not working issue when logged out (by stepUp operation)
+
+3.2.0
+Lowering min sdk version to 17
+3.1.9
+Added support for larger forms with image, description and CTAs
+Added support for suggested response form
+
+3.1.8
+Added unit tests
+Refactored code base
+Fixed minor bugs
+
+3.1.7
+Removed hintText from uploadmessage.
+Added confirmation message for successful and cancelled file uploads
+Added Api method cancelFileUpload in IPSAKChat.h
+
+3.1.6
+Added receipt for subscription.
+Exposed BPN process event details. See example below:
+private IConversationListener conversationListener = new BaseConversationListener() {
+    @Override
+    public void outboundBpnExecutionEventMessage(IAmeliaOutboundMessage ameliaOutboundMessage){
+        BpnExecutionEvent  bpnExecutionEvent = ameliaOutboundMessage.getAttributes().getBpnExecutionEvent();
+        BpnExecutionEvent.BpnProcessEvent bpnProcessEvent = bpnExecutionEvent.getBpnProcessEvent();
+        String eventId = bpnExecutionEvent.getEventId();
+        if(bpnProcessEvent == BpnExecutionEvent.BpnProcessEvent.PROCESS_ABORTED_EVENT){
+            ALog.d("amelia","BPN with process eventID "+eventId+" crashed");
+        }
+    }
+ };
+3.1.5
+-Added feature to send custom attributes during a chat:
+ Map<String,String> customAttributes = new HashMap<>();
+ customAttributes.put("attr1","value");
+ ameliaChat.sendCustomConversationAttributes(customAttributes);
+
+-Fixed critical Amelia session validition bug
+
+3.1.4
+Changed OutboundFinalTextMessage to OutboundTextMessage
+Changed OutboundFinalReplayMessage to OutboundReplayFinishedMessage
+Fixed speechParam issue
+Added BpnExecutionEventMessage and callback in converastionListener
+Fixed file upload function. Added ResourceToRequest and added outboundRequestMessage.
+
+3.1.3
+Modified API to accomodate initial bpn variable:
+For anonymous login:
+    void startNewConversation(Map<String,String> initialAttributes,Map<String,String> initialBpnVariables);
+For authenticated login:
+    loginOptions.setInitialBpnVariables(Map<String,String> initialBpnVariables);
+Note: Both bpn variables and initial attributes are optional. For example, if only passing in initial attributes
+to start an anonymous chat:
+    ameliaChat.startNewConversation(attributeMap, null);
+
+-Fixed SSO cookie persistence issue.
+3.1.2
+API changes to pass in initial attributes when new conversation starts:
+
+Added new method startNewConversation with the initialAttributes as parameter:
+    void startNewConversation(Map<String,String> initialAttributes);
+Added setInitialAttributes in LoginOptions:
+     setInitialAttributes(Map<String,String> initialAttributes);
+
+3.1.1   (target Amelia Rest API: 3.2.4)
+-SSO changes:
+Updated SSO login Api for V3.
+
+-Auth system changes:
+Adapting to modified v3 auth system api
+
+-Forms and Integration API changes:
+added a new type of message: outboundFormInputMessage
+To receive the message, override method of BaseConversationListener:
+ @Override
+    public void outboundFormInputMessage(IAmeliaOutboundMessage ameliaOutboundMessage){
+}
+modifed form sending code to adapt to V3 API.
+
+3.1.0   (target Amelia Rest API: 3.2.1)
+-Added more amelia moods. Below are the entire set of Amelia moods:
+AMUSED,ANGRY,BEMUSED,CONFUSION,CONTEMPT,DISGUSTED,EXCITED,FEAR,HAPPY,HAPPY_SINCERE,JOY,NEUTRAL,POUT,
+SAD,SIMPLE_SMILE,SINCERE_SMILE,SMIRK_LEFT,SMIRK_RIGHT,SURPRISED
+
+-ameliaChat.setAllowAnonymous(boolean) has been removed. This is a server decision and should
+not be set on  client side.
+
+-added anonymous login. Using ameliaChat.newConversation() will start an anonymous chat.
+On the other hand, with ameliaChat.stepupLogin() will trigger logged required to be called.
+
+-Added initialize() method. This should be called at the start of the chat, when amelia settings
+has been changed, for example, the amelia server url was changed by user. The sdk will correspondly
+return ISessionInfo in sessionInitialized:
+    void sessionInitialized(ISessionInfo sessionInfo);
+ISessionInfo contains information about the server (i.e. whether anonymous is allowed)
+as well as the currently logged in user. Usually on session init, anonymous user is logged in
+ and returned in the User object of ISessionInfo.
+For examples of usages, please refer to the updated demo that comes with Amelia Android sdk v3.1.0.

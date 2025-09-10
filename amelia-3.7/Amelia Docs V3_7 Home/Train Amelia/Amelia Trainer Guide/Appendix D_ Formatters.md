@@ -1,0 +1,234 @@
+-   [Overview](#AppendixD:Formatters-Overview)
+-   [Supported Formatters](#AppendixD:Formatters-SupportedFormatters)
+-   [Accessing formatters](#AppendixD:Formatters-Accessingformatters)
+-   [Default Formatters per Datum Type](#AppendixD:Formatters-DefaultFormattersperDatumType)
+    -   [Simple Datum](#AppendixD:Formatters-SimpleDatum)
+    -   [Location Datum](#AppendixD:Formatters-LocationDatum)
+    -   [Unit Datum](#AppendixD:Formatters-UnitDatum)
+    -   [Simple Range Formatters](#AppendixD:Formatters-SimpleRangeFormatters)
+    -   [Unit Range Formatters](#AppendixD:Formatters-UnitRangeFormatters)
+-   [Simple Formatters](#AppendixD:Formatters-SimpleFormatters)
+-   [Location Formatters](#AppendixD:Formatters-LocationFormatters)
+-   [Unit Formatters](#AppendixD:Formatters-UnitFormatters)
+-   [Simple Range Formatters](#AppendixD:Formatters-SimpleRangeFormatters.1)
+-   [Unit Range Formatters](#AppendixD:Formatters-UnitRangeFormatters.1)
+# Overview
+This page lists and expands on the information regarding Formatters defined for formatting the datum values in [Appendix C: Datum Types](Appendix%20C_%20Datum%20Types).
+# Supported Formatters
+Following is a list of all the formatters that are supported with Amelia V3.
+
+| Simple Formatters | Location Formatters | Unit Formatters | Simple Range Formatters | Unit Range Formatters |
+| ----|----|----|----|----|
+| BOOLEANDATEDATE_IN_WORDSDATE_LONGDATE_MEDIUMDATE_SHORTDATE_TIME_12_HRDATE_TIME_24_HRDATE_TIME_IN_WORDS_12_HRDATE_TIME_IN_WORDS_24_HRDATE_TIME_LONG_12_HRDATE_TIME_LONG_24_HRDATE_TIME_MEDIUM_12_HRDATE_TIME_MEDIUM_24_HRDATE_TIME_SHORT_12_HRDATE_TIME_SHORT_24_HRDATE_TIME_WITH_TIME_ZONE_12_HRDATE_TIME_WITH_TIME_ZONE_24_HRDECIMALDECIMAL_IN_WORDSEMAILINTEGERINTEGER_IN_WORDSORDINALORDINAL_IN_WORDSORGANIZATIONPERSON_FULL_NAMEPERSON_FIRST_NAMEPERSON_LAST_NAMEUS_PHONE_NUMBERTEXTTIME_12HTIME_24H | AIRPORT_NAMEAIRPORT_CODECAPITALCOUNTRY_NAMECOUNTRY_CODEUS_CITYUS_COUNTYUS_STATE_NAMEUS_STATE_CODEUS_STREET_ADDRESSUS_ZIP_CODE | AGEAGE_IN_WORDSAREA_METRICAREA_IMPERIALAREA_METRIC_IN_WORDSAREA_IMPERIAL_IN_WORDSCURRENCYCURRENCY_IN_WORDSDURATIONDURATION_IN_WORDSLENGTH_METRICLENGTH_IMPERIALLENGTH_METRIC_IN_WORDSLENGTH_IMPERIAL_IN_WORDSPERCENTAGEPERCENTAGE_IN_WORDSSPEED_METRICSPEED_METRIC_IN_WORDSSPEED_IMPERIALSPEED_IMPERIAL_IN_WORDSTEMPERATURE_METRICTEMPERATURE_METRIC_IN_WORDSTEMPERATURE_IMPERIALTEMPERATURE_IMPERIAL_IN_WORDSVOLUME_METRICVOLUME_METRIC_IN_WORDSVOLUME_IMPERIALVOLUME_IMPERIAL_IN_WORDSWEIGHT_METRICWEIGHT_METRIC_IN_WORDSWEIGHT_IMPERIALWEIGHT_IMPERIAL_IN_WORDS | TIME_RANGE_12_HRTIME_RANGE_24_HRDATE_RANGEDATE_RANGE_IN_WORDSDATE_RANGE_LONGDATE_RANGE_MEDIUMDATE_RANGE_SHORTDATE_TIME_RANGE_12_HRDATE_TIME_RANGE_24_HRDATE_TIME_RANGE_IN_WORDS_12_HRDATE_TIME_RANGE_IN_WORDS_24_HRDATE_TIME_RANGE_LONG_12_HRDATE_TIME_RANGE_LONG_24_HRDATE_TIME_RANGE_MEDIUM_12_HRDATE_TIME_RANGE_MEDIUM_24_HRDATE_TIME_RANGE_SHORT_12_HRDATE_TIME_RANGE_SHORT_24_HRINTEGER_RANGEINTEGER_RANGE_IN_WORDSDECIMAL_RANGEDECIMAL_RANGE_IN_WORDSORDINAL_RANGEORDINAL_RANGE_IN_WORDS | AGE_RANGEAGE_RANGE_IN_WORDSAREA_RANGE_METRICAREA_RANGE_METRIC_IN_WORDSCURRENCY_RANGECURRENCY_RANGE_IN_WORDSDURATION_RANGEDURATION_RANGE_IN_WORDSLENGTH_RANGE_METRICLENGTH_RANGE_METRIC_IN_WORDSPERCENTAGE_RANGEPERCENTAGE_RANGE_IN_WORDSSPEED_RANGE_METRICSPEED_RANGE_METRIC_IN_WORDSTEMPERATURE_RANGE_METRICTEMPERATURE_RANGE_METRIC_IN_WORDSVOLUME_RANGE_METRICVOLUME_RANGE_METRIC_IN_WORDSWEIGHT_RANGE_METRICWEIGHT_RANGE_METRIC_IN_WORDSAREA_RANGE_IMPERIALAREA_RANGE_IMPERIAL_IN_WORDSLENGTH_RANGE_IMPERIALLENGTH_RANGE_IMPERIAL_IN_WORDSSPEED_RANGE_IMPERIALSPEED_RANGE_IMPERIAL_IN_WORDSTEMPERATURE_RANGE_IMPERIALTEMPERATURE_RANGE_IMPERIAL_IN_WORDSVOLUME_RANGE_IMPERIALVOLUME_RANGE_IMPERIAL_IN_WORDSWEIGHT_RANGE_IMPERIALWEIGHT_RANGE_IMPERIAL_IN_WORDS |
+
+# Accessing formatters
+One can access the formatters while writing scripts by using the BPN Quantity Service. See [Quantity Service](Quantity%20Service) in the BPN Guide for details.
+**Example**
+If the formatter is BOOLEAN, the formatter can be accessed as Formatters.BOOLEAN
+``` groovy
+def formattedValue = quantityService.normalizeAndFormat('12/12/2000', DatumType.DATE, Formatters.DATE_IN_WORDS)
+```
+# Default Formatters per Datum Type
+## Simple Datum
+
+| Datum Type Code | Default Formatter Code |
+| ----|----|
+| BOOLEAN | BOOLEAN |
+| DATE | DATE |
+| DATE_TIME | DATE_TIME_12_HR |
+| DECIMAL | DECIMAL |
+| EMAIL | EMAIL |
+| INTEGER | INTEGER |
+| ORDINAL | ORDINAL |
+| ORGANIZATION | ORGANIZATION |
+| PERSON | PERSON_FULL_NAME |
+| TEXT | TEXT |
+| TIME | TIME_12_HR |
+| US_PHONE_NUMBER | US_PHONE_NUMBER |
+
+## Location Datum
+
+| Datum Type Code | Default Formatter Code |
+| ----|----|
+| AIRPORT | AIRPORT_NAME |
+| CAPITAL | CAPITAL |
+| COUNTRY | COUNTRY_NAME |
+| US_CITY | US_CITY |
+| US_COUNTY | US_COUNTY |
+| US_STATE | US_STATE |
+| US_STREET_ADDRESS | US_STREET_ADDRESS |
+| US_ZIPCODE | US_ZIP_CODE |
+
+## Unit Datum
+
+| Datum Type Code | Default formatter Code |
+| ----|----|
+| AGE | AGE |
+| AREA | AREA_METRIC |
+| CURRENCY | CURRENCY |
+| DURATION | DURATION |
+| LENGTH | LENGTH_METRIC |
+| PERCENTAGE | PERCENTAGE |
+| SPEED | SPEED_METRIC |
+| TEMPERATURE | TEMPERATURE_METRIC |
+| VOLUME | VOLUME_METRIC |
+| WEIGHT | WEIGHT_METRIC |
+
+## Simple Range Formatters
+
+| Datum Type Code | Default Formatter Code |
+| ----|----|
+| DATE_RANGE | DATE_RANGE |
+| DATE_TIME_RANGE | DATE_TIME_RANGE_12_HR |
+| DECIMAL_RANGE | DECIMAL_RANGE |
+| INTEGER_RANGE | INTEGER_RANGE |
+| ORDINAL_RANGE | ORDINAL_RANGE |
+| TIME_RANGE | TIME_RANGE_12_HR |
+
+## Unit Range Formatters
+
+| Datum Type Code | Default Formatter Code |
+| ----|----|
+| AGE_RANGE | AGE_RANGE |
+| AREA_RANGE | AREA_RANGE_METRIC |
+| CURRENCY_RANGE | CURRENCY_RANGE |
+| DURATION_RANGE | DURATION_RANGE |
+| LENGTH_RANGE | LENGTH_RANGE_METRIC |
+| PERCENTAGE_RANGE | PERCENTAGE_RANGE |
+| SPEED_RANGE | SPEED_RANGE_METRIC |
+| TEMPERATURE_RANGE | TEMPERATURE_RANGE_METRIC |
+| VOLUME_RANGE | VOLUME_RANGE_METRIC |
+| WEIGHT_RANGE | WEIGHT_RANGE_METRIC |
+
+#  Simple Formatters
+
+| Formatter Code | Sample output |
+| ----|----|
+| BOOLEAN | true |
+| BOOLEAN | false |
+| BOOLEAN | false |
+| DATE | 10/10/2010 |
+| DATE_IN_WORDS | Saturday, December 01 2012 |
+| DATE_LONG | December 1, 2012 |
+| DATE_MEDIUM | Dec 1, 2012 |
+| DATE_SHORT | 03/30/12 |
+| DATE_TIME_12_HR | 12/12/1990 10:10:10 PM |
+| DATE_TIME_24_HR | 12/12/1990 22:10:10 |
+| DATE_TIME_IN_WORDS_12_HR | Wednesday, December 12 1990 10:10:10 PM |
+| DATE_TIME_IN_WORDS_24_HR | Wednesday, December 12 1990 22:10:10 |
+| DATE_TIME_LONG_12_HR | December 12, 1990 10:10:10 PM |
+| DATE_TIME_LONG_24_HR | December 12, 1990 22:10:10 |
+| DATE_TIME_MEDIUM_12_HR | Dec 12, 1990 10:10:10 PM |
+| DATE_TIME_MEDIUM_24_HR | Dec 12, 1990 22:10:10 |
+| DATE_TIME_SHORT_12_HR | 12/12/90 10:10:10 PM |
+| DATE_TIME_SHORT_24_HR | 12/12/90 22:10:10 |
+| DECIMAL | 10.25 |
+| DECIMAL_IN_WORDS | nine point four five |
+| EMAIL | test.email@ipsoft.com |
+| INTEGER | 10 |
+| INTEGER_IN_WORDS | Ten |
+| ORDINAL | 5th |
+| ORDINAL_IN_WORDS | fifth |
+| ORGANIZATION | IPsoft Inc. |
+| PERSON_FULL_NAME | John Doe |
+| PERSON_FIRST_NAME | John |
+| PERSON_LAST_NAME | Doe |
+| TEXT | IPsoft makes it possible to transform business performance through the employment of digital labor. |
+| TIME_12_HR | 10:10:10 PM |
+| TIME_24_HR | 22:10:10 |
+| US_PHONE_NUMBER | 212-708-5500 |
+
+# Location Formatters
+
+| Formatter Code | Output |
+| ----|----|
+| AIRPORT_NAME | Newark International Airport |
+| AIRPORT_CODE | EWR |
+| COUNTRY_NAME | United States of America |
+| COUNTRY_CODE | USA |
+| US_STATE_NAME | New York |
+| US_STATE_CODE | NY |
+| CAPITAL | London |
+| US_CITY | Boston |
+| US_COUNTY | Suffolk |
+| US_STREET_ADDRESS | 17 State Street |
+| US_ZIPCODE | 10004 |
+
+# Unit Formatters
+
+| Formatter Code | Output |
+| ----|----|
+| AGE | 10 years |
+| AGE_IN_WORDS | ten years |
+| AREA | 10 sq. m |
+| AREA_IN_WORDS | ten square meters |
+| CURRENCY | US$ 500 |
+| CURRENCY_IN_WORDS | US Dollar five hundred |
+| DURATION | 2 months |
+| DURATION_IN_WORDS | two months |
+| LENGTH | 10 cm |
+| LENGTH_IN_WORDS | ten centimeters |
+| PERCENTAGE | 50 % |
+| PERCENTAGE_IN_WORDS | fifty percentage |
+| SPEED | 65 km/hr |
+| SPEED_IN_WORDS | sixty-five kilometers per hour |
+| TEMPERATURE | 50 °C |
+| TEMPERATURE_IN_WORDS | fifty degree celsius |
+| VOLUME | 80 cu. km |
+| VOLUME_IN_WORDS | 80 cubic kilometers |
+| WEIGHT | 100 kg |
+| WEIGHT_IN_WORDS | 100 kilograms |
+
+# Simple Range Formatters
+
+| Formatter Code | Output |
+| ----|----|
+| TIME_RANGE_12_HR | from 02:00:00 AM to 05:00:00 PM |
+| TIME_RANGE_24_HR | from 2:00:00 to 17:00:00 |
+| DATE_RANGE | from 12/01/2012 to 12/31/2012 |
+| DATE_RANGE_IN_WORDS | from Saturday, December 01 2012 to Monday, December 31 2012 |
+| DATE_RANGE_LONG | from December 1, 2012 to December 31, 2012 |
+| DATE_RANGE_MEDIUM | from Dec 1, 2012 to Dec 31, 2012 |
+| DATE_RANGE_SHORT | from 12/01/12 to 12/20/12 |
+| DATE_TIME_RANGE_12_HR | from 10/10/2012 10:10:10 AM to 10/10/2012 10:10:10 PM |
+| DATE_TIME_RANGE_24_HR | from 10/10/2012 10:10:10 to 10/10/2012 22:10:10 |
+| DATE_TIME_RANGE_IN_WORDS_12_HR | from Wednesday, October 10 2012 10:10:10 AM to Wednesday, October 10 2012 10:10:10 PM |
+| DATE_TIME_RANGE_IN_WORDS_24_HR | from Wednesday, October 10 2012 10:10:10 to Wednesday, October 10 2012 22:10:10 |
+| DATE_TIME_RANGE_LONG_12_HR | from October 10, 2012 10:10:10 AM to October 10, 2012 10:10:10 PM |
+| DATE_TIME_RANGE_LONG_24_HR | from October 10, 2012 10:10:10 to October 10, 2012 22:10:10 |
+| DATE_TIME_RANGE_MEDIUM_12_HR | from Oct 10, 2012 10:10:10 AM to Oct 10, 2012 10:10:10 PM |
+| DATE_TIME_RANGE_MEDIUM_24_HR | from Oct 10, 2012 10:10:10 to Oct 10, 2012 22:10:10 |
+| DATE_TIME_RANGE_SHORT_12_HR | from 10/10/12 10:10:10 AM to 10/10/12 10:10:10 PM |
+| DATE_TIME_RANGE_SHORT_24_HR | from 10/10/12 10:10:10 to 10/10/12 22:10:10 |
+| INTEGER_RANGE | from 49 to 98 |
+| INTEGER_RANGE_IN_WORDS | from forty-nine to ninety-eight |
+| DECIMAL_RANGE | from 15.20 to 117.65 |
+| DECIMAL_RANGE_IN_WORDS | from forty-nine point six five to ninety-eight point eight nine |
+| ORDINAL_RANGE | from 5th to 9th |
+| ORDINAL_RANGE_IN_WORDS | from fifth to nineth |
+
+# Unit Range Formatters
+
+| Formatter Code | Output |
+| ----|----|
+| AGE_RANGE | from 10 years |
+| AGE_RANGE_IN_WORDS | from ten years |
+| AREA_RANGE | from 300 sq. m to 500 sq. m |
+| AREA_RANGE_IN_WORDS | from three hundred square meters to five hundred square meters |
+| CURRENCY_RANGE | from US$ 50 |
+| CURRENCY_RANGE_IN_WORDS | from US Dollar fifty |
+| DURATION_RANGE | to 10 years |
+| DURATION_RANGE_IN_WORDS | to ten years |
+| LENGTH_RANGE | from 30.60 km to 80.47 km |
+| LENGTH_RANGE_IN_WORDS | from thirty point six kilometers to eighty point four seven kilometers |
+| PERCENTAGE_RANGE | from 80 % to 90 % |
+| PERCENTAGE_RANGE_IN_WORDS | from 80 percentage to 90 percentage |
+| SPEED_RANGE | from 30.60 km/s to 50 m/s |
+| SPEED_RANGE_IN_WORDS | from thirty point six kilometers per second to fifty meters per second |
+| TEMPERATURE_RANGE | from 5 °C to 37.78 °C |
+| TEMPERATURE_RANGE_IN_WORDS | from five degree celsius to thirty seven point seven eight degree celsius |
+| VOLUME_RANGE | from 80.40 cu. cm to 100 cu. cm |
+| VOLUME_RANGE_IN_WORDS | from eighty point four cubic centimeters to one hundred cubic centimeters |
+| WEIGHT_RANGE | from 80.40 kg to 100 kg |
+| WEIGHT_RANGE_IN_WORDS | from eighty point four kilograms to one hundred kilograms |
+

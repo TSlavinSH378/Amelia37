@@ -1,0 +1,6 @@
+Amelia v3 SDK for IOS
+
+v3.1.2:
+Added support for forms and integration messages.
+Modifed logic for logging in with cookie
+

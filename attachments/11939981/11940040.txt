@@ -1,0 +1,35 @@
+Amelia SDK for Android
+3.1.1   (target Amelia Rest API: 3.2.4)
+-SSO changes:
+Updated SSO login Api for V3.
+
+-Auth system changes:
+Adapting to modified v3 auth system api
+
+-Forms and Integration API changes:
+added a new type of message: outboundFormInputMessage
+To receive the message, override method of BaseConversationListener:
+ @Override
+    public void outboundFormInputMessage(IAmeliaOutboundMessage ameliaOutboundMessage){
+}
+modifed form sending code to adapt to V3 API.
+
+3.1.0   (target Amelia Rest API: 3.2.1)
+-Added more amelia moods. Below are the entire set of Amelia moods:
+AMUSED,ANGRY,BEMUSED,CONFUSION,CONTEMPT,DISGUSTED,EXCITED,FEAR,HAPPY,HAPPY_SINCERE,JOY,NEUTRAL,POUT,
+SAD,SIMPLE_SMILE,SINCERE_SMILE,SMIRK_LEFT,SMIRK_RIGHT,SURPRISED
+
+-ameliaChat.setAllowAnonymous(boolean) has been removed. This is a server decision and should
+not be set on  client side.
+
+-added anonymous login. Using ameliaChat.newConversation() will start an anonymous chat.
+On the other hand, with ameliaChat.stepupLogin() will trigger logged required to be called.
+
+-Added initialize() method. This should be called at the start of the chat, when amelia settings
+has been changed, for example, the amelia server url was changed by user. The sdk will correspondly
+return ISessionInfo in sessionInitialized:
+    void sessionInitialized(ISessionInfo sessionInfo);
+ISessionInfo contains information about the server (i.e. whether anonymous is allowed)
+as well as the currently logged in user. Usually on session init, anonymous user is logged in
+ and returned in the User object of ISessionInfo.
+For examples of usages, please refer to the updated demo that comes with Amelia Android sdk v3.1.0.

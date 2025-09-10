@@ -1,0 +1,8 @@
+Amelia V3 has multiple modules which act in tandem to enrich customer conversation and engagement. The V3 interface includes these Amelia training modules, in the order they appear in the administration interface:
+-   **Semantic Memory** uploads curated raw data – for example, spreadsheets to train FAQs – which becomes a customized search engine index and results Amelia uses to respond to queries.
+-   Business Process Networks (BPNs) define Amelia's Process Memory, how she responds and directs conversations.
+-   **Episodic Memory** is a retrieval based dialog management system which contrasts with managing conversations with BPNs. A database of past conversations is converted to vectors. The current conversation acts as a model with its utterances also converted to vectors. Amelia compares vectors in the current conversation model with vectors from the past conversations and looks for similarities, choosing the most likely response.
+-   **Affective Memory** is essentially the V2 response pool functionality with AIML and related features added. This customizes Amelia's personality for basic responses, including key responses as part of her Emotional Quotient.
+-   Amelia Trainer is a way to create intents, entities, and annotated models for Amelia to use as she converses with customers. Instead of V2 lists of utterances tied to goal and FAQ IDs, the V3 Amelia Trainer lets users upload chat transcripts and other data then annotate the intents and goals within the data. Amelia then uses this information to create the conceptual model she uses to converse.
+Each of these modules are described in detail below:
+Affective Memory (Not Used)Analytic MemoryEpisodic MemorySemantic MemoryAmelia TrainerProcess Memory and BPNs

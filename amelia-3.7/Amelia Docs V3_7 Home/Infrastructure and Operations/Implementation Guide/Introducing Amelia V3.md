@@ -1,0 +1,91 @@
+-   [What’s New in Amelia V3](#IntroducingAmeliaV3-What’sNewinAmeliaV3)
+-   [What Amelia Can Do](#IntroducingAmeliaV3-WhatAmeliaCanDo)
+-   [How Amelia Learns](#IntroducingAmeliaV3-HowAmeliaLearns)
+-   [Features](#IntroducingAmeliaV3-Features)
+    -   [Conversational Intelligence](#IntroducingAmeliaV3-ConversationalIntelligence)
+    -   [Advanced Analytics](#IntroducingAmeliaV3-AdvancedAnalytics)
+    -   [Smart Workflow](#IntroducingAmeliaV3-SmartWorkflow)
+    -   [Experience Management](#IntroducingAmeliaV3-ExperienceManagement)
+    -   [Supervised & Automated Learning](#IntroducingAmeliaV3-Supervised&AutomatedLearning)
+-   [Modules](#IntroducingAmeliaV3-Modules)
+This guide describes the Amelia cognitive software system and provides instructions how to configure, review, and refine her responses as part of implementing an Amelia system.
+Amelia is a cognitive software agent who appears as a digital avatar who listens and interacts with people to solve problems. She reads natural language, understands context, applies logic, infers implications, learns through experience and senses emotions. She understands what is meant, not only what a person says. Amelia can take on a wide variety of rote business and engineering tasks.
+In the same way industrial machines transformed agriculture and manufacturing, Amelia and other cognitive technologies free humans from mundane support and monitoring work. Employees can focus instead on high value tasks and customer interactions. Amelia offers best practice support to ensure a high quality and consistent customer experience for these routine requests.
+Version 3 places Amelia in a league of her own. She is an integrated end-to-end AI platform to deconstruct and reconstruct work so humans and AI can collaborate and build superior customer experiences, new business models, and competitive differentiation.
+# What’s New in Amelia V3
+Amelia v3 is a step enhancement in cognitive capabilities of Amelia as an intelligent agent. Every aspect of Amelia v3 has been designed to drive superior customer experience, better Net Promotor Scores (NPS), and human-like intellect. The challenge for v3 design has been to emulate the smartest customer service agent and inculcate that brain into Amelia. Here are some of the enhancements that make v3.1 reach that Turing horizon:
+-   **Context switching – **Amelia v3 dynamic BPNs (DBPN) allows stochastic context switching to facilitate intelligent understanding of client requests and avoids the maze-trap that all decision tree systems are subject to. From a customer perspective, it allows for a flexible dialog and lucid experience, which is keenly tied to NPS scores.
+-   **Factual query handling – **new bi-directional attention flow (BiDAF) and entailment approach give Amelia v3 an ability to provide fast and accurate responses to fact-based queries.
+-   **Empirical learning – **ability to learn from all the interactions proceeding in the customer center and to be able to represent the cumulative intellect of the operators handling various queries through her Episodic Memory.
+-   **Semantic memory – **enhancements in Amelia v3’s semantic capabilities (through spread activation) allow her to absorb entire training manuals or standard operating procedures in one-shot feed into her semantic store, and give her the instant capability to answer any questions on the basis of what she has read.
+-   **Automated analytics – **Amelia v3 is the intelligent agent that continuously and automatically observes the correlation between business outcomes and the variables affecting the outcomes. She is able to do predictive analytics to identify opportunities for cross sell, upsell, or churn prevention proactively.
+-   **Ensemble learning and intelligent arbitration – **Amelia v3 benefits from taking the input from 8 modules. As opposed to single-threaded systems, she can provide knowledgeable answers that are 8-fold more powerful. At the core of her brain is the nexus which does arbitration and compilation based on the parallel output from various modules.
+-   **Superior EQ – **Amelia v3 has an improved sentimental analysis and better aligned EQ, mood and personality 3D vector to ensure she dynamically and accurately follows customer sentiment and is able to empathetically adjust delivery based on where the CSAT of the conversation is trending.
+-   **Multi-lingual capabilities – **are significantly enhanced in v3 with automatic detection and comprehension of over 30 languages. It makes Amelia the versatile employee that is fluent in all major languages of the world.
+-   **Facial recognition and authentication**: Amelia v3 offers facial recognition among other modes of authentication.
+-   **Automated learning** – when Amelia v3 does not understand an utterance, she automatically sends it to her auto-annotation framework, which assembles such misses, annotates them (seeking corrections if needed) and augments the deep neural network models to give her the capability that the next time a client says the same thing, Amelia will definitely be able to answer that.
+The net effect of all these major enhancements is a step jump in NPS and customer satisfaction (CSAT) scores.
+# What Amelia Can Do
+Amelia takes queries – for example, "Can I reset my password?" – then collects information to complete the task, including opening and closing tickets to track requests. If Amelia needs help, she escalates in-progress queries to human agents. Then she studies the escalation process and interactions to learn how to handle future requests.
+Once deployed, Amelia interacts four ways:
+![](attachments/11940369/11940370.png)
+Amelia’s primary skills are the ability to determine user intent, collect information, and then work through a process to address the user intent. Amelia's workflow process is determined through a mix of pre-defined and ad hoc methods, for example, the structured rules of Spoken Language Understanding and the dynamic evaluation of Deep Neural Networks (DNN), Spread Activation, and other algorithmic methods.
+# How Amelia Learns
+As she interacts with people, Amelia learns from a data set that includes operating procedures, chat transcripts, process workflows, and FAQs, as well as instructions through Business Process Networks (BPNs) and observing live escalations.
+![](attachments/11940369/11940371.png)
+# Features
+With version 3, Amelia has evolved substantially in conversational intelligence, analytics, workflow, and experience management. Multiple breakthroughs in Amelia’s cognitive capabilities have dramatically advanced her ability to converse with her human counterparts in a completely natural and context aware dialogue, in more than 40 languages.
+New analytical capabilities also allow her to enrich every user interaction with decisions based on real time data insights. She can dynamically navigate business process flows without having to follow a step-by-step process to achieve the desired outcome with her new smart workflow capabilities. Amelia is continuously aware of all aspects of the interaction with the users she is assisting. She also can start to manage the human SMEs she is escalating conversations to. 
+![](attachments/11940369/11940372.png)
+However, the biggest advancement rests in Amelia’s improvements around automated learning. She has vastly expanded her inventory of learning and self-learning tools throughout every single part of her system. This includes her ability answer questions by extracting knowledge from large documents and historical records.
+Amelia also automatically annotates new utterances and entire conversations, only requesting assistance when she encounters truly new information. She is fully loaded with multiple learning algorithms and will automatically evaluate the effectiveness of each algorithm and highlight areas where improvements are needed.
+These strengths make Amelia the only AI platform ready to excel – and continue to excel – in roles spanning the entire value chain for businesses and organizations.
+## Conversational Intelligence
+Amelia’s strongest point has been further improved; her conversational abilities have evolved into conversational intelligence. Amelia uses deep-learning and machine learning to even better understand what the end-user says and feels. 
+-   **Intelligent Understanding** – Amelia is better able than ever to understand what end-users say and mean. This leads to a much higher level of understanding and, therefore, a better user experience with less misunderstandings and minimal repetitive or clarifying questions. Her new multi-turn dialogue system, previously known as episodic memory, allows Amelia to recognize utterances and generate responses based on the best human conversations in her training set, in addition to the deep learning techniques to understand the end-user and find the best example conversations.  
+    Amelia also has a new Logic Memory to derive possession, roles, and more from user utterances in real time and stored in her memory as a conversation progresses. New logic rules can be derived by Amelia from analyzing dialogues. Customers also can add new industry or domain specific rules.
+    The FAQ functionality also has been strengthened. Amelia can now find answers by looking into knowledge articles that have been uploaded into her semantic memory.
+<!-- -->
+-   **Empathetic Response** – Amelia’s very unique EQ capabilities have been further enhanced to adapt the content of her responses and her expressions to create a truly personal experience for each customer. She has a new Artificial Intelligence Markup Language (AIML) which helps her to have informal (chit-chat) conversations. It also enables Amelia to access wiki-type knowledge and a calculation engine.Amelia’s updated avatar also expresses much more subtler emotions through dynamically steered “body language”, incorporating more life-like control over arms and hands. Her face is more human-like. Customers can adapt the avatar with clothing, hair style, and personal preferences to represent brand value such as favorite sports team or hobbies.  
+    Amelia’s updated avatar also expresses much more subtler emotions through dynamically steered “body language”, incorporating more life-like control over arms and hands. Her face is more human-like. Customers can adapt the avatar with clothing, hair style, and personal preferences to represent brand value such as favorite sports team or hobbies.
+<!-- -->
+-   **Multi-Channel Handling**– Multi-channel handling is another part of Amelia’s new conversational intelligence. Users can interact with Amelia through chat over web, mobile, apps, and social (Facebook). Amelia also has the ability to connect by voice with apps, collaboration tools (Skype, Slack), web, telephone, Amazon Echo, and Google Home.  Amelia can carry conversations between channels, for example, start a conversation on Facebook, then direct the customer to the corporate chat system where she has access to all the internal systems to better assist the customer.
+-   **Facial Recognition**– Amelia also can use facial recognition to begin new conversations with the full knowledge of a customer’s previous contact history.
+-   **Visually Enhanced Dialog**– As needed, conversations can include images, graphs, and text to keep people informed as their conversation continues, whether on the web or mobile devices.
+## Advanced Analytics
+The new Amelia includes a number of advanced analytics capabilities used not only to focus her interactions but also help her make decisions in real time.
+-   **Performance Analytics** – To drive continuous improvements, Amelia has new tools to measure her impact through interaction accuracy, escalations, and customer satisfaction (CSAT).  She can also identify improvement opportunities via deep dive analytics on improvement opportunities so cognitive engineers can more easily adapt to changes within the business environment.
+-   **Decision Intelligence** – New advanced modeling capabilities allow Amelia to take full advantage of vast amounts of data to drive improved decisions in real time. She can generate business intelligence from every interaction and combine that with data held in enterprise core systems. Amelia can leverage the analytics as part of the conversation or present analytic outcomes to customers and agents (assisted intelligence) to keep them informed and help them make better decisions. A few examples of analytic models Amelia can leverage are fraud, churn, next best offer, and pricing.
+-   **Data Visualization** – A new reporting and analytical framework enables customers and partners to deliver their own reporting and analytics. A standard reports library includes Amelia performance and human Agent performance reports.
+## Smart Workflow
+Amelia’s ability to automate and orchestrate end-to-end business processes intelligently have been supercharged with a new integration framework and machine learning within the BPN for human-like spread activation.
+-   **Dynamic Process Execution** – Through a new revolutionizing capability – spread activation – Amelia is the first AI to run a process and system integration flow the way humans do. Spread activation allows Amelia to mimic the human brain. She can dynamically navigate the business process flows without having to perform the step-by-step process to get to the desired outcome. Spread activation is enabled by trainable classifiers on the “edges” of the BPN. Toll-gates** **can be declared, for example, for data entry or identity validation. Amelia will never skip these steps.
+-   **Integration Hub** – Now Amelia has her very own integration framework allowing full flexibility to orchestrate and control external systems via APIs and Web services. This also allows Amelia to direct bots with Robot Process Automation (RPA) and control devices, such as printers and scanners or even manufacturing systems. Users and systems are kept up to date with messages by email and text.
+-   **UI Integration** – In a future release, Amelia will interact with other systems through screen scraping, scanners, and OCT \[TS1\] to retrieve needed information from systems not capable of APIs and receive data from front-end systems, so Amelia can be more easily incorporated into existing processes.
+## Experience Management
+With version 3, Amelia is more aware of conversations in real time. As a result, she can respond faster with greater accuracy. She can follow an end-to-end process when appropriate then switch to handle another type of request from the user then switch back to the process, or pick up a new process.
+-   **Contextual Awareness** – Amelia is constantly aware of every aspect of the conversation and backend integrations and, therefore, can respond more precisely and switch context based on any relevant input.
+-   **Continuous Arbitration** – Amelia’s backbone has been redesigned to allow all systems to be “always-on” allowing for a more dynamic interaction throughout the conversation, Quick context switching between modules, and optimal response by incorporating all knowable data available. The arbitrator detects multiple goals and clarifies which goal to fulfill first; the second goal is stored in memory and will be picked up afterwards
+-   **Human Agent Management** – Amelia can now proactively manage and optimize the end-to-end experience, including when interactions are escalated to human agents, by monitoring SLAs and actively notifying Agents. Amelia will also provide continuous updates to agents so they are aware of the current load and activities.
+## Supervised & Automated Learning
+Amelia has vastly expanded her inventory of learning and self-learning tools, including the ability to extract knowledge from large documents and historical records. Amelia also automatically annotates documents and conversations, only asking humans when she needs help.
+-   **Automated Training** – Uploaded documents become part of Amelia’s knowledge automatically, and she can now read much larger documents such as standard operating procedures, allowing her to answer questions or provide information within context in Assisted Intelligence scenarios. The new automated annotation framework can upload utterances and entire conversations. Amelia also will automatically suggest slots based on what she currently recognizes new ones can easily by added and trained.  Amelia has 4 models for intent classification and scores the quality and effectiveness of each model. She also provide tools to assess how to improve. I.e. two goals out of ten did not have enough utterances to provide accuracy.
+-   **Observational Learning** – This still remains one of the strongest learning methods for Amelia, allowing her to continuously adapt to changes to processes and procedures. In a future release, Amelia will be able to automatically consolidate multiple escalations based on machine learning.
+-   **Industry Solutions** – Amelia continues to become more knowledgeable and capable out-of-the-box via Industry specific semantic networks including ontologies and new logic rules. She will also have Pre-trained classifiers and out-of-the-box BPNs and analytical models to facilitate a quick return of investment across common use-cases.
+# Modules
+Amelia has a number of key modules for V3, as well as user interfaces, escalation, and learning from BPNs.
+-   Amelia Trainer annotation framework to train classifiers for intent and entities
+-   Process Memory to manage process flows with BPNs
+-   Semantic Network to upload single well-curated FAQs and manuals
+-   Episodic Memory
+-   Analytic Memory
+-   Humanization
+-   Integration Hub with Camel
+-   Logic Framework
+-   AIML (Artificial Intelligence Markup Language) for conversational chitchat
+-   Facial Recognition
+The rest of this guide describes how to make use of Amelia's many features.
+## Attachments:
+![](images/icons/bullet_blue.gif) [image2017-9-15_15-5-36.png](attachments/11940369/11940370.png) (image/png)  
+![](images/icons/bullet_blue.gif) [image2017-9-15_15-5-18.png](attachments/11940369/11940371.png) (image/png)  
+![](images/icons/bullet_blue.gif) [image2017-9-15_15-4-53.png](attachments/11940369/11940372.png) (image/png)  

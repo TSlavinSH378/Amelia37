@@ -1,0 +1,140 @@
+To output the versions of all software used by Amelia, run this command:
+``` groovy
+rpm -qa --queryformat '%{NAME}\t%{VERSION}-%{RELEASE}\n' | grep -iE 'amelia|redis|rabbitmq|haproxy|openssl|percona|jdk|py-bcrypt|netdata|erlang' | sort | column -t
+```
+This command will output a report similar to this example:
+``` groovy
+# /apps/IPsoft/bin/amelia-show-versions 
+amelia-account-service 3.4.14-19
+amelia-admin-service 3.4.14-19
+amelia-admin-web 3.4.14-19
+amelia-batch-service 3.4.14-19
+amelia-duckling-service 1.0.0-50
+amelia-engine-service 3.4.14-19
+amelia-escalation-service 3.4.14-19
+amelia-h2o 1.0.0-1
+amelia-integration-service 3.4.14-19
+amelia-model-server 3.4.14-19
+amelia-syntaxnet 1.0.0-3
+amelia-user-web 3.4.14-19
+erlang 19.2.3-1.el7.centos
+haproxy 1.7.8-1.el7
+jdk1.8 1.8.0_162-fcs
+netdata 1.10.0-1.el7
+openssl098e 0.9.8e-29.el7_2.3
+openssl 1.0.2k-12.el7
+openssl-devel 1.0.2k-12.el7
+openssl-libs 1.0.2k-12.el7
+percona-toolkit 3.0.10-1.el7
+percona-xtrabackup-24 2.4.12-1.el7
+Percona-XtraDB-Cluster-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-client-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-server-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-shared-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-shared-compat-57 5.7.22-29.26.1.el7
+py-bcrypt 0.4-4.el7
+pyOpenSSL 0.13.1-3.el7
+rabbitmq-server 3.6.15-1.el7
+redis 3.2.10-2.el7
+```
+Newer versions of Amelia installations also include Ansible. The entire cluster can be checked with this command:
+``` groovy
+ansible --inventory-file=/apps/IPsoft/artifacts/inventory '*,!localhost' -f 30 -m shell -a "amelia-show-versions"
+```
+This command will generate output similar to this example:
+``` groovy
+<amelia_instance_url> | SUCCESS | rc=0 >>
+amelia-account-service 3.4.14-19
+amelia-admin-service 3.4.14-19
+amelia-admin-web 3.4.14-19
+amelia-batch-service 3.4.14-19
+amelia-duckling-service 1.0.0-50
+amelia-engine-service 3.4.14-19
+amelia-escalation-service 3.4.14-19
+amelia-h2o 1.0.0-1
+amelia-integration-service 3.4.14-19
+amelia-model-server 3.4.14-19
+amelia-syntaxnet 1.0.0-3
+amelia-user-web 3.4.14-19
+erlang 19.2.3-1.el7.centos
+haproxy 1.7.8-1.el7
+jdk1.8 1.8.0_162-fcs
+netdata 1.10.0-1.el7
+openssl098e 0.9.8e-29.el7_2.3
+openssl 1.0.2k-12.el7
+openssl-libs 1.0.2k-12.el7
+percona-toolkit 3.0.10-1.el7
+percona-xtrabackup-24 2.4.12-1.el7
+Percona-XtraDB-Cluster-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-client-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-server-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-shared-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-shared-compat-57 5.7.22-29.26.1.el7
+py-bcrypt 0.4-4.el7
+pyOpenSSL 0.13.1-3.el7
+rabbitmq-server 3.6.15-1.el7
+redis 3.2.10-2.el7
+<amelia_instance_url> | SUCCESS | rc=0 >>
+amelia-account-service 3.4.14-19
+amelia-admin-service 3.4.14-19
+amelia-admin-web 3.4.14-19
+amelia-batch-service 3.4.14-19
+amelia-duckling-service 1.0.0-50
+amelia-engine-service 3.4.14-19
+amelia-escalation-service 3.4.14-19
+amelia-h2o 1.0.0-1
+amelia-integration-service 3.4.14-19
+amelia-model-server 3.4.14-19
+amelia-syntaxnet 1.0.0-3
+amelia-user-web 3.4.14-19
+erlang 19.2.3-1.el7.centos
+haproxy 1.7.8-1.el7
+jdk1.8 1.8.0_162-fcs
+netdata 1.10.0-1.el7
+openssl098e 0.9.8e-29.el7_2.3
+openssl 1.0.2k-12.el7
+openssl-libs 1.0.2k-12.el7
+percona-toolkit 3.0.10-1.el7
+percona-xtrabackup-24 2.4.12-1.el7
+Percona-XtraDB-Cluster-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-client-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-server-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-shared-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-shared-compat-57 5.7.22-29.26.1.el7
+py-bcrypt 0.4-4.el7
+pyOpenSSL 0.13.1-3.el7
+rabbitmq-server 3.6.15-1.el7
+redis 3.2.10-2.el7
+<amelia_instance_url> | SUCCESS | rc=0 >>
+amelia-account-service 3.4.14-19
+amelia-admin-service 3.4.14-19
+amelia-admin-web 3.4.14-19
+amelia-batch-service 3.4.14-19
+amelia-duckling-service 1.0.0-50
+amelia-engine-service 3.4.14-19
+amelia-escalation-service 3.4.14-19
+amelia-h2o 1.0.0-1
+amelia-integration-service 3.4.14-19
+amelia-model-server 3.4.14-19
+amelia-syntaxnet 1.0.0-3
+amelia-user-web 3.4.14-19
+erlang 19.2.3-1.el7.centos
+haproxy 1.7.8-1.el7
+jdk1.8 1.8.0_162-fcs
+netdata 1.10.0-1.el7
+openssl098e 0.9.8e-29.el7_2.3
+openssl 1.0.2k-12.el7
+openssl-devel 1.0.2k-12.el7
+openssl-libs 1.0.2k-12.el7
+percona-toolkit 3.0.10-1.el7
+percona-xtrabackup-24 2.4.12-1.el7
+Percona-XtraDB-Cluster-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-client-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-server-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-shared-57 5.7.22-29.26.1.el7
+Percona-XtraDB-Cluster-shared-compat-57 5.7.22-29.26.1.el7
+py-bcrypt 0.4-4.el7
+pyOpenSSL 0.13.1-3.el7
+rabbitmq-server 3.6.15-1.el7
+redis 3.2.10-2.el7
+```
