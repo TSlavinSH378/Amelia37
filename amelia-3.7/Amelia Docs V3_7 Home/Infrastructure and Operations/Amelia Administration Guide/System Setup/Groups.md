@@ -1,6 +1,3 @@
--   [The Groups Interface](#Groups-TheGroupsInterface)
--   [Create and Update Groups](#Groups-CreateandUpdateGroups)
--   [Delete a Group](#Groups-DeleteaGroup)
 Groups organize a set of users, roles, and authorities within a specific domain. For example, groups collect many users and one or more roles and authorities. Membership in a group shares with many users role access rights and authorities needed to perform specific tasks. While users can be added to groups, they cannot be added to roles. Groups also are designated at the domain level, not global.
 More information about groups is found in the [User Groups](https://docs.ipsoft.com/display/AmeliaDocsV3/Access+and+Permissions#AccessandPermissions-UserGroupDefs) and [Authorities](https://docs.ipsoft.com/display/AmeliaDocsV3/Access+and+Permissions#AccessandPermissions-AuthorityDefs) parts of the [Access and Permissions](https://docs.ipsoft.com/display/AmeliaDocsV3/Access+and+Permissions) section.
 ## The Groups Interface

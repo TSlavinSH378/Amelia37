@@ -1,10 +1,3 @@
--   [Modifying AIML Files](#AIMLDocuments-ModifyingAIMLFiles)
--   [AIML File Structure](#AIMLDocuments-AIMLFileStructure)
-    -   [Category](#AIMLDocuments-Category)
-    -   [Pattern](#AIMLDocuments-Pattern)
-    -   [Template](#AIMLDocuments-Template)
--   [Editing AIML Files](#AIMLDocuments-EditingAIMLFiles)
--   [More Resources about AIML](#AIMLDocuments-MoreResourcesaboutAIML)
 Amelia uses Artificial Intelligence Markup Language (AIML) files to chit chat with people, for example, if someone asks Amelia about her favorite movie. The chit chat sub system module responds when no higher priority module is triggered by an utterance.
 The chit chat module primarily uses AIML to respond but in rare cases also uses a Semantic Role Labelling (SRL) module. When chit chat is triggered, Amelia's Debug mode displays *AIML* in the Sub Systems tab of the Subsystem Responses page for a given utterance.
 ![](attachments/11939692/11939693.jpg)

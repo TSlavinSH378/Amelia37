@@ -1,5 +1,3 @@
--   [BPN Model Types](#TypesofBPNModels-BPNModelTypes)
--   [BPN Model Properties](#TypesofBPNModels-BPNModelProperties)
 The first step creating a BPN involves the choice of BPN model type. There are three different types with Amelia V3, each with their own positives and negatives.
 # BPN Model Types
 There are several possible types of BPN models.

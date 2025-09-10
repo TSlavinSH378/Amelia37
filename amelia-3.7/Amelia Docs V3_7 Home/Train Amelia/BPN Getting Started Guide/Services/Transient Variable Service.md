@@ -1,11 +1,3 @@
--   [Methods](#TransientVariableService-Methods)
-    -   [hasVariable](#TransientVariableService-hasVariable)
-    -   [addVariable](#TransientVariableService-addVariable)
-    -   [addVariables](#TransientVariableService-addVariables)
-    -   [getVariable](#TransientVariableService-getVariable)
-    -   [getVariables](#TransientVariableService-getVariables)
-    -   [clearVariables](#TransientVariableService-clearVariables)
-    -   [clearVariables](#TransientVariableService-clearVariables.1)
 This service allows for the creation and recovery of transient variables. It provides a separate scope for variables longer than 64kB. Such scope is accessible from script tasks via TransientVariableService.
 The following operations are available from TransientVariableService. Transient variables are accessible across all processes executed during a conversation, and removed once the conversation is closed (by the user or due to timeout).
 # Methods

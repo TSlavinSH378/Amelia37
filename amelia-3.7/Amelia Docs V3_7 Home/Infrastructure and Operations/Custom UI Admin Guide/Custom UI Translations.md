@@ -1,5 +1,3 @@
--   [Update Translated Properties](#CustomUITranslations-UpdateTranslatedProperties)
--   [Default Translated Properties](#CustomUITranslations-DefaultTranslatedProperties)
 Amelia's Custom UI includes a default set of translated bits of text that cannot be changed, for example, text for `login` in Spanish set to `Iniciar Sesión` and `logout` in Spanish is set to `Cerrar Sesión` by default. One or more of these properties can be set to a different value with the `customTranslation` property in the config.json file.
 While translations of conversations display the language set for the Amelia domain, the languages used in the user interface are English (en), Spanish (es), Dutch (nl), German (de), Swedish (se), Japanese (ja), Norwegian (no), Danish (da), and French (fr).
 # Update Translated Properties

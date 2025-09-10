@@ -1,6 +1,3 @@
--   [Amelia Boot Secret](#AmeliaV3Encryption-AmeliaBootSecret)
--   [Application Properties](#AmeliaV3Encryption-ApplicationProperties)
--   [Amelia Keystore and Data Encryption](#AmeliaV3Encryption-AmeliaKeystoreandDataEncryption)
 Amelia uses encryption throughout the software application. A boot secret is used to seed all encryption activities, including decrypt application properties used for encryption. Additionally, for questions that require user input of sensitive data, a BPN Ask task can be set up for “Secure user input.” Users responses will be replaced by dots and Amelia’s interactions also mask their response.
 All communication between Amelia components including RabbitMQ and Redis use TLS 1.2 encrypted communication channels. Amelia and user utterances are sent encrypted to the database.
 # Amelia Boot Secret

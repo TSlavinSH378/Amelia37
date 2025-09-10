@@ -1,5 +1,3 @@
--   [The Authentication Policy Interface](#AuthenticationPolicies-TheAuthenticationPolicyInterface)
--   [Create and Update an Authentication Policy](#AuthenticationPolicies-CreateandUpdateanAuthenticationPolicy)
 Domains and users in Amelia are associated with an authentication policy. The [Authentication Policy](https://docs.ipsoft.com/display/AmeliaDocsV3/Access+and+Permissions#AccessandPermissions-AuthPolicies) part of the [Access and Permissions](https://docs.ipsoft.com/display/AmeliaDocsV3/Access+and+Permissions) page has more technical details.
 ## The Authentication Policy Interface
 To edit or add an authentication policy, log in to Amelia's administration pages and select System Settings then Authentication Policies from the left side navigation links. The Authentication Policies workspace appears with a New Authentication Policy button at the top right.

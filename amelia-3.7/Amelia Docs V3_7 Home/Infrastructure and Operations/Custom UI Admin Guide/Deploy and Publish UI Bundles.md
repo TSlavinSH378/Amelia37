@@ -1,8 +1,3 @@
--   [Import the Configurator BPN](#DeployandPublishUIBundles-ImporttheConfiguratorBPN)
--   [UI Bundles Workspace](#DeployandPublishUIBundles-UIBundlesWorkspace)
--   [Assign Edit Capability](#DeployandPublishUIBundles-AssignEditCapabilityManageUIBundles)
--   [Create a New UI Bundle](#DeployandPublishUIBundles-CreateaNewUIBundle)
--   [Deploy and Publish a UI Bundle](#DeployandPublishUIBundles-DeployandPublishaUIBundle)
 Amelia V3 has two interfaces available to chat with people. The traditional chat interface includes an avatar and, in some cases, the ability to see details about the BPN process, affective memory, and other factors she uses to respond in conversations. There's also a custom user interface that allows Amelia to present data collected during a conversation, for example, to build an insurance quote. Both interfaces allow images, buttons, and other types of interactive content to appear in the conversation flow.
 The Amelia V3 administration pages include the ability to deploy custom user interfaces (UIs) for a variety of situations, for example, different Amelia environments for different products and services. User interfaces are configured as bundles then uploaded and deployed in Amelia instances.
 UI bundles can be deployed by customers as well as IPsoft technical staff. Configuring UI bundles is done by IPsoft staff in consultation with clients.

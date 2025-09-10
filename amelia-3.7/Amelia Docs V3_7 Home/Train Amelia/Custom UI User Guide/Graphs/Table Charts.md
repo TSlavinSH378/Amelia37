@@ -1,7 +1,3 @@
--   [Chat Log Tables](#TableCharts-ChatLogTables)
-    -   [Basic Version](#TableCharts-BasicVersion)
-    -   [Popup Version](#TableCharts-PopupVersion)
--   [Chat Notes Table](#TableCharts-ChatNotesTable)
 > [!info]  
 >
 > Table charts can appear in either the chat log or a chat note.

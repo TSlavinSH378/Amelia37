@@ -1,14 +1,3 @@
--   [How much of the Custom UI is accessible?](#AmeliaandAccessibilty-HowmuchoftheCustomUIisaccessible?)
--   [Testing](#AmeliaandAccessibilty-Testing)
--   [Screen Reader](#AmeliaandAccessibilty-ScreenReader)
--   [Keyboard accessibility](#AmeliaandAccessibilty-Keyboardaccessibility)
--   [Development aspects](#AmeliaandAccessibilty-Developmentaspects)
-    -   [Focusable elements](#AmeliaandAccessibilty-Focusableelements)
-    -   [Clicking elements](#AmeliaandAccessibilty-Clickingelements)
-    -   [ARIA](#AmeliaandAccessibilty-ARIA)
-    -   [Roles](#AmeliaandAccessibilty-Roles)
-    -   [Screen reader messages](#AmeliaandAccessibilty-Screenreadermessages)
-    -   [Blue Focus Rings](#AmeliaandAccessibilty-BlueFocusRings)
 Please note that this page applies to the web interfaces customers use to interact with Amelia, also called the custom UI. Accessibility is available with the Custom UI 5.6.0+ releases. Other less actively used pages are not currently designed for widespread accessibility, for example, the administration pages used to define Amelia as well as the 3D Mind interface which shows which parts of Amelia respond within a conversation.
 People with disabilities need access to the same technology as everyone else. Web accessibility ensures that people with physical and non-physical disabilities have equal access to the web.
 # How much of the Custom UI is accessible?

@@ -1,6 +1,3 @@
--   [Files / Directories](#FilestoBackUp-Files/Directories)
--   [Database Backups](#FilestoBackUp-DatabaseBackups)
--   [Adding Other Databases](#FilestoBackUp-AddingOtherDatabases)
 For completeness and disaster recovery best practices, the following files / directories are candidates for backup.  The target use-case is standing up a new fresh install of an Amelia host to replace an unrecoverable one, restoring both the original's configuration and data.
 > [!info]  
 >

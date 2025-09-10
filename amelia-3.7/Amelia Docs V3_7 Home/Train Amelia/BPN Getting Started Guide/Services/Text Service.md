@@ -1,9 +1,3 @@
--   [Methods](#TextService-Methods)
-    -   [searchExact](#TextService-searchExact)
-    -   [bestExactMatch](#TextService-bestExactMatch)
-    -   [searchFuzzy](#TextService-searchFuzzy)
-    -   [bestFuzzyMatch](#TextService-bestFuzzyMatch)
-    -   [searchSemantic](#TextService-searchSemantic)
 The text service provides manipulation, search, and matching operations for BPN Script tasks and libraries.
 # Methods
 ## searchExact

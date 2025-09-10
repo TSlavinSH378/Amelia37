@@ -1,10 +1,3 @@
--   [Create a New UI Bundle](#DesignwithConfigurator-CreateaNewUIBundle)
-    -   [Import the Configurator BPN](#DesignwithConfigurator-ImporttheConfiguratorBPN)
-    -   [UI Bundles Workspace](#DesignwithConfigurator-UIBundlesWorkspace)
-    -   [Assign Edit Capability](#DesignwithConfigurator-AssignEditCapabilityManageUIBundles)
-    -   [Create a New UI Bundle](#DesignwithConfigurator-CreateaNewUIBundle.1)
-    -   [Deploy and Publish a UI Bundle](#DesignwithConfigurator-DeployandPublishaUIBundle)
--   [The Configurator Chat Note Panel](#DesignwithConfigurator-TheConfiguratorChatNotePanel)
 The Configurator provides a user interface to design, manage, and deploy the Custom UI. The Configurator interface updates a UI bundle when saved.
 # Create a New UI Bundle
 Amelia V3 has two interfaces available to chat with people. The traditional chat interface includes an avatar and, in some cases, the ability to see details about the BPN process, affective memory, and other factors she uses to respond in conversations. There's also a custom user interface that allows Amelia to present data collected during a conversation, for example, to build an insurance quote. Both interfaces allow images, buttons, and other types of interactive content to appear in the conversation flow.

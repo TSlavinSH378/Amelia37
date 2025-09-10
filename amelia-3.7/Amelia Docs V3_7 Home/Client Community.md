@@ -1,17 +1,3 @@
--   [November 2, 2021: Building Prototypes with Amelia's Digital Employee Builder](#ClientCommunity-November2,2021:BuildingPrototypeswithAmelia'sDigitalEmployeeBuilder)
--   [August 3, 2021: Conversational Design Principles and Strategies](#ClientCommunity-August3,2021:ConversationalDesignPrinciplesandStrategies)
--   [April 22, 2021: A deep dive on recent Amelia enhancements](#ClientCommunity-April22,2021:AdeepdiveonrecentAmeliaenhancements)
--   [March 9, 2021: Update on Amelia Developer Tools](#ClientCommunity-March9,2021:UpdateonAmeliaDeveloperTools)
--   [October 27th, 2020: Update on Amelia v4.2/4.3 New Features](#ClientCommunity-October27th,2020:UpdateonAmeliav4.2/4.3NewFeatures)
--   [July 21, 2020: V4 BPN Implementation Best Practices](#ClientCommunity-July21,2020:V4BPNImplementationBestPractices)
--   [May 5, 2020: Working with IPsoft Support and Dev/Ops Teams](#ClientCommunity-May5,2020:WorkingwithIPsoftSupportandDev/OpsTeams)
--   [April 7, 2020: Enhance Customer Experiences](#ClientCommunity-April7,2020:EnhanceCustomerExperiences)
--   [March 3, 2020: Amelia 4.0](#ClientCommunity-March3,2020:Amelia4.0)
--   [February 4, 2020: Amelia 4.0](#ClientCommunity-February4,2020:Amelia4.0)
--   [January 7, 2020: Amelia Developer Tools](#ClientCommunity-January7,2020:AmeliaDeveloperTools)
--   [November 5, 2019: Co-Pilot Update](#ClientCommunity-November5,2019:Co-PilotUpdate)
--   [October 1, 2019: Analytics and Reporting for Amelia](#ClientCommunity-October1,2019:AnalyticsandReportingforAmelia)
--   [September 10, 2019: Best Practices for Amelia Utterances and Domain Strategy](#ClientCommunity-September10,2019:BestPracticesforAmeliaUtterancesandDomainStrategy)
 The Amelia Customer Community (ACC) was created to give IPsoft clients the opportunity to learn from one another and provide feedback for future product development. Members get exclusive information about Amelia product developments and updates, the opportunity to learn from their peers, and network with like-minded industry professionals.
 The Community holds monthly, customer-only calls, an annual in-person meeting before IPsoft’s Digital Workforce Summit in the spring, and a monthly webinar series on topics chosen by Community members. If you are interested in joining, please email <acc@ipsoft.com.>
 # November 2, 2021: Building Prototypes with Amelia's Digital Employee Builder

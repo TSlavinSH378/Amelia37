@@ -1,8 +1,3 @@
--   [CPU](#Benchmarkwithsysbench-CPU)
--   [File IO](#Benchmarkwithsysbench-FileIO)
--   [MySQL](#Benchmarkwithsysbench-MySQL)
--   [Socket Test](#Benchmarkwithsysbench-SocketTest)
--   [HAproxy test](#Benchmarkwithsysbench-HAproxytest)
 Amelia includes [sysbench](https://github.com/akopytov/sysbench) to benchmark technical performance.
 # CPU
 To benchmark CPU performance, run this command:

@@ -1,8 +1,3 @@
--   [CSP Headers for PDFs](#PresentAssetsinCustomUI-CSPHeadersforPDFs)
--   [Download and Preview Icons](#PresentAssetsinCustomUI-DownloadandPreviewIcons)
--   [Display Options](#PresentAssetsinCustomUI-DisplayOptions)
-    -   [Previews](#PresentAssetsinCustomUI-Previews)
-    -   [Overlays](#PresentAssetsinCustomUI-Overlays)
 The custom user interface provides a series of options when video, documents, and other media when a BPN Present Task presents media within the conversation flow. 
 # CSP Headers for PDFs
 For PDF files to be previewed, the CSP headers should be updated then deployed with the UI Bundles editor in Amelia's administration pages. Add the resource `https://cdnjs.cloudflare.com` as either the `default-src` or `script-src`. And `blob:` should be added to `connect-src`.

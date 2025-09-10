@@ -1,6 +1,3 @@
--   [Flow Design Workspace](#IntegrationWorkspaces-FlowDesignWorkspace)
--   [Assets Workspace](#IntegrationWorkspaces-AssetsWorkspace)
--   [Properties Workspace](#IntegrationWorkspaces-PropertiesWorkspace)
 Amelia's integration service runs separately from Amelia, possibly located on another host or hosts, and allows her to interact with external systems. Integration flows are Apache Camel contexts created with Amelia V3 administration tools and deployed to these remote processes with gRPC, a universal remote procedure call standard.
 The integration service unpacks the data received from an external system and deploys it in a Spring application separate from the parent context and any other flows running on the service. The integration service relies on Spring integration to handle RPC-style calls over RabbitMQ message broker and then internally hands off to Apache Camel to execute a request.
 > [!warning]  

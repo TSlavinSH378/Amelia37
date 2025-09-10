@@ -1,7 +1,3 @@
--   [Tasks Linguists Can Help With](#CreatingConversations-TasksLinguistsCanHelpWith)
--   [Qualities of a Good Conversation](#CreatingConversations-QualitiesofaGoodConversation)
-    -   [Best Practices to Work with Customers](#CreatingConversations-BestPracticestoWorkwithCustomers)
-    -   [Best Practices for Amelia's Language](#CreatingConversations-BestPracticesforAmelia'sLanguage)
 The ability to converse with humans using natural language is Amelia's greatest strength. However, this is not easy to accomplish. In the same way people would notice and become annoyed if a person talked to us as if they were filling out a form, conversations with Amelia need to include basic human elements.
 For example, all conversations have check-in points where we confirm what we've heard or correct what someone thinks we've said. Amelia's conversations follow a straight path but they also need check-in points and other features.
 With the latest version of Amelia, this is especially important as Amelia now can jump from process to process based on conversation flow with the ability to return to the person's primary goal process. The process to configure Amelia must identify opportunities to make her conversation natural, as well as help create the shortest path to meet the person's needs. This will impact BPN Ask and Say lemmas, in particular, but also configuration of her humanization features.

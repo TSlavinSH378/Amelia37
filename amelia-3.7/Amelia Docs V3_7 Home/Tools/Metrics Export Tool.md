@@ -1,9 +1,3 @@
--   [Intended Audience](#MetricsExportTool-IntendedAudience)
--   [Required Authorities](#MetricsExportTool-RequiredAuthorities)
--   [Usage](#MetricsExportTool-Usage)
--   [Output](#MetricsExportTool-Output)
--   [Data Dictionary](#MetricsExportTool-DataDictionary)
--   [Download](#MetricsExportTool-Download)
 > [!info]  
 >
 > [Conductor Engine CLI](Conductor) is the next generation of this tool. Consider using Conductor instead unless there is a legacy reason to use this tool.

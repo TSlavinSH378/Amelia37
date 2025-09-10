@@ -1,6 +1,3 @@
--   [Managing Log Files](#LogFileSOPs-ManagingLogFiles)
--   [Location of Common Log Files](#LogFileSOPs-LocationofCommonLogFiles)
--   [Files for amelia-engine, amelia-admin-web, and amelia-user-web](#LogFileSOPs-Filesforamelia-engine,amelia-admin-web,andamelia-user-web)
 ## Managing Log Files
 Common log files and and log files for amelia-engine, amelia-admin-web, and amelia-user-web can be used to extract data.
 ## Location of Common Log Files

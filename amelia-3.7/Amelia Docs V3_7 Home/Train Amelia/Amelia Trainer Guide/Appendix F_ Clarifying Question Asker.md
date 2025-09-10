@@ -1,6 +1,3 @@
--   [Train the Intent Model](#AppendixF:ClarifyingQuestionAsker-TraintheIntentModel)
--   [Check Discriminative Phrases](#AppendixF:ClarifyingQuestionAsker-CheckDiscriminativePhrases)
--   [Configure Dashboard CQA Parameters](#AppendixF:ClarifyingQuestionAsker-ConfigureDashboardCQAParameters)
 The Clarifying Question Asker (CQA) module asks a clarifying question when Amelia evaluates a user utterance, compares the utterance to two intents, and finds ambiguity with the user utterance and the two intents. The clarifying questions helps Amelia decide which intent is satisfied by the utterance. The module also can ask clarifying questions to determine which domain should respond to an utterance.
 For example, for an intent to open a savings account and another to open a checking account, a user utterance, “I want to open an account” would lead Amelia to ask a clarifying question, “What type of account do you want to open?” or "Do you want to open a savings account or checking account?" In the latter question, one domain might be configured to handle savings account interactions while another domain is used for checking account interactions.
 The clarifying question is defined and enabled in the intent training process.

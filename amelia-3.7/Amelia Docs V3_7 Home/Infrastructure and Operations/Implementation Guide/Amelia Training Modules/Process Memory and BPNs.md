@@ -1,12 +1,3 @@
--   [Process Memory Workspace](#ProcessMemoryandBPNs-ProcessMemoryWorkspace)
--   [BPN Model Types](#ProcessMemoryandBPNs-BPNModelTypes)
--   [Create a Basic BPN](#ProcessMemoryandBPNs-CreateaBasicBPN)
-    -   [Define the BPN](#ProcessMemoryandBPNs-DefinetheBPN)
-    -   [Build the BPN](#ProcessMemoryandBPNs-BuildtheBPN)
-    -   [Interact with Amelia](#ProcessMemoryandBPNs-InteractwithAmelia)
--   [Edge Notation](#ProcessMemoryandBPNs-EdgeNotation)
--   [Precondition Tasks](#ProcessMemoryandBPNs-PreconditionTasks)
--   [Links](#ProcessMemoryandBPNs-Links)
 With Amelia V3, the use of Business Process Networks (BPNs) to manage conversations has been refined.
 -   A new edge notation (service prefixes) for transitions specifies conditions with less complexity and code
 -   Additional property settings for Ask tasks, for example, choice display behavior and subsequent ask behavior

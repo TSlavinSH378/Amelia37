@@ -1,13 +1,3 @@
--   [Capture Analytics Data](#CustomJS-CaptureAnalyticsData)
-    -   [External Script to Process Data](#CustomJS-ExternalScripttoProcessData)
-    -   [No External Script to Process Data](#CustomJS-NoExternalScripttoProcessData)
-    -   [Example to Collect Clicked Links](#CustomJS-ExampletoCollectClickedLinks)
--   [Add Text to Speech (TTS)](#CustomJS-AddTexttoSpeech(TTS))
-    -   [Set Value for customJS property](#CustomJS-SetValueforcustomJSproperty)
-    -   [Example TTS Configuration](#CustomJS-ExampleTTSConfiguration)
--   [Change Chat Log Background Image](#CustomJS-ChangeChatLogBackgroundImage)
--   [Change Chat Notes Button Colors](#CustomJS-ChangeChatNotesButtonColors)
--   [Combine Chat Log Background and Button Colors](#CustomJS-CombineChatLogBackgroundandButtonColors)
 > [!warning]  
 >
 > Use of CustomJS is the responsibility of our clients to implement, test, and maintain. IPsoft is happy to help guide our clients, provide examples, and so on. But clients assume responsibility for use of CustomJS features.

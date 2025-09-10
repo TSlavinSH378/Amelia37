@@ -1,15 +1,3 @@
--   [Adding this Component as an Asset](#CamelHTTP4ComponentIntegrationExample-AddingthisComponentasanAsset)
--   [Creating a Camel Flow using this Component](#CamelHTTP4ComponentIntegrationExample-CreatingaCamelFlowusingthisComponent)
--   [Making HTTP Requests using this Component](#CamelHTTP4ComponentIntegrationExample-MakingHTTPRequestsusingthisComponent)
-    -   [General Steps](#CamelHTTP4ComponentIntegrationExample-GeneralSteps)
-    -   [Example: Telling Chuck Norris Jokes](#CamelHTTP4ComponentIntegrationExample-Example:TellingChuckNorrisJokes)
-        -   [Add this Component as an Asset](#CamelHTTP4ComponentIntegrationExample-AddthisComponentasanAsset)
-        -   [Create a Camel Flow using this Component to Get a Joke](#CamelHTTP4ComponentIntegrationExample-CreateaCamelFlowusingthisComponenttoGetaJoke)
-        -   [Create a BPN to Request a Joke and Tell It](#CamelHTTP4ComponentIntegrationExample-CreateaBPNtoRequestaJokeandTellIt)
--   [Reference Guide](#CamelHTTP4ComponentIntegrationExample-ReferenceGuide)
-    -   [HTTP Request Structure](#CamelHTTP4ComponentIntegrationExample-HTTPRequestStructure)
-    -   [HTTP Response Structure](#CamelHTTP4ComponentIntegrationExample-HTTPResponseStructure)
-    -   [Camel Context](#CamelHTTP4ComponentIntegrationExample-CamelContext)
 The Amelia Camel HTTP4 Component is a drop-in replacement for the standard [Camel HTTP4 component](http://camel.apache.org/http4.html), providing conveniences for making HTTP requests from Amelia via Camel in a standardized manner in an effort to significantly reduce boilerplate code both within Amelia as well as within Camel.
 Using this component for making requests to any HTTP server through Camel is straightforward. The general steps for doing so are as follows, and are described in detail farther below:
 1.  Add this component as an asset in the Amelia Integration Framework.

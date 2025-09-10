@@ -1,8 +1,3 @@
--   [Validating When Certificates Expire](#ReplaceIPsoftSelfSignedCertificates-ValidatingWhenCertificatesExpire)
-    -   [Hosts Running HAproxy](#ReplaceIPsoftSelfSignedCertificates-HostsRunningHAproxy)
-    -   [Shared and Pod Hosts](#ReplaceIPsoftSelfSignedCertificates-SharedandPodHosts)
--   [Running Ansible Playbook To Upgrade Certificates](#ReplaceIPsoftSelfSignedCertificates-RunningAnsiblePlaybookToUpgradeCertificates)
--   [Syntaxnet Certificates](#ReplaceIPsoftSelfSignedCertificates-SyntaxnetCertificates)
 IPsoft's 1-click Amelia installer provides self-signed certificates for Amelia V3's HAProxy and Duckling services.  These certs are set to expire at 23:59:59 on September 8th, 2019.  Use the documented playbook to change the certificate to expire on May 19, 2036.  
 The Ansible playbook listed below is also available at this Artifactory URL: <https://artifactory.ipsoft.com:443/artifactory/amelia-v3-install/replace-cert-for-haproxy-and-duckling.yml>
 > [!warning]  

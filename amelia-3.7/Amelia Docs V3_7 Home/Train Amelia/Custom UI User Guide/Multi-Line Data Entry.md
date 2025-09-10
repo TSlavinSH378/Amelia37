@@ -1,13 +1,3 @@
--   [How It Works](#MultiLineDataEntry-HowItWorks)
--   [The Script Task](#MultiLineDataEntry-TheScriptTask)
--   [Features](#MultiLineDataEntry-Features)
-    -   [Field Types](#MultiLineDataEntry-FieldTypes)
-    -   [Turn Chat Input On or Off](#MultiLineDataEntry-TurnChatInputOnorOff)
-    -   [Add Cancel Button](#MultiLineDataEntry-AddCancelButton)
-    -   [Input Validation and Error Messages](#MultiLineDataEntry-InputValidationandErrorMessages)
-    -   [Mandatory and Optional Fields](#MultiLineDataEntry-MandatoryandOptionalFields)
-    -   [Mask Sensitive Data](#MultiLineDataEntry-MaskSensitiveData)
-    -   [Form Title](#MultiLineDataEntry-FormTitle)
 The custom user interface can display a multi-line data entry form in the conversation chat box. The form reduces the number of turns Amelia must make to collect information from users. Possible form options are defined in a BPN Script task, saved as a variable, and then referenced in an Ask task.
 The form is limited to four fields, to ensure all fields can be seen on mobile devices. While collecting user first name, last name, email, and birth date are obvious uses for the multi-line form, each of the four fields can be customized. And the form can be displayed multiple times in a BPN by using process flows to evaluate user responses, for example, if the user answers Yes when Amelia asks if they have more data to enter.
 However, this feature is not a replacement for conversation. Amelia is more than a talking form.

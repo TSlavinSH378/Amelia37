@@ -1,7 +1,3 @@
--   [Camel Code](#CamelDatabaseIntegrationExample-CamelCode)
--   [Required Flow Properties](#CamelDatabaseIntegrationExample-RequiredFlowProperties)
--   [Required Exchange Properties](#CamelDatabaseIntegrationExample-RequiredExchangeProperties)
--   [Returned Variables](#CamelDatabaseIntegrationExample-ReturnedVariables)
 This database example shows how to use Camel in the Source View of the Integration Flow workspace to implement key functionality.
 # Camel Code
 > [!note]  

@@ -1,9 +1,3 @@
--   [Useful SSL Commands](#SSLInstallationGuide-UsefulSSLCommands)
-    -   [Remove password from a password protected .key file](#SSLInstallationGuide-Removepasswordfromapasswordprotected.keyfile)
-    -   [Create PEM File](#SSLInstallationGuide-CreatePEMCreatePEMFile)
-    -   [Verify Certificate is Applied](#SSLInstallationGuide-VerifyCertVerifyCertificateisApplied)
--   [Adding Custom CA certs](#SSLInstallationGuide-AddCustomCertAddingCustomCAcerts)
--   [Installing SSL Certificate](#SSLInstallationGuide-InstallSSLCertInstallingSSLCertificate)
 To install the SSL Certificate in an Amelia deployment, follow these steps:
 1.  Verify these items exist:
     -   The X.509 server certificate which is obtained using a CSR request. The certificate can be in CRT or PEM format. If the former see section [Create PEM File](#SSLInstallationGuide-CreatePEM) to generate a PEM file.

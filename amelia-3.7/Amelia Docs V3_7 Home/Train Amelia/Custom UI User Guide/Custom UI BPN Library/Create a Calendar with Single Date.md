@@ -1,6 +1,3 @@
--   [Create the BPN](#CreateaCalendarwithSingleDate-CreatetheBPN)
--   [A Script to Create a Calendar](#CreateaCalendarwithSingleDate-AScripttoCreateaCalendar)
--   [Interact with Amelia](#CreateaCalendarwithSingleDate-InteractwithAmelia)
 This demonstration creates a calendar with a single date selection to appear in the conversation area.
 ![](attachments/11939957/11939958.png)
 Figure. doCalendarSingleDte BPN

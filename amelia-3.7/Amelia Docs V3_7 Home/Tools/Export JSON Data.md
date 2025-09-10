@@ -1,7 +1,3 @@
--   [Export Conversation Data in JSON Format](#ExportJSONData-ExportConversationDatainJSONFormat)
--   [JSON Data Definitions](#ExportJSONData-JSONDataDefinitions)
-    -   [Key](#ExportJSONData-Key)
-    -   [Data Dictionary](#ExportJSONData-DataDictionary)
 > [!warning]  
 >
 > For CSV export data definitions, please refer to the [Export Conversations](Monitoring-with-Administration-Pages_11940300.html#MonitoringwithAdministrationPages-ExportConversations) section of the Monitoring with Administration Pages.

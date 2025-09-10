@@ -1,13 +1,3 @@
--   [How much is Amelia accessible?](#AmeliaandAccessibility-HowmuchisAmeliaaccessible?)
--   [Testing](#AmeliaandAccessibility-Testing)
--   [Screen Reader](#AmeliaandAccessibility-ScreenReader)
--   [Keyboard accessibility](#AmeliaandAccessibility-Keyboardaccessibility)
--   [Development Aspects](#AmeliaandAccessibility-DevelopmentAspects)
-    -   [Focusable elements](#AmeliaandAccessibility-Focusableelements)
-    -   [Clicking elements](#AmeliaandAccessibility-Clickingelements)
-    -   [ARIA](#AmeliaandAccessibility-ARIA)
-    -   [Roles](#AmeliaandAccessibility-Roles)
-    -   [Screen reader messages](#AmeliaandAccessibility-Screenreadermessages)
 People with disabilities need access to the same technology as everyone else. Web accessibility ensures that people with physical and non-physical disabilities have equal access to the web.
 # How much is Amelia accessible?
 IPsoft follows Web Content Accessibility Guidelines in terms of accessibility.  For developer convenience, W3 created a [checklist](https://www.w3.org/TR/2006/WD-WCAG20-20060427/appendixB.html) of success criteria which IPsoft used during implementation accessibility. Operating systems such as Windows, iOS, and Android come equipped with accessibility modules that can easily be built into applications, while the W3C's [Accessible Rich Internet Applications Suite](http://www.w3.org/WAI/intro/aria) (ARIA) defines how applications written in Ajax, HTML, JavaScript, and similar scripting languages should provide information on user interaction to assistive technologies.

@@ -1,8 +1,3 @@
--   [Exclusive Gateways](#ProcessGateways-ExclusiveGateways)
--   [Inclusive Gateways](#ProcessGateways-InclusiveGateways)
--   [Parallel Gateways](#ProcessGateways-ParallelGateways)
--   [Loop Example](#ProcessGateways-LoopExample)
--   [Gateway Operators and Expressions](#ProcessGateways-GatewayOperatorsandExpressions)
 Gateways direct BPN process flows by testing values against variables. The variables are created through integrations and Script tasks or are captured by slot entities from user responses to Ask tasks.
 Gateways allow for branching in the execution of a BPN based on specified criteria.
 -   Exclusive gateways follow only one possible flow away from the gateway

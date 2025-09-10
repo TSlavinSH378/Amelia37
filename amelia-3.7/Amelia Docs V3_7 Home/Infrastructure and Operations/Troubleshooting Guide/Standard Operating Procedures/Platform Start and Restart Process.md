@@ -1,9 +1,3 @@
--   [Platform Restart](#PlatformStartandRestartProcess-PlatformRestart)
-    -   [Bring Services Down Serially](#PlatformStartandRestartProcess-BringServicesDownSerially)
-    -   [Start Services](#PlatformStartandRestartProcess-StartServices)
-        -   [RabbitMQ](#PlatformStartandRestartProcess-RabbitMQ)
-        -   [Other Services](#PlatformStartandRestartProcess-OtherServices)
--   [List Services](#PlatformStartandRestartProcess-ListServices)
 # Platform Restart
 The example below refers to p001 for one conversation pod.  If multiple pods are used, add stop/start for those pods, for example, p002, p003, p004, and so on.
 ## Bring Services Down Serially

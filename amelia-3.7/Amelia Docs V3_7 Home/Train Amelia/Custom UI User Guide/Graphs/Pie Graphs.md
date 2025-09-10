@@ -1,10 +1,3 @@
--   [Chat Log](#PieGraphs-ChatLog)
-    -   [Large Pie Graph](#PieGraphs-LargePieGraph)
-    -   [Small Pie Graph](#PieGraphs-SmallPieGraph)
--   [Chat Notes](#PieGraphs-ChatNotes)
-    -   [Large Pie Graph](#PieGraphs-LargePieGraph.1)
-    -   [Small Pie Graph with Legend](#PieGraphs-SmallPieGraphwithLegend)
-    -   [Small Pie Graph](#PieGraphs-SmallPieTimelineSmallPieGraph)
 Pie graphs can be displayed in Amelia's conversation in the custom user interface. Data is sent with an integration message from a BPN Script task to the interface.
 # Chat Log
 Pie graphs can display in the chat log area, as part of the conversation.

@@ -1,21 +1,3 @@
--   [User Understanding of Amelia](#EndUserUtteranceandBehavior-UserUnderstandingofAmelia)
-    -   [Who and What Amelia Is](#EndUserUtteranceandBehavior-WhoandWhatAmeliaIs)
-        -   [Virtual Agent vs Human Agent](#EndUserUtteranceandBehavior-VirtualAgentvsHumanAgent)
-        -   [Virtual Agent vs Keyword Search Engine and Simplistic Chatbot](#EndUserUtteranceandBehavior-VirtualAgentvsKeywordSearchEngineandSimplisticChatbot)
-    -   [What Amelia Can and Cannot Do](#EndUserUtteranceandBehavior-WhatAmeliaCanandCannotDo)
-    -   [How to Interact with Amelia](#EndUserUtteranceandBehavior-HowtoInteractwithAmelia)
-        -   [Expressing the Intent](#EndUserUtteranceandBehavior-ExpressingtheIntent)
-        -   [Response to Unsuccessful Intent Recognition](#EndUserUtteranceandBehavior-ResponsetoUnsuccessfulIntentRecognition)
--   [Presenting Amelia](#EndUserUtteranceandBehavior-PresentingAmelia)
-    -   [Referral Information](#EndUserUtteranceandBehavior-ReferralInformation)
-    -   [Amelia's Greeting Statement](#EndUserUtteranceandBehavior-Amelia'sGreetingStatement)
-    -   [Amelia's Response to Perceived Negatives](#EndUserUtteranceandBehavior-Amelia'sResponsetoPerceivedNegatives)
--   [Platform and Audience](#EndUserUtteranceandBehavior-PlatformandAudience)
-    -   [Device](#EndUserUtteranceandBehavior-Device)
-    -   [Channel and Conversational Interfaces](#EndUserUtteranceandBehavior-ChannelandConversationalInterfaces)
-        -   [Chat](#EndUserUtteranceandBehavior-Chat)
-        -   [Voice](#EndUserUtteranceandBehavior-Voice)
-    -   [Audience](#EndUserUtteranceandBehavior-Audience)
 Intent recognition isn't only determined by how Amelia understands the user. It also matters how the user expresses their intent to Amelia. While working on intent recognition, it's important to be aware of this part of the equation as well.
 # User Understanding of Amelia
 In terms of intent recognition, it's an advantage that users have a reasonable understanding of Amelia and her role. Typically, that can include points covered below. 

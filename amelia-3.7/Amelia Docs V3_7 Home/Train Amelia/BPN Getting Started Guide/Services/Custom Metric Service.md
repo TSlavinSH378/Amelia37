@@ -1,9 +1,3 @@
--   [Operations](#CustomMetricService-Operations)
-    -   [upsertMetric](#CustomMetricService-upsertMetric)
-    -   [deleteMetric](#CustomMetricService-deleteMetric)
-    -   [getMetric](#CustomMetricService-getMetric)
-    -   [getAllMetrics](#CustomMetricService-getAllMetrics)
--   [Examples](#CustomMetricService-Examples)
 Allows BPN Script tasks to save conversation level custom metrics.  Custom metrics can be saved, updated, deleted and retrieved from any BPN throughout the conversation.  
 The metrics will be persisted and included in the export report, available from the Export Conversations tab in the Admin UI on the Metrics page.
 The service is exposed to script tasks by the name:  customMetricService 

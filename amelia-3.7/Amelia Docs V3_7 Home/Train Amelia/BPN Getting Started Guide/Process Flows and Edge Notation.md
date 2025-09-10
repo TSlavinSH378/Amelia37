@@ -1,8 +1,3 @@
--   [Flow Types](#ProcessFlowsandEdgeNotation-FlowTypes)
-    -   [Sequence Flows](#ProcessFlowsandEdgeNotation-SequenceFlows)
-    -   [Default Flows](#ProcessFlowsandEdgeNotation-DefaultFlows)
--   [Edge Notation and Flow Routing](#ProcessFlowsandEdgeNotation-EdgeNotationandFlowRoutingEdgeNotationFlows)
--   [Service Prefixes](#ProcessFlowsandEdgeNotation-ServicePrefixes)
 Process flows are single direction paths from the edge of a task or gateway to the next element in a BPN. Gateways organize branching of multiple single direction flows in a BPN with specified conditions for each flow line. Gateways and Flows allow for choices to be made in the execution of a BPN based on Amelia's interactions with a person.
 # Flow Types
 Flow types include Sequence Flows and Default Flows. Sequence flows include all paths from task edges and gateways. Default flows are defined for situations where multiple paths are possible from a task edge or gateway.

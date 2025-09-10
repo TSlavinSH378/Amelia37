@@ -1,14 +1,3 @@
--   [Process Knowledge Workspace](#ProcessMemoryInterfaces-ProcessKnowledgeWorkspace)
-    -   [Top Navigation](#ProcessMemoryInterfaces-TopNavigation)
-    -   [Panels](#ProcessMemoryInterfaces-Panels)
-    -   [Tool Bar](#ProcessMemoryInterfaces-ToolBar)
-    -   [Task Tools](#ProcessMemoryInterfaces-TaskTools)
-    -   [BPN Revisions](#ProcessMemoryInterfaces-BPNRevisions)
-    -   [Move BPNs](#ProcessMemoryInterfaces-MoveBPNs)
--   [Flow Line Edit Tools](#ProcessMemoryInterfaces-FlowLineEditTools)
--   [Script Library Workspace](#ProcessMemoryInterfaces-ScriptLibraryWorkspace)
--   [Tabular Data](#ProcessMemoryInterfaces-TabularData)
--   [Content Manager](#ProcessMemoryInterfaces-ContentManager)
 Amelia's Process Memory interfaces provides tools to define Business Process Networks to map how Amelia responds to user interactions. The BPN interface has these components to build process flows:
 -   **Workspace** to create, edit, approve, and script BPN process flows
 -   **Tool Bar** to drag and drop elements to build process flows

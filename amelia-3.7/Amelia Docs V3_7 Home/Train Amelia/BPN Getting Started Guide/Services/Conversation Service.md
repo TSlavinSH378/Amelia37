@@ -1,12 +1,3 @@
--   [Methods](#ConversationService-Methods)
-    -   [getTranscriptUtterances](#ConversationService-getTranscriptUtterances)
-    -   [getTranscript()](#ConversationService-getTranscript())
-    -   [getEmotionalSatisfactionScore()](#ConversationService-getEmotionalSatisfactionScore())
-    -   [escalationInfo() (new in 3.6.x)](#ConversationService-escalationInfo()(newin3.6.x))
--   [Retrieve Conversation Example](#ConversationService-RetrieveConversationExample)
-    -   [Create a BPN](#ConversationService-CreateaBPN)
-    -   [A Script to Extract Datum Information](#ConversationService-AScripttoExtractDatumInformation)
-    -   [Interact with Amelia](#ConversationService-InteractwithAmelia)
 Within a BPN process, the conversation can be captured and parsed as needed with the Conversation Service.
 # Methods
 ## getTranscriptUtterances

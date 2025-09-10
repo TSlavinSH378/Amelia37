@@ -1,6 +1,3 @@
--   [Create the BPN](#CreateaSurvey-CreatetheBPN)
--   [A Script to Create a survey](#CreateaSurvey-AScripttoCreateasurvey)
--   [Interact with Amelia](#CreateaSurvey-InteractwithAmelia)
 This demonstration displays a simple rating survey coded in a Script task and sent as a JSON string for display by Amelia.
 ![](attachments/11939973/11939975.png)
 Figure. doSurvey BPN

@@ -1,23 +1,3 @@
--   [System Authentication](#AccessandPermissions-SystemAuthentication)
-    -   [Authentication Systems](#AccessandPermissions-AuthSystemsAuthenticationSystems)
-        -   [LDAP](#AccessandPermissions-LDAP)
-        -   [Deny All](#AccessandPermissions-DenyAll)
-        -   [SAML 2](#AccessandPermissions-SAML2)
-        -   [Default Authentication Systems](#AccessandPermissions-DefaultAuthenticationSystems)
-    -   [Authentication Policy](#AccessandPermissions-AuthPoliciesAuthenticationPolicy)
-        -   [Deny All Pre-Configured Authentication Policy](#AccessandPermissions-DenyAllPre-ConfiguredAuthenticationPolicy)
-        -   [Internal Pre-Configured Authentication Policy](#AccessandPermissions-InternalPre-ConfiguredAuthenticationPolicy)
--   [User Authentication and Permissions](#AccessandPermissions-UserAuthenticationandPermissions)
-    -   [Authentication Process](#AccessandPermissions-AuthenticationProcess)
-    -   [AuthFailure Process](#AccessandPermissions-AuthFailureProcess)
-    -   [Authorization Process](#AccessandPermissions-AuthorizationProcess)
-        -   [Example: Users with one User Group, Domain, Role and Permissions](#AccessandPermissions-Example:UserswithoneUserGroup,Domain,RoleandPermissions)
-        -   [Example: Agent Users with one User Group, Domain, Role and Permissions](#AccessandPermissions-Example:AgentUserswithoneUserGroup,Domain,RoleandPermissions)
-        -   [Example: User with Multiple User Group, Domains, Roles and Permissions](#AccessandPermissions-Example:UserwithMultipleUserGroup,Domains,RolesandPermissions)
-    -   [Authorities](#AccessandPermissions-AuthorityDefsAuthorities)
-    -   [Roles](#AccessandPermissions-RoleDefsRoles)
-    -   [User Groups](#AccessandPermissions-UserGroupDefsUserGroups)
--   [Spring Security Framework](#AccessandPermissions-SpringSecurityFramework)
 This section describes the technical details of Amelia's authentication system and user-related permissions.
 # System Authentication
 Each instance of Amelia has a range of authentication systems, policies, and other details documented in this section. Creating and modifying these elements is covered in the System Configuration section.

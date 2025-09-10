@@ -1,10 +1,3 @@
--   [3.7.2](#MetricsExportToolReleases-3.7.2)
-    -   [Summary](#MetricsExportToolReleases-Summary)
-    -   [New Feature](#MetricsExportToolReleases-NewFeature)
--   [3.7.1](#MetricsExportToolReleases-3.7.1)
-    -   [Summary](#MetricsExportToolReleases-Summary.1)
-    -   [Bugs Fixed](#MetricsExportToolReleases-BugsFixed)
--   [Download](#MetricsExportToolReleases-Download)
 # 3.7.2
 Release date: February 10, 2020
 ## Summary

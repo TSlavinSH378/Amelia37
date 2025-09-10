@@ -1,8 +1,3 @@
--   [Sources and Targets](#MigrationGuide-SourcesandTargets)
--   [Creating a Migration Plan](#MigrationGuide-CreatingaMigrationPlan)
-    -   [One Instance](#MigrationGuide-OneInstance)
-    -   [Two Instances](#MigrationGuide-TwoInstances)
--   [Creating a Migration Request](#MigrationGuide-CreatingaMigrationRequest)
 This page describes the journey of creating and submitting a migration request to be executed.
 # Sources and Targets
 In Conductor different systems can act as sources of data to be deployed to a target Amelia instance. Conductor will also facilitate the process of moving content from a source Amelia instance to a target Git branch. To accomplish either of these workflows, application instances must first be registered with Conductor. See the [Instance Guide](https://docs.amelia.com/display/AmeliaDocsV4/Instance+Guide) for more information on registering instances with Conductor.

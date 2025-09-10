@@ -1,9 +1,3 @@
--   [Chat Log](#VerticalBarGraphs-ChatLog)
-    -   [Large Single Series Graph](#VerticalBarGraphs-LargeSingleSeriesGraph)
-    -   [Large Multiple Series Graph](#VerticalBarGraphs-LargeMultipleSeriesGraph)
--   [Chat Notes](#VerticalBarGraphs-ChatNotes)
-    -   [Large Vertical Bar Graphs](#VerticalBarGraphs-LargeVerticalBarGraphs)
-    -   [Small Vertical Bar Graphs](#VerticalBarGraphs-SmallVerticalBarGraphs)
 Vertical bar graphs can be displayed in Amelia's conversation in the custom user interface. Data is sent with an integration message from a BPN Script task to the interface.
 # Chat Log
 Single series and multiple series vertical bar graphs can display in the chat log conversation area, as part of the conversation.

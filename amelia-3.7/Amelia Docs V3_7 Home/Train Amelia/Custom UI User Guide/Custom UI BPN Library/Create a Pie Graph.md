@@ -1,6 +1,3 @@
--   [Create the BPN](#CreateaPieGraph-CreatetheBPN)
--   [A Script to Create a pie graph](#CreateaPieGraph-AScripttoCreateapiegraph)
--   [Interact with Amelia](#CreateaPieGraph-InteractwithAmelia)
 This demonstration creates a pie graph of data stored in a Script task and sent as a JSON string for display by Amelia.
 ![](attachments/11939964/11939966.png)
 Figure. doPieGraph BPN

@@ -1,8 +1,3 @@
--   [Notifications Display](#CustomUINotifications-NotificationsDisplay)
-    -   [Chrome Web Browsers](#CustomUINotifications-ChromeWebBrowsers)
-    -   [Microsoft Edge Web Browser](#CustomUINotifications-MicrosoftEdgeWebBrowser)
-    -   [Internet Explorer Web Browsers](#CustomUINotifications-InternetExplorerWebBrowsers)
--   [Enable or Disable Notifications](#CustomUINotifications-EnableorDisableNotifications)
 When an agent joins a conversation and the user is away from the conversation tab, the custom UI will display push notifications if the pushNotificationDisabled setting is set to false in the UI Bundles workspace. The first push notification will prompt the user to allow or block notifications.
 The agent has joined notification pops up every 30 seconds if the user is not focused on the conversation browser tab. If the user starts typing in the chat input to respond to an agent notification popup, the popups will stop appearing.
 > [!warning]  

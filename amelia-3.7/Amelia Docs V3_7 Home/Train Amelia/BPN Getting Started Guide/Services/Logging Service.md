@@ -1,9 +1,3 @@
--   [Methods](#LoggingService-Methods)
-    -   [debug](#LoggingService-debug)
-    -   [info](#LoggingService-info)
-    -   [warn](#LoggingService-warn)
-    -   [error](#LoggingService-error)
--   [Examples](#LoggingService-Examples)
 The logging service provides Script tasks and libraries the ability to add log entries.
 # Methods
 ## debug

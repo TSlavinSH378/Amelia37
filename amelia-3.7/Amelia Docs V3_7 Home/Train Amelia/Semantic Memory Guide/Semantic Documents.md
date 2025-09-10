@@ -1,9 +1,3 @@
--   [Add to Amelia's Semantic Memory](#SemanticDocuments-AddtoAmelia'sSemanticMemory)
--   [Semantic Documents Examples](#SemanticDocuments-SemanticDocumentsExamples)
-    -   [FAQs](#SemanticDocuments-FAQs)
-    -   [Manuals](#SemanticDocuments-Manuals)
-    -   [Intent FAQs](#SemanticDocuments-IntentFAQs)
-    -   [Query Maps](#SemanticDocuments-QueryMaps)
 The Semantic Documents workspace is available through the Semantic Memory link on the left side of Amelia's administration pages and the Semantic Documents link. The workspace includes space to specify the type of file, upload a file, and a list of previously uploaded files. Files uploaded display status, a green check mark or rotating circular arrow, and links to download or delete the file. A domain can be selected with a dropdown list at the top right of the interface, next to the navigation links.
 ![](attachments/28476789/28476790.jpg)
 Figure. Semantic Memory Workspace

@@ -1,17 +1,3 @@
--   [Response Time Alert](#RestartAlertSOPs-ResponseTimeAlert)
--   [Garbage Collector Q1 Old Generation Alert](#RestartAlertSOPs-GarbageCollectorQ1OldGenerationAlert)
--   [Amelia V3 Webcheck Alert](#RestartAlertSOPs-AmeliaV3WebcheckAlert)
--   [Chrony Offset Alert](#RestartAlertSOPs-ChronyOffsetAlert)
--   [Upload File 503 Errors](#RestartAlertSOPs-UploadFile503Errors)
-    -   [Scenario 1: Restarted in Incorrect Order](#RestartAlertSOPs-Scenario1:RestartedinIncorrectOrder)
-    -   [Scenario 2: Can't Stop Anti-Virus Service](#RestartAlertSOPs-Scenario2:Can'tStopAnti-VirusService)
-    -   [Scenario 3: On-Premise, Unable to To Run](#RestartAlertSOPs-Scenario3:On-Premise,UnabletoToRun)
-    -   [Scenario 4: On-Premise, Port Blocked](#RestartAlertSOPs-Scenario4:On-Premise,PortBlocked)
-    -   [Scenario 5: Multiple Issues with File Uploads/Downloads](#RestartAlertSOPs-Scenario5:MultipleIssueswithFileUploads/Downloads)
--   [Resolving ipsoft-av-gateway Not Restarting](#RestartAlertSOPs-Resolvingipsoft-av-gatewayNotRestarting)
-    -   [ceiceIssue](#RestartAlertSOPs-ceiceIssue)
-    -   [Solution](#RestartAlertSOPs-Solution)
-    -   [Shortcut](#RestartAlertSOPs-Shortcut)
 There are several checks that require restarts of the different Amelia components. The following alerts require a restart.
 # [R](https://paas.ipcenter.com/IPmon/NY1-IPmon24/cgi-bin/extinfo.cgi?type=2&host=amelia-engine.metlife-amelia-prod.ipsoft.com.ipsoft&service=Amelia+Response+Time)esponse Time Alert
 The Amelia response time alert will go critical immediately if the response time is \> 20 seconds. This means that its taking more than 20 seconds for the Amelia engine to respond to the customer interacting with her.

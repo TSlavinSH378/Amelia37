@@ -1,5 +1,3 @@
--   [Check HAProxy Status](#HAproxySOPs-CheckHAProxyStatus)
--   [HAProxy Back or Front End is Down](#HAproxySOPs-HAProxyBackorFrontEndisDown)
 # Check HAProxy Status
 Run this command:
 ``` text

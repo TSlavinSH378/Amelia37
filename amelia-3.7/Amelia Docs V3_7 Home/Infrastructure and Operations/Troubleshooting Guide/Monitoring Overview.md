@@ -1,21 +1,3 @@
--   [Amelia Systems](#MonitoringOverview-AmeliaSystems)
-    -   [amelia-account-service](#MonitoringOverview-amelia-account-service)
-    -   [amelia-admin-service](#MonitoringOverview-amelia-admin-service)
-    -   [amelia-admin-web](#MonitoringOverview-amelia-admin-web)
-    -   [amelia-batch-service](#MonitoringOverview-amelia-batch-service)
-    -   [amelia-duckling](#MonitoringOverview-amelia-duckling)
-    -   [amelia-engine-service](#MonitoringOverview-amelia-engine-service)
-    -   [amelia-escalation-service](#MonitoringOverview-amelia-escalation-service)
-    -   [amelia-integration](#MonitoringOverview-amelia-integration)
-    -   [amelia-model-server](#MonitoringOverview-amelia-model-server)
-    -   [amelia-syntaxnet](#MonitoringOverview-amelia-syntaxnet)
-    -   [amelia-user-web](#MonitoringOverview-amelia-user-web)
-    -   [Host OS](#MonitoringOverview-HostOS)
-    -   [MySQL](#MonitoringOverview-MySQL)
--   [RabbitMQ](#MonitoringOverview-RabbitMQ)
--   [Redis](#MonitoringOverview-Redis)
--   [Linux Server](#MonitoringOverview-LinuxServer)
--   [Commands to Monitor Service Status](#MonitoringOverview-CommandstoMonitorServiceStatus)
 Amelia is monitored as a collection of multiple services broken up into relevant technology groups. Each technology group is a separate service with a unique name, for example, amelia-batch-service or amelia-escalation-service. In the case of a cluster, each node is a service with a different app name, for example, app01, app02, app03. Each of these systems are monitored in different ways.
 When troubleshooting, begin with the alert or other indication of a problem. If the system is slow or down with no alerts, however, begin with the basic environment and systems then the Amelia systems, as described in this document. Collect as much information as possible before contacting IPsoft.
 Troubleshooting Amelia systems and environment uses the monitoring and other output of technology groups to identify and resolve problems. Each Amelia host is monitored in the following ways.

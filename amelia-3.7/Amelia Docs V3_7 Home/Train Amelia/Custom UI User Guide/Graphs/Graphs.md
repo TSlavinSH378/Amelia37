@@ -1,9 +1,3 @@
--   [Graph Types](#Graphs-GraphTypes)
--   [Code Structure for Graphs](#Graphs-CodeStructureCodeStructureforGraphs)
-    -   [Message and Payload Definitions](#Graphs-MessageandPayloadDefinitions)
-    -   [Common Code](#Graphs-CommonCode)
-    -   [Chat Log Code](#Graphs-ChatLogCode)
-    -   [Chat Note Code](#Graphs-ChatNoteCode)
 Graphs can be displayed in Amelia's conversation in the custom user interface. Data is defined with a JSON name:value structure in a BPN Script task then sent with an integration message to the interface.
 > [!warning]  
 >

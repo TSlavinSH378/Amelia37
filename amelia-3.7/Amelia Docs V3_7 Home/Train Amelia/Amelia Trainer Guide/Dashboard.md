@@ -1,6 +1,3 @@
--   [Dashboard Workspace](#Dashboard-DashboardWorkspace)
--   [Performance Statistics](#Dashboard-PerformanceStatistics)
--   [Export and Import Models](#Dashboard-ExportandImportModels)
 The Amelia Trainer Dashboard workspace displays all active and inactive trained intent models and entity models. This includes system models, for example, datum types for US English numbers and quantity.
 # Dashboard Workspace
 Once a model has been trained with the Annotate workspace, models appear on the dashboard. A green deployed status indicates models currently deployed which Amelia can use to respond to conversations.

@@ -1,13 +1,3 @@
--   [Compliance](#IntegrationBestPractices-Compliance)
-    -   [How can you be sure to be compliant?](#IntegrationBestPractices-Howcanyoubesuretobecompliant?)
-    -   [What is considered personal data?](#IntegrationBestPractices-Whatisconsideredpersonaldata?)
--   [Development Environment](#IntegrationBestPractices-DevelopmentEnvironment)
-    -   [Enable Visual Designer to Work with Source Code](#IntegrationBestPractices-EnableVisualDesignertoWorkwithSourceCode)
-    -   [Prevent Visual Designer from Adding XML Visual Elements](#IntegrationBestPractices-PreventVisualDesignerfromAddingXMLVisualElements)
--   [Element IDs](#IntegrationBestPractices-ElementIDs)
--   [Reusable Connectors](#IntegrationBestPractices-ReusableConnectors)
--   [Properties and Property Sets](#IntegrationBestPractices-PropertiesandPropertySets)
--   [Using a Proxy](#IntegrationBestPractices-UsingaProxy)
 # Compliance
 Since the introduction of GDPR privacy requirements in the European Union, developers need to be mindful of how client data is used within their work.
 ## How can you be sure to be compliant?

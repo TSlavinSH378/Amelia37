@@ -1,14 +1,3 @@
--   [Collecting Client Information for SSO](#AmeliaV3SSOConfiguration-CollectingClientInformationforSSO)
--   [SSO Options and Tradeoffs](#AmeliaV3SSOConfiguration-SSOOptionsandTradeoffs)
--   [SSO Configuration With Amelia](#AmeliaV3SSOConfiguration-SSOConfigurationWithAmelia)
-    -   [Administration Pages](#AmeliaV3SSOConfiguration-AdministrationPages)
-    -   [Configuration Files](#AmeliaV3SSOConfiguration-ConfigurationFiles)
-    -   [Authentication Policies](#AmeliaV3SSOConfiguration-AuthenticationPolicies)
-    -   [SSO and Custom UI Bundles](#AmeliaV3SSOConfiguration-SSOandCustomUIBundles)
--   [Configuration Tools](#AmeliaV3SSOConfiguration-ConfigurationTools)
-    -   [ldapsearch](#AmeliaV3SSOConfiguration-ldapsearch)
-    -   [Sample User Group Script (Optional)](#AmeliaV3SSOConfiguration-SampleUserGroupScript(Optional))
-    -   [XML Metadata Example](#AmeliaV3SSOConfiguration-XMLMetadataExample)
 Access to Amelia V2 and V3 instances requires set up and use of Single Sign-On (SSO) authentication to connect and authenticate with client systems. Setup with clients requires collecting basic demographic information, for example, first and last names, and configuring Amelia. SSO options also have tradeoffs to consider when recommending options to clients.
 # Collecting Client Information for SSO
 Information collected from clients varies based on their SSO choice. SAML2 and LDAP are the most common with PKI lightly used.

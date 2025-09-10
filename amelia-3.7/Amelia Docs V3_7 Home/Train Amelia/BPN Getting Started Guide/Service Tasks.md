@@ -1,12 +1,3 @@
--   [Creating a Service Task](#ServiceTasks-CreatingaServiceTask)
--   [Service Task Widgets](#ServiceTasks-ServiceTaskWidgets)
-    -   [Form Input](#ServiceTasks-FormInput)
-        -   [Single Select Button](#ServiceTasks-SingleSelectButton)
-        -   [Multi Select Button](#ServiceTasks-MultiSelectButton)
-    -   [Integration](#ServiceTasks-Integration)
-        -   [Chat Note Alert Option](#ServiceTasks-ChatNoteAlertOption)
-        -   [Form Input Calendar](#ServiceTasks-FormInputCalendar)
-    -   [Chat Notes](#ServiceTasks-ChatNotes)
 Service BPN tasks create custom UI interfaces with clicks and light typing instead of typing code in a Script task. Service and Script tasks both use Amelia services. However, a Service task offers a code free way to access different services.
 # Creating a Service Task
 To create a Service task, click a BPN task to display the option icons. Then click the ![](attachments/28476460/28476473.png)wrench icon once to display a dropdown list of BPN types. Select Service Task from the dropdown list.

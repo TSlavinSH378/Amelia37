@@ -1,13 +1,3 @@
--   [Create the Demo](#EditaChatNote-CreatetheDemo)
-    -   [Create BPN Tasks](#EditaChatNote-CreateBPNTasks)
-    -   [A Script to Create a Chat Note](#EditaChatNote-AScripttoCreateaChatNote)
-    -   [A Script to Update a Chat Note](#EditaChatNote-AScripttoUpdateaChatNote)
-    -   [Interact with Amelia](#EditaChatNote-InteractwithAmelia)
--   [Deleting Chat Notes](#EditaChatNote-DeletingChatNotes)
-    -   [Delete a Chat Note](#EditaChatNote-DeleteaChatNote)
-    -   [Delete All Chat Notes](#EditaChatNote-DeleteAllChatNotes)
--   [Toggle Chat Notes](#EditaChatNote-ToggleChatNotes)
--   [Open Chat Notes](#EditaChatNote-OpenChatNotes)
 This demonstration shows how to use a BPN and custom UI to collect information from a person, display their data in a section of the screen, then update their information without leaving the conversation.
 To edit a chat note, at least two BPNs are required. One BPN acts as the primary process flow definition. Additional BPNs handle edits to chat notes. The secondary BPNs are referenced in the Script Task code that defines the chat note.
 ![](attachments/11939940/20809294.png)

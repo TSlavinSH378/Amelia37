@@ -1,9 +1,3 @@
--   [RabbitMQ Users](#RabbitMQSOPs-RabbitMQUsers)
-    -   [List active users](#RabbitMQSOPs-Listactiveusers)
-    -   [Add a User](#RabbitMQSOPs-AddaUser)
-    -   [Add User to Group](#RabbitMQSOPs-AddUsertoGroup)
--   [List/Set Permissions](#RabbitMQSOPs-List/SetPermissions)
--   [RabbitMQ Overview Alert](#RabbitMQSOPs-RabbitMQOverviewAlert)
 These operating procedures help debug possible RabbitMQ issues.
 # RabbitMQ Users
 An Amelia RabbitMQ instance requires 4 users to be present:

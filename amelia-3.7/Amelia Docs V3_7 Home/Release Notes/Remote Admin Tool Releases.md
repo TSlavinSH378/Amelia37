@@ -1,23 +1,3 @@
--   [3.7.3](#RemoteAdminToolReleases-3.7.3)
-    -   [Summary](#RemoteAdminToolReleases-Summary)
-    -   [Important highlights from this release](#RemoteAdminToolReleases-Importanthighlightsfromthisrelease)
-    -   [New Feature](#RemoteAdminToolReleases-NewFeature)
-    -   [Bug](#RemoteAdminToolReleases-Bug)
-    -   [Story](#RemoteAdminToolReleases-Story)
--   [3.7.2](#RemoteAdminToolReleases-3.7.2)
-    -   [Summary](#RemoteAdminToolReleases-Summary.1)
-    -   [New Feature](#RemoteAdminToolReleases-NewFeature.1)
-    -   [Enhancement (Client Requested)](#RemoteAdminToolReleases-Enhancement(ClientRequested))
-    -   [Task](#RemoteAdminToolReleases-Task)
-    -   [Defect (Client Requested)](#RemoteAdminToolReleases-Defect(ClientRequested))
--   [3.7.1](#RemoteAdminToolReleases-3.7.1)
-    -   [Summary](#RemoteAdminToolReleases-Summary.2)
-    -   [New Stuff](#RemoteAdminToolReleases-NewStuff)
-    -   [Bugs Fixed](#RemoteAdminToolReleases-BugsFixed)
--   [3.6.1](#RemoteAdminToolReleases-3.6.1)
-    -   [Summary](#RemoteAdminToolReleases-Summary.3)
-    -   [New Stuff](#RemoteAdminToolReleases-NewStuff.1)
-    -   [Bugs Fixed](#RemoteAdminToolReleases-BugsFixed.1)
 Release notes for this tool track Amelia releases, for example, 3.6 and 3.7 are backwards compatible within their Amelia releases. A 3.6.1 Remote Admin Tool release both work with Amelia 3.6.0 to the latest 3.6.x Amelia release.
 # 3.7.3
 Release date: April 16, 2020

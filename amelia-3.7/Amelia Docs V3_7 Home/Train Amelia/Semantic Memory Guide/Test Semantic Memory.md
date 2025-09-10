@@ -1,5 +1,3 @@
--   [Manual](#TestSemanticMemory-Manual)
--   [FAQs](#TestSemanticMemory-FAQs)
 This exercise uses the FAQs and Manual to demonstrate how well Amelia uses these inputs to create a semantic memory.
 1.  Upload the PDF manual
 2.  Use the conversation area to test Amelia's knowledge of the PDF manual content

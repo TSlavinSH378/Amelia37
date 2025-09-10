@@ -1,17 +1,3 @@
--   [Amelia's Systems](#Introduction-Amelia'sSystems)
-    -   [Access System](#Introduction-AccessSystem)
-        -   [Users](#Introduction-Users)
-        -   [Groups](#Introduction-Groups)
-        -   [Roles](#Introduction-Roles)
-        -   [Authorities](#Introduction-Authorities)
-    -   [Escalation System](#Introduction-EscalationSystem)
-    -   [Authentication and Third-Party Integrations](#Introduction-AuthenticationandThird-PartyIntegrations)
-    -   [Domains](#Introduction-Domains)
--   [Interfaces](#Introduction-Interfaces)
-    -   [System Settings and Modules Navigation](#Introduction-SystemSettingsandModulesNavigation)
-    -   [Jump Links](#Introduction-JumpLinks)
-    -   [Chat and Role Links](#Introduction-ChatandRoleLinks)
-    -   [Status and Sign Out Links](#Introduction-StatusandSignOutLinks)
 This Amelia Administration guide provides detailed instructions about how to setup and manage Amelia's software system, for example, backups, setting up access authentication, creating user groups, and more.
 # Amelia's Systems
 An Amelia instance includes a mix of components used to build an interconnected set of domains, users, authentication policies, roles, and other elements. What is used depends on the needs of the setup.

@@ -1,17 +1,3 @@
--   [Adding the Email Component as an Asset](#CamelEmailComponentIntegrationExample-AddingtheEmailComponentasanAsset)
--   [Creating a Camel Flow using this Component](#CamelEmailComponentIntegrationExample-CreatingaCamelFlowusingthisComponent)
--   [Sending Mail using this Component](#CamelEmailComponentIntegrationExample-SendingMailusingthisComponent)
-    -   [General Steps](#CamelEmailComponentIntegrationExample-GeneralSteps)
-    -   [Example: Sending an HTML Mail Message](#CamelEmailComponentIntegrationExample-Example:SendinganHTMLMailMessage)
-        -   [Add this Component as an Asset](#CamelEmailComponentIntegrationExample-AddthisComponentasanAsset)
-        -   [Create a Camel Flow using this Component to Send Mail](#CamelEmailComponentIntegrationExample-CreateaCamelFlowusingthisComponenttoSendMail)
-        -   [Create a BPN to Send Mail](#CamelEmailComponentIntegrationExample-CreateaBPNtoSendMail)
-    -   [Mail Component Configuration via Properties](#CamelEmailComponentIntegrationExample-MailComponentConfigurationviaProperties)
-    -   [Using a Mail Template](#CamelEmailComponentIntegrationExample-UsingaMailTemplate)
--   [Adding Attachments](#CamelEmailComponentIntegrationExample-AddingAttachments)
-    -   [Supplying an Attachment via an Asset](#CamelEmailComponentIntegrationExample-SupplyinganAttachmentviaanAsset)
-    -   [Supplying an Attachment via the Content Manager](#CamelEmailComponentIntegrationExample-SupplyinganAttachmentviatheContentManager)
-    -   [Embedding an Image Attachment](#CamelEmailComponentIntegrationExample-EmbeddinganImageAttachment)
 The Amelia Camel Mail Component is a drop-in replacement for the standard [Camel Mail component](http://camel.apache.org/mail.html), providing conveniences for sending mail from Amelia via Camel in a standardized manner in an effort to significantly reduce boilerplate code both within Amelia as well as within Camel.
 Using this component for sending mail through Camel is straightforward. The general steps for doing so are as follows, and are described in detail farther below:
 1.  Add this component as an asset in the Amelia Integration Framework.

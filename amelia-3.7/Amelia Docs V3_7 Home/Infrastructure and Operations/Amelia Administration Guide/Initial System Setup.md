@@ -1,8 +1,3 @@
--   [Step 1. Set Up a Domain](#InitialSystemSetup-Step1.SetUpaDomain)
--   [Step 2. Set Up a Group](#InitialSystemSetup-Step2.SetUpaGroup)
--   [Step 3. Set Up an Escalation Team](#InitialSystemSetup-Step3.SetUpanEscalationTeam)
--   [Step 4. Set Up an Escalation Queue](#InitialSystemSetup-Step4.SetUpanEscalationQueue)
--   [Step 5. Configure the Default Escalation Queue for the First Domain](#InitialSystemSetup-Step5.ConfiguretheDefaultEscalationQueuefortheFirstDomain)
 Refer to the Amelia Deployment Center installation guide for details about installing the software files. The document describes how to install the Amelia Deployment Center (ADC) then use it to configure and install Amelia software on one or more hosts.
 Once installed, setting up an Amelia instance requires several elements be configured first, in this order:
 ![](attachments/11940196/11940226.png)

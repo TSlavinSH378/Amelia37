@@ -1,11 +1,3 @@
--   [Ask and Say Tasks](#AnnotateAmeliaUtterances-AskandSayTasks)
--   [Entity Amelia Asks Utterances](#AnnotateAmeliaUtterances-EntityAmeliaAsksUtterances)
--   [Edit an Annotation](#AnnotateAmeliaUtterances-EditanAnnotation)
--   [Annotation Editor Interfaces](#AnnotateAmeliaUtterances-AnnotationEditorInterfaces)
-    -   [Styling Tab](#AnnotateAmeliaUtterances-StylingTab)
-        -   [Text Styles](#AnnotateAmeliaUtterances-TextStyles)
-        -   [HR and BR Styles](#AnnotateAmeliaUtterances-HRandBRStyles)
-    -   [Speech Tab](#AnnotateAmeliaUtterances-SpeechTab)
 Amelia's utterances can be annotated for style and speech, for example, highlighting with bold part of an utterance or changing the pitch. This feature applies to BPN Say and Ask tasks, response pools, entities, and Answer FAQs. The tool appears with a right mouse-click after a cursor is positioned in an edit field or text is highlighted. See the Annotation Editor Interfaces section below for details about annotation editor settings.
 # Ask and Say Tasks
 With an Ask or Say task, double-click the task to open then highlight a portion of text then right mouse-click to open the annotation tool. For Ask tasks, the double quote marks cannot be annotated, only content in between.

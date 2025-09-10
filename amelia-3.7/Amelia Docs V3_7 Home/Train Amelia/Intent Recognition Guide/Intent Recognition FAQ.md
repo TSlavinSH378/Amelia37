@@ -1,8 +1,3 @@
--   [How many intents can Amelia handle?](#IntentRecognitionFAQ-HowmanyintentscanAmeliahandle?)
--   [In my model, how much training data do I need per intent class?](#IntentRecognitionFAQ-Inmymodel,howmuchtrainingdatadoIneedperintentclass?)
--   [When do I use intents and when do I use entities](#IntentRecognitionFAQ-WhendoIuseintentsandwhendoIuseentities)
--   [How do I know what intent recognition I can expect once I go live with my Amelia solution?](#IntentRecognitionFAQ-HowdoIknowwhatintentrecognitionIcanexpectonceIgolivewithmyAmeliasolution?)
--   [What counts as a good intent recognition rate?](#IntentRecognitionFAQ-Whatcountsasagoodintentrecognitionrate?)
 ## How many intents can Amelia handle?
 There is no fixed answer to this. It depends on a number of factors, notably these two:
 -   What are the intents and how do they fit together?

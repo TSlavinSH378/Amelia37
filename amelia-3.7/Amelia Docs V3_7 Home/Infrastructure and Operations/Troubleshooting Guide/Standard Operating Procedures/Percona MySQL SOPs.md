@@ -1,8 +1,3 @@
--   [Purging Binary Database Log Files](#PerconaMySQLSOPs-PurgingBinaryDatabaseLogFiles)
--   [Purge Database gcache.page Files](#PerconaMySQLSOPs-PurgeDatabasegcache.pageFiles)
-    -   [Single Node Environment](#PerconaMySQLSOPs-SingleNodeEnvironment)
-    -   [Clustered Environments](#PerconaMySQLSOPs-ClusteredEnvironments)
--   [Percona/VMware-VMotion](#PerconaMySQLSOPs-Percona/VMware-VMotion)
 These operating procedures help debug possible issues the Percona/MySQL database.
 # Purging Binary Database Log Files
 In cases where disk space is limited, purging binary database log files can reclaim space. These files can be located with this command:

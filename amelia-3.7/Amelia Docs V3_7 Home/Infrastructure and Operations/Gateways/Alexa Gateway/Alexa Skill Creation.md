@@ -1,8 +1,3 @@
--   [Creating a New Skill](#AlexaSkillCreation-CreatingaNewSkill)
--   [Interaction Model](#AlexaSkillCreation-InteractionModel)
--   [EndPoint](#AlexaSkillCreation-EndPoint)
--   [Skill ID](#AlexaSkillCreation-SkillID)
--   [Audio Player (Optional)](#AlexaSkillCreation-AudioPlayer(Optional))
 > [!warning]  
 >
 > This guide does not cover certification and distribution of the skill.

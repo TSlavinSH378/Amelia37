@@ -1,17 +1,3 @@
--   [Methods](#ContentManagementService-Methods)
-    -   [addFile](#ContentManagementService-addFile)
-    -   [addFileBase64](#ContentManagementService-addFileBase64)
-    -   [getResourceUrl](#ContentManagementService-getResourceUrl)
-    -   [getResourceUrl](#ContentManagementService-getResourceUrl.1)
-    -   [findResourceById](#ContentManagementService-findResourceById)
-    -   [getResourceBytes](#ContentManagementService-getResourceBytes)
-    -   [getResourceBase64](#ContentManagementService-getResourceBase64)
-    -   [getBucketResources](#ContentManagementService-getBucketResources)
--   [cmObjectMetadata Properties](#ContentManagementService-cmObjectMetadataProperties)
--   [Retrieve File Metadata with cmService](#ContentManagementService-RetrieveFileMetadatawithcmService)
-    -   [Create a BPN](#ContentManagementService-CreateaBPN)
-    -   [A Script to Access Multimedia Services](#ContentManagementService-AScripttoAccessMultimediaServices)
-    -   [Interact with Amelia](#ContentManagementService-InteractwithAmelia)
 This service includes methods to add, find, encode, and retrieve multimedia assets from the content management system used by BPN tasks and scripts.
 # Methods
 ## addFile

@@ -1,6 +1,3 @@
--   [Create the BPN](#CreateaCalendarwithDateRange-CreatetheBPN)
--   [A Script to Create a Calendar](#CreateaCalendarwithDateRange-AScripttoCreateaCalendar)
--   [Interact with Amelia](#CreateaCalendarwithDateRange-InteractwithAmelia)
 This demonstration creates a calendar with a date range to appear in the conversation area.
 ![](attachments/11939961/11939963.png)
 Figure. doCalendarDteRange BPN

@@ -1,7 +1,3 @@
--   [Authorities](#AuthorizationGuide-Authorities)
--   [Roles](#AuthorizationGuide-Roles)
--   [Users](#AuthorizationGuide-Users)
--   [Groups](#AuthorizationGuide-Groups)
 This page describes the RBAC functionality of Conductor including managing users, roles, authorities, and groups.
 # Authorities
 The following authorities exist in Conductor:

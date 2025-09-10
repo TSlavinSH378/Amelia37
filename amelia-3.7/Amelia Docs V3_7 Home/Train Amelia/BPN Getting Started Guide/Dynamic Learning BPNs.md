@@ -1,10 +1,3 @@
--   [Trigger Amelia’s Learning Behavior](#DynamicLearningBPNs-TriggerAmelia’sLearningBehavior)
-    -   [Requirements](#DynamicLearningBPNs-Requirements)
-    -   [Create an Entity user_age](#DynamicLearningBPNs-CreateanEntityuser_age)
-    -   [Create a BPN doDriverAge](#DynamicLearningBPNs-CreateaBPNdoDriverAge)
-    -   [Run the Workflow doDriverAge](#DynamicLearningBPNs-RuntheWorkflowdoDriverAge)
--   [Pick Up Escalated Conversation](#DynamicLearningBPNs-PickUpEscalatedConversation)
--   [Approve a Dynamic BPN](#DynamicLearningBPNs-ApproveaDynamicBPN)
 Amelia has the ability to listen to escalated conversation and learn from them, creating updated versions of BPN processes for approval by a knowledge engineer. The updated BPN versions are called dynamic or learning BPNs.
 Currently only these types of escalation trigger Amelia’s learning capabilities:
 -   Failure of a user utterance to satisfy an Ask task

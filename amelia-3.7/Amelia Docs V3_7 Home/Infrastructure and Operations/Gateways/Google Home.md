@@ -1,10 +1,3 @@
--   [Create a New Actions Project](#GoogleHome-CreateaNewActionsProject)
--   [Build the Action and Create the Dialogflow Agent](#GoogleHome-BuildtheActionandCreatetheDialogflowAgent)
--   [Import Amelia Specific Settings](#GoogleHome-ImportAmeliaSpecificSettings)
--   [Configure Fulfillment to Communicate with the Gateway](#GoogleHome-ConfigureFulfillmenttoCommunicatewiththeGateway)
--   [Finding Required Values for the Fulfillment Headers](#GoogleHome-FindingRequiredValuesfortheFulfillmentHeaders)
--   [Test the Action Using the Simulator](#GoogleHome-TesttheActionUsingtheSimulator)
--   [Test the Action Using a Google Home Device or Google Assistant](#GoogleHome-TesttheActionUsingaGoogleHomeDeviceorGoogleAssistant)
 The Amelia Google Home Gateway allows users to have a conversation with Amelia through Google Home devices and devices running Google Assistant, such as mobile phones.  
 In addition to handling conversational questions and responses to and from Amelia, the gateway can also be directed to stream audio files to the Google Home device.  The audio files can be downloaded from Amelia (retrieved from Content Manager) or, preferably, streamed from an external media server.  
 Download and use this form to collect client configuration details:  IPsoft-Amelia-GoogleHome-Gateway-Client-Information-1.0.pdf

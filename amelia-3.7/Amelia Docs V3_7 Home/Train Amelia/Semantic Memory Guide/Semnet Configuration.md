@@ -1,18 +1,6 @@
--   [Whether to return short answer](#SemnetConfiguration-Whethertoreturnshortanswer)
 -   <a href="#SemnetConfiguration-ThresholdforSemnet" data-idon'tknow"response"="">Threshold for Semnet "I don't know" response</a>
--   [Number of lucene results in Document QA](#SemnetConfiguration-NumberofluceneresultsinDocumentQA)
--   [Threshold for paragram in Document QA](#SemnetConfiguration-ThresholdforparagraminDocumentQA)
--   [Threshold for paragram in tables in Document QA](#SemnetConfiguration-ThresholdforparagramintablesinDocumentQA)
 -   <a href="#SemnetConfiguration-ThresholdforDocumentQA" data-idon'tknow"response"="">Threshold for Document QA "I don't know" response</a>
 -   <a href="#SemnetConfiguration-ThresholdforFAQ" data-idon'tknow"response"="">Threshold for FAQ "I don't know" response</a>
--   [Number of lucene results in FAQ responder](#SemnetConfiguration-NumberofluceneresultsinFAQresponder)
--   [Low threshold for entailment score in FAQ responder](#SemnetConfiguration-LowthresholdforentailmentscoreinFAQresponder)
--   [High threshold for entailment score in FAQ responder](#SemnetConfiguration-HighthresholdforentailmentscoreinFAQresponder)
--   [Low threshold for paragram similarity in FAQ responder](#SemnetConfiguration-LowthresholdforparagramsimilarityinFAQresponder)
--   [High threshold for paragram similarity in FAQ responder](#SemnetConfiguration-HighthresholdforparagramsimilarityinFAQresponder)
--   [Number of cluster size in FAQ responder](#SemnetConfiguration-NumberofclustersizeinFAQresponder)
--   [Knn threshold for paragram similarity in FAQ responder](#SemnetConfiguration-KnnthresholdforparagramsimilarityinFAQresponder)
--   [Threshold on entailment score for highest sum match](#SemnetConfiguration-Thresholdonentailmentscoreforhighestsummatch)
 Table. Semnet Configuration Properties
 
 | Property | Default Setting | Description |

@@ -1,7 +1,3 @@
--   [Chat Log and Chat Notes](#MetricsGraphs-ChatLogandChatNotes)
-    -   [Large Metric Graph](#MetricsGraphs-LargeMetricGraph)
--   [Chat Notes](#MetricsGraphs-ChatNotes)
-    -   [Small and Large Metric Graphs](#MetricsGraphs-SmallandLargeMetricGraphs)
 Metric graphs can be displayed in Amelia's conversation in the custom user interface. Data is sent with an integration message from a BPN Script task to the interface.
 # Chat Log and Chat Notes
 Large metric graphs can display in the chat log conversation area, as part of the conversation, or in a chat note on the right side of the screen.

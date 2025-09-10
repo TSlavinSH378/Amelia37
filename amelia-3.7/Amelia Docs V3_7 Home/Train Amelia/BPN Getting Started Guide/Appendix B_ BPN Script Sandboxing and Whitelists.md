@@ -1,12 +1,3 @@
--   [Create a Custom Whitelist Configuration File](#AppendixB:BPNScriptSandboxingandWhitelists-CreateaCustomWhitelistConfigurationFile)
-    -   [Selecting Items to Import](#AppendixB:BPNScriptSandboxingandWhitelists-SelectingItemstoImport)
-    -   [Sample whitelist.config File](#AppendixB:BPNScriptSandboxingandWhitelists-Samplewhitelist.configFile)
--   [Install a Custom Whitelist Configuration File](#AppendixB:BPNScriptSandboxingandWhitelists-InstallaCustomWhitelistConfigurationFile)
--   [Modify Application Properties to Enable a Whitelist](#AppendixB:BPNScriptSandboxingandWhitelists-ModifyApplicationPropertiestoEnableaWhitelist)
-    -   [application.yml Example](#AppendixB:BPNScriptSandboxingandWhitelists-application.ymlExample)
-    -   [application.properties Example](#AppendixB:BPNScriptSandboxingandWhitelists-application.propertiesExample)
--   [Restart Amelia Engine](#AppendixB:BPNScriptSandboxingandWhitelists-RestartAmeliaEngine)
--   [Troubleshooting](#AppendixB:BPNScriptSandboxingandWhitelists-Troubleshooting)
 By default, all scripts within a BPN are executed within a secure sandbox within the Amelia engine, whether code that appears directly in a BPN Script task or a script library script. The sandbox prevents malfunctioning or malicious code from doing damage.
 The sandbox constrains which:
 -   Classes can be imported

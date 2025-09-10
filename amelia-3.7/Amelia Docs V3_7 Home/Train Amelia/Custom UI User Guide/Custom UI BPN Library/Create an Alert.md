@@ -1,6 +1,3 @@
--   [Create the BPN](#CreateanAlert-CreatetheBPN)
--   [A Script to Create an Alert](#CreateanAlert-AScripttoCreateanAlert)
--   [Interact with Amelia](#CreateanAlert-InteractwithAmelia)
 This demonstration creates an alert created in a Script task and sent as a JSON string for display by Amelia.
 ![](attachments/11939954/11939956.png)
 Figure. doAlert BPN

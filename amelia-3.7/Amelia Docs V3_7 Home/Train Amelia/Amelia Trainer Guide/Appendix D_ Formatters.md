@@ -1,17 +1,3 @@
--   [Overview](#AppendixD:Formatters-Overview)
--   [Supported Formatters](#AppendixD:Formatters-SupportedFormatters)
--   [Accessing formatters](#AppendixD:Formatters-Accessingformatters)
--   [Default Formatters per Datum Type](#AppendixD:Formatters-DefaultFormattersperDatumType)
-    -   [Simple Datum](#AppendixD:Formatters-SimpleDatum)
-    -   [Location Datum](#AppendixD:Formatters-LocationDatum)
-    -   [Unit Datum](#AppendixD:Formatters-UnitDatum)
-    -   [Simple Range Formatters](#AppendixD:Formatters-SimpleRangeFormatters)
-    -   [Unit Range Formatters](#AppendixD:Formatters-UnitRangeFormatters)
--   [Simple Formatters](#AppendixD:Formatters-SimpleFormatters)
--   [Location Formatters](#AppendixD:Formatters-LocationFormatters)
--   [Unit Formatters](#AppendixD:Formatters-UnitFormatters)
--   [Simple Range Formatters](#AppendixD:Formatters-SimpleRangeFormatters.1)
--   [Unit Range Formatters](#AppendixD:Formatters-UnitRangeFormatters.1)
 # Overview
 This page lists and expands on the information regarding Formatters defined for formatting the datum values in [Appendix C: Datum Types](Appendix%20C_%20Datum%20Types).
 # Supported Formatters

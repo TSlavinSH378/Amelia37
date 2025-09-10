@@ -1,6 +1,3 @@
--   [Create the BPN](#CreateSuggestedResponses-CreatetheBPN)
--   [A Script to Create Suggested Responses](#CreateSuggestedResponses-AScripttoCreateSuggestedResponses)
--   [Interact with Amelia](#CreateSuggestedResponses-InteractwithAmelia)
 This demonstration creates suggested responses to appear above the chat input in the conversation area.
 ![](attachments/11939970/11939971.png)
 Figure. doSuggestedResponses BPN

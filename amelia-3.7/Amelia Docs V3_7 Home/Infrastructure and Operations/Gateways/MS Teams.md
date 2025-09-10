@@ -1,8 +1,3 @@
--   [Text Messages](#MSTeams-TextMessages)
--   [Present Task (Images Only)](#MSTeams-PresentTask(ImagesOnly))
--   [Forms](#MSTeams-Forms)
-    -   [Quick Reply Buttons / Dropdown Selection](#MSTeams-QuickReplyButtons/DropdownSelection)
-    -   [Multi-line Input](#MSTeams-Multi-lineInput)
 The Amelia MS Teams Gateway allows users to have a conversation with Amelia through the MS Teams chat software.  
 # Text Messages
 Normal text message conversation is supported.

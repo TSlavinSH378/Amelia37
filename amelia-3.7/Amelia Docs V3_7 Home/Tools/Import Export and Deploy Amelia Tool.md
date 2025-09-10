@@ -1,18 +1,3 @@
--   [Overview](#ImportExportandDeployAmeliaTool-Overview)
--   [Intended Audience](#ImportExportandDeployAmeliaTool-IntendedAudience)
--   [Required Authorities](#ImportExportandDeployAmeliaTool-RequiredAuthorities)
--   [Command Usage](#ImportExportandDeployAmeliaTool-CommandUsage)
--   [Command Option Flags (changed in 3.6.4 and 3.7.4)](#ImportExportandDeployAmeliaTool-CommandOptionFlags(changedin3.6.4and3.7.4))
--   [Supported Content](#ImportExportandDeployAmeliaTool-SupportedContent)
--   [Directory Structure (changed in 3.7.9)](#ImportExportandDeployAmeliaTool-DirectoryStructure(changedin3.7.9))
--   [Content Container Types](#ImportExportandDeployAmeliaTool-ContentContainerTypes)
-    -   [Amelia](#ImportExportandDeployAmeliaTool-Amelia)
-    -   [File System](#ImportExportandDeployAmeliaTool-FileSystem)
-    -   [Git](#ImportExportandDeployAmeliaTool-Git)
-    -   [Zip](#ImportExportandDeployAmeliaTool-Zip)
--   [Release Notes](#ImportExportandDeployAmeliaTool-ReleaseNotes)
--   [Download](#ImportExportandDeployAmeliaTool-Download)
--   [FAQs](#ImportExportandDeployAmeliaTool-FAQs)
 > [!info]  
 >
 > [Conductor Engine CLI](Conductor) is the next generation of this tool. Consider using Conductor instead unless there is a legacy reason to use this tool.

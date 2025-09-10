@@ -2,13 +2,6 @@
 >
 > Please note this page is a work in progress. Content is likely to change as Amelia V3 evolves and more in-depth documentation becomes available.
 
--   [Website-Based Channels](#Amelia'sInterfaces-Website-BasedChannels)
-    -   [The Basic Website Interface](#Amelia'sInterfaces-TheBasicWebsiteInterface)
-    -   [The Mind Interface](#Amelia'sInterfaces-TheMindInterface)
-    -   [Custom Interface](#Amelia'sInterfaces-CustomInterface)
--   [Mobile Applications](#Amelia'sInterfaces-MobileApplications)
--   [Social Channels](#Amelia'sInterfaces-SocialChannels)
--   [Links](#Amelia'sInterfaces-Links)
 Amelia interacts with people with a chat interface, as shown below. The mobile SDK and web interface allow Amelia also to be integrated into mobile applications and Skype, LivePerson, and other social channels.
 # Website-Based Channels
 The primary delivery channel for Amelia is a website. There are four primary website-based channels:

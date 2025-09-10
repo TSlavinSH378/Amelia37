@@ -1,6 +1,3 @@
--   [Override Files](#AmeliaV3SystemDGuide-OverrideFiles)
--   [Validating if a Service Is Overridden](#AmeliaV3SystemDGuide-ValidatingifaServiceIsOverridden)
--   [Current Amelia V3 Override Settings](#AmeliaV3SystemDGuide-CurrentAmeliaV3OverrideSettings)
 When rebooting an Amelia V3 host or restarting individual processes, all underlying components they depend on must be started first.
 To start underlying components first, Amelia V3 includes systemd drop-in files for Amelia daemons and Percona / MySQL databases.  These files are independent of unit files provided by IPsoft for the amelia-\* RPMs or from third party vendors such as Percona, rabbitmq-server, redis, and haproxy. While these native package systemd unit files can be changed at any time, they should not be edited. Changes should only be made to Amelia V3 drop-in unit files applied on top of the original unit files which override values from the original files.
 Amelia V3 override files are stored on disk at /etc/systemd/system/\<service\>.service.d/override.conf

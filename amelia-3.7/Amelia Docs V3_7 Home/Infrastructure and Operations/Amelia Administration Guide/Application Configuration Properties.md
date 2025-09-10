@@ -1,7 +1,3 @@
--   [Arbitration](#ApplicationConfigurationProperties-Arbitration)
--   [BPN](#ApplicationConfigurationProperties-BPN)
--   [Episodic](#ApplicationConfigurationProperties-Episodic)
--   [Humanization](#ApplicationConfigurationProperties-Humanization)
 This page describes the application configuration properties organized by subsystem.
 # Arbitration
 

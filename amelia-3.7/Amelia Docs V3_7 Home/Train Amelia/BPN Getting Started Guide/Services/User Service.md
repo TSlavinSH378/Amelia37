@@ -1,14 +1,3 @@
--   [Methods](#UserService-Methods)
-    -   [getUser](#UserService-getUser)
-    -   [registerUser](#UserService-registerUser)
-    -   [updateUser](#UserService-updateUser)
-    -   [userExistsWithName](#UserService-userExistsWithName)
-    -   [userExistsWithEmail](#UserService-userExistsWithEmail)
--   [BpnUser Data Structure](#UserService-BpnUserDataStructure)
--   [Display User Data](#UserService-DisplayUserData)
-    -   [Create a BPN](#UserService-CreateaBPN)
-    -   [A Script to User Data](#UserService-AScripttoUserData)
-    -   [Interact with Amelia](#UserService-InteractwithAmelia)
 # Methods
 ## getUser
     BpnUser getUser()

@@ -1,6 +1,3 @@
--   [Create the BPN](#CreateaBPNProcessFlow-CreatetheBPN)
--   [A Script to Retrieve API Output](#CreateaBPNProcessFlow-AScripttoRetrieveAPIOutput)
--   [Interact with Amelia](#CreateaBPNProcessFlow-InteractwithAmelia)
 Once the integration flow and host details have been configured, call the service from within a BPN process flow.
 ![](attachments/11939862/11939863.png)
 Figure. Simple BPN to Retrieve API Output

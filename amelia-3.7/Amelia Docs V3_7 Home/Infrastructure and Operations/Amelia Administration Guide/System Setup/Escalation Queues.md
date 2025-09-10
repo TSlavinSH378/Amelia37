@@ -1,6 +1,3 @@
--   [The Escalation Queues Interface](#EscalationQueues-TheEscalationQueuesInterface)
--   [Create and Update an Escalation Queue](#EscalationQueues-CreateandUpdateanEscalationQueue)
--   [Delete an Escalation Queue](#EscalationQueues-DeleteanEscalationQueue)
 Once a conversation is escalated, it will be placed in one of the existing queues defined for the conversation domain. The module in Amelia that escalates the conversation, for example, a BPN, will specify the queue where the conversation should be placed. If no queue is specified, conversations will be queued on the domain's default queue.
 To create and modify escalation queues, users must have their access privileges include these authorities:
 AUTHORITY_ADMIN_ESCALATION_QUEUE_VIEW  

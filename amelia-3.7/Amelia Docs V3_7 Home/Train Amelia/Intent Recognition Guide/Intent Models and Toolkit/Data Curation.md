@@ -1,13 +1,3 @@
--   [Organization and Version Control](#DataCuration-OrganizationandVersionControl)
-    -   [Data Sets Organization](#DataCuration-DataSetsOrganization)
-    -   [Maintain Master Data Sets](#DataCuration-MaintainMasterDataSets)
-    -   [Version Control of the Data and Models](#DataCuration-VersionControloftheDataandModels)
--   [Content Management](#DataCuration-ContentManagement)
-    -   [Text Editors vs Spreadsheets vs Data Management Tools](#DataCuration-TextEditorsvsSpreadsheetsvsDataManagementTools)
-        -   [Text Editors](#DataCuration-TextEditors)
-        -   [Spreadsheets](#DataCuration-Spreadsheets)
-        -   [Data Management Tools](#DataCuration-DataManagementTools)
-    -   [Preserving and Checking Formatting](#DataCuration-PreservingandCheckingFormatting)
 Working with models requires juggling large amounts of precious and evolving data. To stay in control of this data and preserve any formatting, data must be managed and curated in a reasonably disciplined way. This avoids potential double work and time-consuming clean-ups. To work efficiently and smartly with this data, it's helpful to know a few techniques to search in the data and read it.
 # Organization and Version Control
 The data we use is distributed across various files. They should be organized in a sensible way that helps us keep the data clean, and allows us to cooperate on the data and maintain version control.

@@ -1,21 +1,3 @@
--   [Identify the Intent Scope](#IntentScope-IdentifytheIntentScope)
-    -   [1. The Independence Test](#IntentScope-1.TheIndependenceTest)
-    -   [2. The End User Test](#IntentScope-2.TheEndUserTest)
-    -   [3. The Business Value Test](#IntentScope-3.TheBusinessValueTest)
-    -   [4. The Amelia Test](#IntentScope-4.TheAmeliaTest)
-    -   [5. The Organizational Test](#IntentScope-5.TheOrganizationalTest)
-    -   [6. The System Test](#IntentScope-6.TheSystemTest)
--   [Evaluate the Intent Scope](#IntentScope-EvaluatetheIntentScope)
-    -   [1. Number](#IntentScope-1.Number)
-    -   [2. Distance](#IntentScope-2.Distance)
-        -   [Types of Distance](#IntentScope-TypesofDistance)
-            -   [Horizontal Distance](#IntentScope-HorizontalDistance)
-            -   [Vertical Distance](#IntentScope-VerticalDistance)
-        -   [Forms of Overlap and Ambiguity](#IntentScope-FormsofOverlapandAmbiguity)
-            -   [Language Pattern Overlap](#IntentScope-LanguagePatternOverlap)
-            -   [Semantic Ambiguity](#IntentScope-SemanticAmbiguity)
-    -   [3. Specificity](#IntentScope-3.Specificity)
-    -   [4. Volume](#IntentScope-4.Volume)
 To recognize user intent, Amelia uses one or more intents which make up intent scope. The use case determines how high or low recognition might be for Amelia. Intent recognition plus a limited level of disambiguation, sorting out similar but different intents, are critical success factors. The selection and design of Amelia's roles and skills must address intent scope to ensure achievable levels of intent recognition.
 # Identify the Intent Scope
 Six tests can identify and validate intents to determine which intents belong in the collection of intents, or intent scope, Amelia uses to perform her role and use her skills.

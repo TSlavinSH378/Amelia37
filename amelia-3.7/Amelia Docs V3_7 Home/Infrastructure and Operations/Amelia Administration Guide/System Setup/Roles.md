@@ -1,7 +1,3 @@
--   [Default Roles](#Roles-DefaultRoles)
--   [The Roles Interface](#Roles-TheRolesInterface)
--   [Create and Update Roles](#Roles-CreateandUpdateRoles)
--   [Delete a Role](#Roles-DeleteaRole)
 All the authorities needed to perform specific tasks are grouped into roles. For example, a Power User in the Amelia environment is an enhanced User. They can see everything, more than Users, but what they can do is limited. To demonstrate a chat session with Amelia and show which BPN is triggered, a user would need to be assigned the Power User role (to see everything) and an Agent role (to run a chat session).
 More information about roles is found in the [R](https://docs.ipsoft.com/display/AmeliaDocsV3/Access+and+Permissions#AccessandPermissions-UserGroupDefs)[oles](https://docs.ipsoft.com/display/AmeliaDocsV3/Access+and+Permissions#AccessandPermissions-RoleDefs) and [Authorities](https://docs.ipsoft.com/display/AmeliaDocsV3/Access+and+Permissions#AccessandPermissions-AuthorityDefs) parts of the [Access and Permissions](https://docs.ipsoft.com/display/AmeliaDocsV3/Access+and+Permissions) section.
 ## Default Roles

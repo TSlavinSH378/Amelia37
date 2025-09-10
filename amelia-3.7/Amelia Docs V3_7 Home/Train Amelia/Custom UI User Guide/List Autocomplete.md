@@ -1,7 +1,3 @@
--   [Response Modes](#ListAutocomplete-ResponseModes)
-    -   [Submit Mode](#ListAutocomplete-SubmitMode)
-    -   [Input Mode](#ListAutocomplete-InputMode)
--   [Script Task Code](#ListAutocomplete-ScriptTaskCode)
 The custom user interface can present a list of possible responses to a user, as a way to standardize responses and streamline the response process. The list of possible responses is defined in a BPN Script task, with the list contents saved as a variable, then referenced in an Ask task. The contents of the list responses can be defined dynamically or as static code.
 # Response Modes
 There are two possible ways a user can respond to a pre-populated list of possible responses, submit mode and input mode.

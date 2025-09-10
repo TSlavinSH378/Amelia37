@@ -1,17 +1,3 @@
--   [Overview](#TexttoSpeechServerInstallation-Overview)
--   [Minimum Server Specifications](#TexttoSpeechServerInstallation-MinimumServerSpecifications)
--   [Prerequisites](#TexttoSpeechServerInstallation-Prerequisites)
--   [Installation Package](#TexttoSpeechServerInstallation-InstallationPackage)
-    -   [Download Package](#TexttoSpeechServerInstallation-DownloadPackage)
-    -   [Zone Identifier File](#TexttoSpeechServerInstallation-ZoneIdentifierFile)
--   [Batch File Installation](#TexttoSpeechServerInstallation-BatchFileInstallation)
--   [Manual Installation](#TexttoSpeechServerInstallation-ManualInstallation)
--   [Additional Permissions/Validation](#TexttoSpeechServerInstallation-AdditionalPermissions/Validation)
--   [Functional Verification from Browser](#TexttoSpeechServerInstallation-FunctionalVerificationfromBrowser)
--   [Monitoring](#TexttoSpeechServerInstallation-Monitoring)
--   [Supported Languages](#TexttoSpeechServerInstallation-SupportedLanguages)
--   [Windows 2012 Roles](#TexttoSpeechServerInstallation-Windows2012Roles)
--   [Windows 2016 Roles](#TexttoSpeechServerInstallation-Windows2016Roles)
 # Overview
 Text-to-speech (TTS) installation is a requirement for speech synthesis in Amelia. Multiple TTS voice engines may be installed to facilitate synthesis of audio to satisfy specified language requirements. Microsoft Internet Information Services (IIS) receives encoding requests and also serves the front-end content.
 An Amelia instance running on Linux also needs a TTS-related property configured to point to the speech URL available on the IIS server.

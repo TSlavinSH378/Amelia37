@@ -1,14 +1,3 @@
--   [Amelia Backups](#Backups-AmeliaBackups)
-    -   [Amelia System Backups](#Backups-AmeliaSystemBackups)
-        -   [The Artifact Promotion Interface](#Backups-TheArtifactPromotionInterface)
-        -   [Create Archive Backups](#Backups-CreateArchiveBackups)
-        -   [Restore a Backup](#Backups-RestoreaBackup)
-    -   [Amelia Conversation Backups](#Backups-AmeliaConversationBackups)
--   [Files to Backup](#Backups-FilestoBackup)
-    -   [Files and Directories](#Backups-FilesandDirectories)
-    -   [Database Backups](#Backups-DatabaseBackups)
-        -   [cron Database Script](#Backups-cronDatabaseScript)
-        -   [Adding Other Databases](#Backups-AddingOtherDatabases)
 # Amelia Backups
 The Amelia system data and configuration details and conversations can be backed up. The system data and configuration details also can be restored.
 ## Amelia System Backups

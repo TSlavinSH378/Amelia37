@@ -1,8 +1,3 @@
--   [Video](#RichChatMessages-Video)
--   [Image](#RichChatMessages-Image)
--   [Link](#RichChatMessages-Link)
--   [Document](#RichChatMessages-Document)
--   [Table Data](#RichChatMessages-TableData)
 Multimedia content – video, images, documents, links, and data in table format – can be displayed in Amelia's conversation in the custom user interface. Data is sent with an integration message from a BPN Script task to the interface.
 Messages can be presented in different sizes based on media type.
 Table. Media Type and Message Sizes

@@ -1,11 +1,3 @@
--   [Pick a Single Date](#Calendar-PickaSingleDate)
--   [Pick a Date Range](#Calendar-PickaDateRange)
-    -   [Default](#Calendar-Default)
-    -   [Block Days Before and After Specific Dates](#Calendar-BlockDaysBeforeandAfterSpecificDates)
-    -   [Block Days Before a Specific Date](#Calendar-BlockDaysBeforeaSpecificDate)
-    -   [Block Days After a Specific Date](#Calendar-BlockDaysAfteraSpecificDate)
-    -   [Block Days After Today's Date](#Calendar-BlockDaysAfterToday'sDate)
-    -   [Block Specific Dates](#Calendar-BlockSpecificDates)
 The custom user interface can display a calendar in the conversation chat box. Possible calendar options are defined in a BPN Script task, saved as a variable, and then referenced in an Ask task.
 The code examples below can be dropped into a Script task in a simple BPN to demonstrate how they work. The Ask task Form data variable property also must be set to formInputData, the Script task variable output shown below, or whatever variable name is used. Once the BPN is saved and deployed, type `run the workflow BPNName` in the custom user interface chat box, where `BPNName `is the name of the simple BPN.
 ![](attachments/20809426/20809492.png)

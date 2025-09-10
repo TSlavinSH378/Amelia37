@@ -1,16 +1,3 @@
--   [Methods](#EscalationQueueService-Methods)
-    -   [getNumberOfAvailableAgentsByQueueCode](#EscalationQueueService-getNumberOfAvailableAgentsByQueueCode)
-    -   [getNumberOfAvailableAgentsByQueueName](#EscalationQueueService-getNumberOfAvailableAgentsByQueueName)
-    -   [getAvailableAgentsByQueueCode](#EscalationQueueService-getAvailableAgentsByQueueCode)
-    -   [getAvailableAgentsByQueueName](#EscalationQueueService-getAvailableAgentsByQueueName)
-    -   [getNumberOfBusyAgentsByQueueCode](#EscalationQueueService-getNumberOfBusyAgentsByQueueCode)
-    -   [getNumberOfBusyAgentsByQueueName (new 3.6.x)](#EscalationQueueService-getNumberOfBusyAgentsByQueueName(new3.6.x))
-    -   [getNumberOfReadyAgentsByQueueCode (new 3.6.x)](#EscalationQueueService-getNumberOfReadyAgentsByQueueCode(new3.6.x))
-    -   [getNumberOfReadyAgentsByQueueName (new 3.6.x)](#EscalationQueueService-getNumberOfReadyAgentsByQueueName(new3.6.x))
-    -   [getNumberOfQueuedChatsByQueueCode (new 3.6.x)](#EscalationQueueService-getNumberOfQueuedChatsByQueueCode(new3.6.x))
-    -   [getNumberOfQueuedChatsByQueueName (new 3.6.x)](#EscalationQueueService-getNumberOfQueuedChatsByQueueName(new3.6.x))
-    -   [getNumberOfActiveChatsByQueueCode (new 3.6.x)](#EscalationQueueService-getNumberOfActiveChatsByQueueCode(new3.6.x))
-    -   [getNumberOfActiveChatsByQueueName (new 3.6.x)](#EscalationQueueService-getNumberOfActiveChatsByQueueName(new3.6.x))
 This service provides operations associated with the agent information of a given escalation queue. It is exposed as "escalationQueueService", to script tasks and libraries.
 # Methods
 ## getNumberOfAvailableAgentsByQueueCode

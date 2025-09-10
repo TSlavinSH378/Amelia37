@@ -1,9 +1,3 @@
--   [Getting Started](#ConductorOverview-GettingStarted)
--   [Clients](#ConductorOverview-Clients)
--   [User Groups](#ConductorOverview-UserGroups)
--   [Users, Roles, and Authorities](#ConductorOverview-Users,Roles,andAuthorities)
--   [Instances](#ConductorOverview-Instances)
--   [Migrations](#ConductorOverview-Migrations)
 This page describes the high-level perspective of the user functionality for Conductor. 
 # Getting Started
 After installing Conductor, the setup wizard will walk through the first steps of getting Conductor ready for regular use. This includes creating the first administrator account, creating the first client, and creating user groups to assign future users to that client. Once the setup is complete the home page will be the Migration Plans list, which should be empty. The next thing to do would be to create an instance or two and then create a migration plan to use the instance(s). The following sections will go into detail about the rest of the functionality in Conductor.

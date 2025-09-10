@@ -1,14 +1,3 @@
--   [Building and Enhancing a Model](#BuildingtheIntentModel-BuildingandEnhancingaModel)
-    -   [Build Mode](#BuildingtheIntentModel-BuildMode)
-    -   [Enhance Mode](#BuildingtheIntentModel-EnhanceMode)
--   [High-Level Analysis](#BuildingtheIntentModel-High-LevelAnalysis)
-    -   [Performance (Accuracy)](#BuildingtheIntentModel-Performance(Accuracy))
-    -   [Balance, Overtraining, and Undertraining](#BuildingtheIntentModel-Balance,Overtraining,andUndertraining)
-    -   [Conflicts, Collisions, and Overlap](#BuildingtheIntentModel-Conflicts,Collisions,andOverlap)
--   [Selecting What to Fix](#BuildingtheIntentModel-SelectingWhattoFix)
-    -   [High Impact](#BuildingtheIntentModel-HighImpact)
-    -   [Systemic Fixes](#BuildingtheIntentModel-SystemicFixes)
--   [Deep Dive Analysis and Training Data Optimization](#BuildingtheIntentModel-DeepDiveAnalysisandTrainingDataOptimization)
 To build and optimize an intent model for high intent recognition requires understanding the current state of the model and knowing how to build and optimize a model.
 # Building and Enhancing a Model
 Working with intent models has two modes, build mode and enhance mode. Build mode happens when creating a new model or expanding an existing model by adding new intents. Enhance mode improves an existing model with no change to its intents. Each mode has significant differences.

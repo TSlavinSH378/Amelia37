@@ -1,13 +1,3 @@
--   [Configuration Files](#AppendixB:SystemFileandFolderLocations-ConfigurationFiles)
-    -   [System Configuration Files](#AppendixB:SystemFileandFolderLocations-SystemConfigurationFiles)
-    -   [Service Unit Configuration Files](#AppendixB:SystemFileandFolderLocations-ServiceUnitConfigurationFiles)
-    -   [Property Configuration Files](#AppendixB:SystemFileandFolderLocations-PropertyConfigurationFiles)
--   [Backup Files](#AppendixB:SystemFileandFolderLocations-BackupFiles)
--   [HAProxy](#AppendixB:SystemFileandFolderLocations-HAProxy)
--   [MySQL Files](#AppendixB:SystemFileandFolderLocations-MySQLFiles)
--   [RabbitMQ](#AppendixB:SystemFileandFolderLocations-RabbitMQ)
--   [Redis](#AppendixB:SystemFileandFolderLocations-Redis)
--   [System Files](#AppendixB:SystemFileandFolderLocations-SystemFiles)
 When debugging, there could be system files to check and preserve. The table below lists the file locations used by the Amelia system. If a folder or file does not exist, in most cases, it is for a service not installed, for example, a LivePerson integration.
 # Configuration Files
 The Amelia system includes configuration files for the system, service units, and properties.

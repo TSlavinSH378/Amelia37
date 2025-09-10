@@ -1,10 +1,3 @@
--   [Configure a Host](#CreateanIntegrationFlow-ConfigureaHost)
--   [Configure a Flow](#CreateanIntegrationFlow-ConfigureaFlow)
-    -   [Configure Flows with Stencils and Designer View](#CreateanIntegrationFlow-ConfigureFlowswithStencilsandDesignerView)
-    -   [Configure Flows with Code and Source View](#CreateanIntegrationFlow-ConfigureFlowswithCodeandSourceView)
--   [Deploy Integration Service](#CreateanIntegrationFlow-DeployIntegrationService)
--   [Create a Flow with an Integration Template](#CreateanIntegrationFlow-CreateaFlowwithanIntegrationTemplateIntegrationTemplates)
--   [Create an Integration Template from an Integration Flow](#CreateanIntegrationFlow-CreateanIntegrationTemplatefromanIntegrationFlow)
 The API integrations are defined in the Amelia V3 administration pages. Click the Integrations Home link on the left side then click Integration Home to display the home page. To create an integration, at least configure one Host data and one or more Flows.
 An integration flow also can be created with an integration template, as described at the bottom of this page.
 # Configure a Host

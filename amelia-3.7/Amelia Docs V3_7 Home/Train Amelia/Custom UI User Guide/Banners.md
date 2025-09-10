@@ -1,14 +1,4 @@
 .
--   [Create a Basic Banner](#Banners-CreateaBasicBanner)
-    -   [Create the BPN](#Banners-CreatetheBPN)
-    -   [A Script to Create a Banner](#Banners-AScripttoCreateaBanner)
-    -   [Interact with Amelia](#Banners-InteractwithAmelia)
--   [Additional Banners](#Banners-AdditionalBanners)
-    -   [Banner with Buttons](#Banners-BannerwithButtons)
-    -   [Banner with Image Background](#Banners-BannerwithImageBackground)
--   [Banner Elements](#Banners-BannerElements)
-    -   [Default and Text Elements](#Banners-DefaultandTextElements)
-    -   [Button Settings](#Banners-ButtonSettings)
 In Amelia's custom user interface, a banner is a standalone component like chat notes that appears fixed at the top of the chat notes panel. A banner is the simplest component of the custom UI and, therefore, a good place to start learning about how to use the interface. The banner background color is defined when Amelia is installed.
 ![](attachments/11939923/11945102.png)
 Figure. Banner on Desktop and Mobile

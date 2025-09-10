@@ -1,14 +1,3 @@
--   [How much of the Custom UI is accessible?](#CustomUIAccessibility-HowmuchoftheCustomUIisaccessible?)
--   [Testing](#CustomUIAccessibility-Testing)
--   [Screen Reader](#CustomUIAccessibility-ScreenReader)
--   [Keyboard accessibility](#CustomUIAccessibility-Keyboardaccessibility)
--   [Development aspects](#CustomUIAccessibility-Developmentaspects)
-    -   [Focusable elements](#CustomUIAccessibility-Focusableelements)
-    -   [Clicking elements](#CustomUIAccessibility-Clickingelements)
-    -   [ARIA](#CustomUIAccessibility-ARIA)
-    -   [Roles](#CustomUIAccessibility-Roles)
-    -   [Screen reader messages](#CustomUIAccessibility-Screenreadermessages)
-    -   [Blue Focus Rings](#CustomUIAccessibility-BlueFocusRings)
 # How much of the Custom UI is accessible?
 We follow Web Content Accessibility Guidelines in terms of accessibility.  For developer convenience, W3 created a [checklist](https://www.w3.org/TR/2006/WD-WCAG20-20060427/appendixB.html) of success criterias  
 which we used during implementation accessibility. Operating systems such as Windows, iOS, and Android come equipped with accessibility modules  

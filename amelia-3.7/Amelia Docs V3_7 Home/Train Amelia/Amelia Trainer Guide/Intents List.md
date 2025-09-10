@@ -1,13 +1,3 @@
--   [Intents Workspaces](#IntentsList-IntentsWorkspaces)
--   [Create an Intent](#IntentsList-CreateanIntent)
--   [Edit an Intent](#IntentsList-EditanIntent)
--   [Delete an Intent](#IntentsList-DeleteanIntent)
--   [Upload Intents](#IntentsList-UploadIntents)
-    -   [Create Intent Files](#IntentsList-CreateIntentFiles)
-    -   [Upload Intent Files](#IntentsList-UploadIntentFiles)
--   [Test Intents and Intent Models](#IntentsList-TestIntentsandIntentModels)
--   [Manage Intents in the Process Knowledge Workspace](#IntentsList-ManageIntentsintheProcessKnowledgeWorkspace)
--   [Intent Best Practices](#IntentsList-IntentBestPractices)
 Intents define user goals and intents, often with a reference to expected data and utterances required to meet the goal. For example, to retrieve a copy of a hotel bill, an intent might include the utterance, "I lost my hotel bill. Can you send me a copy?"
 Intents connect specific user phrases with responses from Amelia to confirm entities or call a BPN.
 Intents can be collected in a tab-separated value (TSV) classifier file with the intent name(s) in one column and utterances to their right in a second column. However, these files cannot include negative utterances or FAQs. Importing these TSV files adds each intent with all their utterances.

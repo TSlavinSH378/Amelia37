@@ -1,10 +1,3 @@
--   [Chat Log](#TimelineGraphs-ChatLog)
-    -   [Large Single Series Graph](#TimelineGraphs-LargeSingleSeriesGraph)
-    -   [Large Multiple Series Timeline Graph](#TimelineGraphs-LargeMultipleSeriesTimelineGraph)
--   [Chat Notes](#TimelineGraphs-ChatNotes)
-    -   [Large Timeline Single Series Graph](#TimelineGraphs-LargeTimelineSingleSeriesGraph)
-    -   [Large Timeline Graph with Multiple Series](#TimelineGraphs-LargeTimelineGraphwithMultipleSeries)
-    -   [Small Timeline Graph with Time Selector](#TimelineGraphs-SmallTimelineGraphwithTimeSelector)
 # Chat Log
 Single series and multiple series timeline graphs can display in the chat log conversation area, as part of the conversation.
 ## Large Single Series Graph

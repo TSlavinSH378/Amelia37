@@ -1,11 +1,3 @@
--   [BPN Model Types](#IntroductiontoBPNs-BPNModelTypes)
--   [BPN Elements](#IntroductiontoBPNs-BPNElements)
-    -   [Events](#IntroductiontoBPNs-Events)
-    -   [Tasks](#IntroductiontoBPNs-Tasks)
-    -   [Gateways and Flows](#IntroductiontoBPNs-GatewaysandFlows)
-    -   [Edge Notation](#IntroductiontoBPNs-EdgeNotation)
-    -   [Scripting](#IntroductiontoBPNs-Scripting)
-    -   [Integrations](#IntroductiontoBPNs-Integrations)
 A Business Process Network (BPN) is a flexible and extensible way to guide Amelia's behavior in her interactions. They define a process flow needed to identify and resolve multiple goals and use cases. This is in addition to training Amelia's mind with relevant data to create a reasoning model to help her converse with people. BPNs map her process. Training gives her a model to use when evaluating responses from a conversation.
 Amelia uses a BPN model based on the Business Process Model and Notation 2.0 (BPMN). By definition, Business Process Model and Notation helps businesses understand and document their internal procedures with graphical notation, as well as the ability to communicate these procedures in a standard.
 # BPN Model Types

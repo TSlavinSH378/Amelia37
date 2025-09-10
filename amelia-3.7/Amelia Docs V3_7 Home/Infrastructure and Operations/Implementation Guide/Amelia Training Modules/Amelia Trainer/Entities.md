@@ -2,21 +2,6 @@
 >
 > Please note this page is a work in progress. Content is likely to change as Amelia V3 evolves and more in-depth documentation becomes available.
 
--   [Entities Workspace](#Entities-EntitiesWorkspace)
--   [Create an Entity](#Entities-CreateanEntity)
-    -   [Add Single Entities](#Entities-AddSingleEntities)
-        -   [Role Entities](#Entities-RoleEntities)
-        -   [Custom Datum Entities](#Entities-CustomDatumEntities)
-        -   [Spanless Entities](#Entities-SpanlessEntities)
-    -   [Upload Exported Entities](#Entities-UploadExportedEntities)
--   [Edit an Entity](#Entities-EditanEntity)
--   [Delete an Entity](#Entities-DeleteanEntity)
--   [Create Role Entities](#Entities-CreateRoleEntities)
--   [Create Composite Entities](#Entities-CreateCompositeEntities)
--   [Handling Negation with Entities and Entity Models](#Entities-HandlingNegationwithEntitiesandEntityModels)
--   [Test an Entity and Entity Models](#Entities-TestanEntityandEntityModels)
--   [Manage Entities in the Process Knowledge Workspace](#Entities-ManageEntitiesintheProcessKnowledgeWorkspace)
--   [Add Multiple Entities in Annotate Workspace](#Entities-AddMultipleEntitiesinAnnotateWorkspace)
 Entities capture data from user utterances that Amelia needs to fulfill a user request. Entities are the pieces of data needed to achieve a goal or intent. For example, dates, locations, names, and other data are defined as entities then used by Amelia to capture data and complete a conversation.
 Entities are defined two ways, as standalone items and as a tool to annotate chat transcripts and other data. Amelia uses both sets of entity data to create a representational model to converse with people and perform specific tasks.
 # Entities Workspace

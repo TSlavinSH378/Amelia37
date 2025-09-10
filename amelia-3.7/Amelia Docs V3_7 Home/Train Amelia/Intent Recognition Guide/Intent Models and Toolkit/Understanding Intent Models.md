@@ -1,16 +1,3 @@
--   [What the Intent Model Is and Isn't](#UnderstandingIntentModels-WhattheIntentModelIsandIsn't)
-    -   [What the Intent Model Is](#UnderstandingIntentModels-WhattheIntentModelIs)
-        -   [Supervised Machine Learning](#UnderstandingIntentModels-SupervisedMachineLearning)
-        -   [Classification](#UnderstandingIntentModels-Classification)
-        -   [Natural Language Processing](#UnderstandingIntentModels-NaturalLanguageProcessing)
-    -   [What the Intent Model Isn't](#UnderstandingIntentModels-WhattheIntentModelIsn't)
-        -   [Search](#UnderstandingIntentModels-Search)
-        -   [Similarity Matching](#UnderstandingIntentModels-SimilarityMatching)
--   [The Goal of the Intent Model](#UnderstandingIntentModels-TheGoaloftheIntentModel)
-    -   [Maximizing Predictive Performance on Unseen Utterances](#UnderstandingIntentModels-MaximizingPredictivePerformanceonUnseenUtterances)
-    -   [Building a Balanced Model](#UnderstandingIntentModels-BuildingaBalancedModel)
-        -   [Finding the Perfect Balance](#UnderstandingIntentModels-FindingthePerfectBalance)
-    -   [Avoiding Overtraining and Undertraining (Overfitting and Underfitting)](#UnderstandingIntentModels-AvoidingOvertrainingandUndertraining(OverfittingandUnderfitting))
 In most Amelia deployments, the intent model does the lion's share of intent recognition. This page describes intent models and what models can achieve, as well as how to approach training and validating a model and then how to build, analyze and optimize it.
 # What the Intent Model Is and Isn't
 As with any tool, the intent model should be used for what it's designed to do, not something it's not designed to do. 

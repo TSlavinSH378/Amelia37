@@ -1,8 +1,3 @@
--   [Greeting](#AlexaOverview-Greeting)
--   [Utterance Recognition](#AlexaOverview-UtteranceRecognition)
--   [Conversation](#AlexaOverview-Conversation)
--   [Installation](#AlexaOverview-Installation)
--   [Distribution](#AlexaOverview-Distribution)
 The Alexa Gateway allows Amazon Alexa users to speak to Amelia by invoking her name (or a customized name) as a skill. Invoking the skills name automatically launches a new conversation with Amelia.
 ## Greeting
 As with any Amelia conversation, Amelia begins by greeting the user. Using the greeting BPN feature from Amelia, she introduces the user to all the functionalities of the skill as well as conveys any relevant information.

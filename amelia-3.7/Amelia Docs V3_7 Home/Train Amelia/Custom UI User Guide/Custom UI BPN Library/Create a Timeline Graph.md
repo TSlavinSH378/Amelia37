@@ -1,6 +1,3 @@
--   [Create the BPN](#CreateaTimelineGraph-CreatetheBPN)
--   [A Script to Create a Timeline Graph](#CreateaTimelineGraph-AScripttoCreateaTimelineGraph)
--   [Interact with Amelia](#CreateaTimelineGraph-InteractwithAmelia)
 This demonstration creates a timeline graph of data stored in a Script task and sent as a JSON string for display by Amelia.
 ![](attachments/11939967/11939968.png)
 Figure. doTimelineGraph BPN

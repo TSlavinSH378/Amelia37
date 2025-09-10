@@ -1,12 +1,3 @@
--   [Create a BPN Model](#CreateandModifyBPNModels-CreateaBPNModel)
--   [Save and Deploy a BPN](#CreateandModifyBPNModels-SaveandDeployaBPN)
--   [Test BPN Model Workflows](#CreateandModifyBPNModels-TestBPNModelWorkflows)
-    -   [Test with Built In Amelia Interface](#CreateandModifyBPNModels-TestwithBuiltInAmeliaInterfaceBuiltInAmelia)
-    -   [Test with Default Chat Interface](#CreateandModifyBPNModels-TestwithDefaultChatInterface)
--   [Debug BPN Model Workflows](#CreateandModifyBPNModels-DebugBPNModelWorkflows)
-    -   [Basic Debugging](#CreateandModifyBPNModels-BasicDebugging)
-    -   [Integration Errors](#CreateandModifyBPNModels-IntegrationErrors)
--   [Copy, Import, and Export BPNs](#CreateandModifyBPNModels-Copy,Import,andExportBPNs)
 The BPN creation process involves opening a model followed by layout of different elements to document one or more process flows. Models are submitted for approval and become active within Amelia upon approval.
 ![](attachments/11939409/11941390.jpg)
 Figure. Process Memory BPN Editor Workspace

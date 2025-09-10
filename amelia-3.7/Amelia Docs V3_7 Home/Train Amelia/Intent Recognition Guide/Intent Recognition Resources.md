@@ -1,5 +1,3 @@
--   [Calculator](#IntentRecognitionResources-Calculator)
--   [Intent Architecture Template](#IntentRecognitionResources-IntentArchitectureTemplate)
 # Calculator
 <https://docs.google.com/spreadsheets/d/17DGppsUNtFRowHRUkKmL3K4ytf0bswWUITKY3gTYzzo/edit#gid=1133795400>
 # Intent Architecture Template

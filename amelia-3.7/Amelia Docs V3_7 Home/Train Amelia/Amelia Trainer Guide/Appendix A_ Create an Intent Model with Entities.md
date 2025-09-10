@@ -1,22 +1,3 @@
--   [Create an Intent](#AppendixA:CreateanIntentModelwithEntities-CreateanIntent)
-    -   [Intents Workspace](#AppendixA:CreateanIntentModelwithEntities-IntentsWorkspace)
-    -   [Create an Intent](#AppendixA:CreateanIntentModelwithEntities-CreateanIntent.1)
--   [Create Entities](#AppendixA:CreateanIntentModelwithEntities-CreateEntities)
-    -   [Entity Workspace](#AppendixA:CreateanIntentModelwithEntities-EntityWorkspace)
-    -   [Create an Entity](#AppendixA:CreateanIntentModelwithEntities-CreateanEntity)
--   [Annotate Documents](#AppendixA:CreateanIntentModelwithEntities-AnnotateDocuments)
-    -   [Annotate Workspace](#AppendixA:CreateanIntentModelwithEntities-AnnotateWorkspace)
-    -   [Annotate a Conversation](#AppendixA:CreateanIntentModelwithEntities-AnnotateaConversation)
-        -   [Import](#AppendixA:CreateanIntentModelwithEntities-Import)
-        -   [Manual Annotation](#AppendixA:CreateanIntentModelwithEntities-ManualAnnotation)
--   [Train and Test an Intent Model](#AppendixA:CreateanIntentModelwithEntities-TrainandTestanIntentModel)
-    -   [Train an Intent Model](#AppendixA:CreateanIntentModelwithEntities-TrainanIntentModel)
-    -   [Test an Intent Model](#AppendixA:CreateanIntentModelwithEntities-TestanIntentModel)
-        -   [Predict Tabs](#AppendixA:CreateanIntentModelwithEntities-PredictTabs)
-        -   [Predict Workspace](#AppendixA:CreateanIntentModelwithEntities-PredictWorkspace)
--   [Deploy an Intent Model](#AppendixA:CreateanIntentModelwithEntities-DeployanIntentModel)
--   [Create a BPN](#AppendixA:CreateanIntentModelwithEntities-CreateaBPN)
--   [Test Intent, Entities, Intent Model, and BPN](#AppendixA:CreateanIntentModelwithEntities-TestIntent,Entities,IntentModel,andBPN)
 Intent models help steer conversations with Amelia towards the best BPN process to address the needs of the conversation. An intent model helps Amelia understand and make reasonable judgements about context in the words and phrases of a conversation, for example, to book a hotel room. Models are created with the Intents, Entities, and Annotate functionality in the Amelia Trainer section of Amelia's administration pages.
 Once an intent helps Amelia choose the best BPN process to complete a conversation, entities help Amelia capture data she needs to perform any tasks.
 This demonstration shows how to create an intent and entities needed to create, train, and deploy reasoning models Amelia can use to answer questions about transferring money between countries.

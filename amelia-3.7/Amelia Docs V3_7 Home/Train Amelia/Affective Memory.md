@@ -1,5 +1,3 @@
--   [Affective Memory Panel](#AffectiveMemory-AffectiveMemoryPanel)
--   [Emotion Predictions and Responses](#AffectiveMemory-EmotionPredictionsandResponses)
 Amelia V3 improves the ability to see in real time how she responds positively or negatively to conversations. There also tools available to shape Amelia's emotional responses during conversations, for example, pre-defined responses organized into response pools.
 # Affective Memory Panel
 One measure is the Pleasure Arousal Dominance (PAD) and Satisfaction graphs available in the Affective Memory tab of the Mind panel of the chat interface. Both graphs display measures of the emotional quotient for users and Amelia as they interact. The Mind panel is available by clicking the Mind link at the top right of the Amelia V3 chat interface.

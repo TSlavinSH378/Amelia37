@@ -1,16 +1,3 @@
--   [How to Use Amelia](#AmeliaBasics-HowtoUseAmelia)
-    -   [Login](#AmeliaBasics-Login)
-    -   [Conversation Area](#AmeliaBasics-ConversationArea)
-    -   [Administration Workspace](#AmeliaBasics-AdministrationWorkspace)
-    -   [Amelia Flyout in Administration Workspace](#AmeliaBasics-AmeliaFlyoutinAdministrationWorkspaceAmeliaFlyout)
--   [How Amelia Works](#AmeliaBasics-HowAmeliaWorks)
-    -   [Who is Amelia?](#AmeliaBasics-WhoisAmelia?)
-    -   [How Does Amelia Know What to Say?](#AmeliaBasics-HowDoesAmeliaKnowWhattoSay?)
-    -   [How Is Amelia Trained?](#AmeliaBasics-HowIsAmeliaTrained?)
-    -   [How Do Domains Work?](#AmeliaBasics-HowDoDomainsWork?)
-    -   [Does Amelia Work with Other Computer Systems?](#AmeliaBasics-DoesAmeliaWorkwithOtherComputerSystems?)
-    -   [Is Amelia's Interface Adaptable?](#AmeliaBasics-IsAmelia'sInterfaceAdaptable?)
-    -   [Learn More](#AmeliaBasics-LearnMore)
 # How to Use Amelia
 Amelia has several user interfaces. Most end users will use a customized interface to chat with Amelia. Agents and Supervisors handling escalations of conversations use the basic conversation interface that includes the ability to access conversations and see how Amelia processes conversations to respond to people.
 ### Login

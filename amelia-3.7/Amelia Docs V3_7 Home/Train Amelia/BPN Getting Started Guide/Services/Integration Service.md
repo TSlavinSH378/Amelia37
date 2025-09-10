@@ -1,7 +1,3 @@
--   [Methods](#IntegrationService-Methods)
-    -   [runSynchronously(String flowName)](#IntegrationService-runSynchronously(StringflowName))
-    -   [Map runSynchronously(String flowName, Map context)](#IntegrationService-Map%3CString,Object%3ErunSynchronously(StringflowName,Map%3CString,Object%3Econtext))
--   [Examples](#IntegrationService-Examples)
 The `integrationService` service provides integration flow related operations to BPN Script tasks and libraries. Many times a Run the Integration Flow task is followed by a Script task used to parse output from the preceding task. The Integration Service allows a Script task to interact with integration flows directly and adapt data, in some cases without any limitations of a BPN task.
 # Methods
 ## runSynchronously(String flowName)

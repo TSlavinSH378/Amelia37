@@ -1,7 +1,3 @@
--   [Text Messages](#SlackGatewayFeatures-TextMessages)
--   [Send Files to User](#SlackGatewayFeatures-SendFilestoUser)
--   [Quick Reply Options](#SlackGatewayFeatures-QuickReplyOptions)
--   [Get Information with Dialog Box](#SlackGatewayFeatures-GetInformationwithDialogBox)
 **Table. Slack Gateway Features**
 <table class="wrapped confluenceTable">
 <tbody>

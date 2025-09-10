@@ -1,18 +1,3 @@
--   [Requirements](#CreateaCustomChatOverlay-Requirements)
--   [Setup UI Bundles](#CreateaCustomChatOverlay-SetupUIBundles)
--   [Configure Response Headers](#CreateaCustomChatOverlay-ConfigureResponseHeaders)
-    -   [Chrome and Firefox Browsers](#CreateaCustomChatOverlay-ChromeandFirefoxBrowsers)
-    -   [All Web Browsers and HAproxy](#CreateaCustomChatOverlay-AllWebBrowsersandHAproxy)
--   [Setup Custom Chat Overlay iframe](#CreateaCustomChatOverlay-SetupCustomChatOverlayiframe)
-    -   [Configure the iframe URL](#CreateaCustomChatOverlay-ConfiguretheiframeURL)
-    -   [Add Open and Close Images](#CreateaCustomChatOverlay-AddOpenandCloseImages)
--   [Update Parent Page](#CreateaCustomChatOverlay-UpdateParentPage)
-    -   [Add Listener Code](#CreateaCustomChatOverlay-AddListenerCode)
-    -   [Add Chat Overlay Code](#CreateaCustomChatOverlay-AddChatOverlayCode)
-    -   [Add CSS Styles](#CreateaCustomChatOverlay-AddCSSStyles)
--   [Create a BPN](#CreateaCustomChatOverlay-CreateaBPN)
-    -   [A Script to Create a Custom Chat Overlay](#CreateaCustomChatOverlay-AScripttoCreateaCustomChatOverlay)
-    -   [Talk with Amelia](#CreateaCustomChatOverlay-TalkwithAmelia)
 A chat overlay is a popup window that appears over a web page. Conversing with Amelia with a chat overlay can lead her to display web pages in the main browser window, as needed. This example shows how to install and demonstrate a basic chat overlay.
 ![](attachments/11939945/25460822.png)
 Figure. Custom Chat Overlay in an Example Website

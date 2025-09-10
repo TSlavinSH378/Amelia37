@@ -1,23 +1,3 @@
--   [Integrations Workspaces](#ThirdPartyIntegrations-IntegrationsWorkspaces)
-    -   [Flow Design Workspace](#ThirdPartyIntegrations-FlowDesignWorkspace)
-    -   [Assets Workspace](#ThirdPartyIntegrations-AssetsWorkspace)
-    -   [Properties Workspace](#ThirdPartyIntegrations-PropertiesWorkspace)
--   [Create an Integration Flow](#ThirdPartyIntegrations-CreateanIntegrationFlow)
-    -   [Configure a Host](#ThirdPartyIntegrations-ConfigureaHost)
-    -   [Configure a Flow](#ThirdPartyIntegrations-ConfigureaFlow)
-        -   [Configure Flows with Stencils and Designer View](#ThirdPartyIntegrations-ConfigureFlowswithStencilsandDesignerView)
-        -   [Configure Flows with Code and Source View](#ThirdPartyIntegrations-ConfigureFlowswithCodeandSourceView)
-    -   [Deploy Integration Service](#ThirdPartyIntegrations-DeployIntegrationService)
--   [Create a BPN Process Flow](#ThirdPartyIntegrations-CreateaBPNProcessFlow)
-    -   [Create the BPN](#ThirdPartyIntegrations-CreatetheBPN)
-    -   [A Script to Retrieve API Output](#ThirdPartyIntegrations-AScripttoRetrieveAPIOutput)
-    -   [Interact with Amelia](#ThirdPartyIntegrations-InteractwithAmelia)
--   [Camel Integration Examples](#ThirdPartyIntegrations-CamelIntegrationExamples)
-    -   [Database Integration](#ThirdPartyIntegrations-DatabaseIntegration)
-        -   [Camel Code](#ThirdPartyIntegrations-CamelCode)
-        -   [Required Flow Properties](#ThirdPartyIntegrations-RequiredFlowProperties)
-        -   [Required Exchange Properties](#ThirdPartyIntegrations-RequiredExchangeProperties)
-        -   [Returned Variables](#ThirdPartyIntegrations-ReturnedVariables)
 Amelia's integration service runs separately from Amelia, possibly located on another host or hosts, and allows her to interact with external systems. Integration flows are Apache Camel contexts created with Amelia V3 administration tools and deployed to these remote processes with gRPC, a universal remote procedure call standard.
 The integration service unpacks the data received from an external system and deploys it in a Spring application separate from the parent context and any other flows running on the service. The integration service relies on Spring integration to handle RPC-style calls over RabbitMQ message broker and then internally hands off to Apache Camel to execute a request.
 > [!warning]  

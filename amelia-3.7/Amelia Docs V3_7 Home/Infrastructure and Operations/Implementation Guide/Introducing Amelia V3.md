@@ -1,13 +1,3 @@
--   [What’s New in Amelia V3](#IntroducingAmeliaV3-What’sNewinAmeliaV3)
--   [What Amelia Can Do](#IntroducingAmeliaV3-WhatAmeliaCanDo)
--   [How Amelia Learns](#IntroducingAmeliaV3-HowAmeliaLearns)
--   [Features](#IntroducingAmeliaV3-Features)
-    -   [Conversational Intelligence](#IntroducingAmeliaV3-ConversationalIntelligence)
-    -   [Advanced Analytics](#IntroducingAmeliaV3-AdvancedAnalytics)
-    -   [Smart Workflow](#IntroducingAmeliaV3-SmartWorkflow)
-    -   [Experience Management](#IntroducingAmeliaV3-ExperienceManagement)
-    -   [Supervised & Automated Learning](#IntroducingAmeliaV3-Supervised&AutomatedLearning)
--   [Modules](#IntroducingAmeliaV3-Modules)
 This guide describes the Amelia cognitive software system and provides instructions how to configure, review, and refine her responses as part of implementing an Amelia system.
 Amelia is a cognitive software agent who appears as a digital avatar who listens and interacts with people to solve problems. She reads natural language, understands context, applies logic, infers implications, learns through experience and senses emotions. She understands what is meant, not only what a person says. Amelia can take on a wide variety of rote business and engineering tasks.
 In the same way industrial machines transformed agriculture and manufacturing, Amelia and other cognitive technologies free humans from mundane support and monitoring work. Employees can focus instead on high value tasks and customer interactions. Amelia offers best practice support to ensure a high quality and consistent customer experience for these routine requests.

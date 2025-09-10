@@ -1,20 +1,3 @@
--   [Getting Started](#AgentEscalationGuide-GettingStarted)
-    -   [Interfaces](#AgentEscalationGuide-Interfaces)
-        -   [Login](#AgentEscalationGuide-Login)
-        -   [Conversation Area](#AgentEscalationGuide-ConversationArea)
-        -   [Mind View](#AgentEscalationGuide-MindView)
-        -   [Process Memory and BPNs](#AgentEscalationGuide-ProcessMemoryandBPNs)
-        -   [Active Conversations](#AgentEscalationGuide-ActiveConversations)
-        -   [End User](#AgentEscalationGuide-EndUser)
-    -   [Escalations and Notifications](#AgentEscalationGuide-EscalationsandNotifications)
-    -   [Set Agent Status](#AgentEscalationGuide-SetAgentStatus)
--   [Conversations](#AgentEscalationGuide-Conversations)
-    -   [Observe Conversations](#AgentEscalationGuide-ObserveConversations)
-    -   [Pick Up Conversations](#AgentEscalationGuide-PickUpConversations)
-    -   [Steal Conversations](#AgentEscalationGuide-StealConversations)
-    -   [SLA Warnings](#AgentEscalationGuide-SLAWarnings)
-    -   [SLA Violations](#AgentEscalationGuide-SLAViolations)
-    -   [Alerts](#AgentEscalationGuide-Alerts)
 # Getting Started
 Amelia is a cognitive software agent who performs many of the same tasks as human agents. She learns using the same information human agents use to learn. And she can access the same databases and other tools used by humans.
 More than a questions and answer chat bot, Amelia understands user requests enough to complete tasks to resolve their issues. She uses conversations to sense the emotions of people as they converse with her and acts accordingly, escalating if needed. She also answers frequently asked questions at any time during a conversation.

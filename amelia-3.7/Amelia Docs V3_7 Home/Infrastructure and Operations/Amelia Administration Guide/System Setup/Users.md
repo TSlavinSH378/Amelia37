@@ -1,6 +1,3 @@
--   [The User Interface](#Users-TheUserInterface)
--   [Create and Update Users](#Users-CreateandUpdateUsers)
--   [Add User Attributes](#Users-AddUserAttributesAddUserAttributes)
 Users within the Amelia system are provided access to a mix of groups, roles, authorities, and domains.
 ## The User Interface
 To edit or add a user, log in to Amelia's administration pages and select System Settings then Users from the left side navigation links. The Users workspace appears with a New User button at the top right.

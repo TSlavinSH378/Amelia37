@@ -1,5 +1,3 @@
--   [Information to Collect](#EscalationProcedures-InformationtoCollect)
--   [How/Where to Contact IPsoft](#EscalationProcedures-How/WheretoContactIPsoft)
 For problems that do not resolve with these procedures, the next step is to collect information and file an incident report with IPsoft.
 # Information to Collect
 If the issue requires attention from IPsoft, collect all possible information appropriate for the issue. This includes collecting all appropriate log files and other data as described in this document.
