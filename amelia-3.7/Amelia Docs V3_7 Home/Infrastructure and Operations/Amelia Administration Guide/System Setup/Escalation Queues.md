@@ -62,5 +62,3 @@ The default Escalation Queues workspace includes a search box to find existing 
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-3-22_9-28-54.png](attachments/11940267/11940268.png) (image/png)  

@@ -19,8 +19,3 @@ Figure. Select Client When Editing a User Group
 Selecting a client when editing an instance:
 ![](attachments/32510225/32510229.png)
 Figure. Select Client When Editing an Instance
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-42-55.png](attachments/32510225/32510226.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-43-42.png](attachments/32510225/32510227.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-44-19.png](attachments/32510225/32510228.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-45-17.png](attachments/32510225/32510229.png) (image/png)  

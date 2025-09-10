@@ -58,5 +58,3 @@ Search
     [NOT USED - Amelia V3 Platform Design](Amelia%20V3%20Platform%20Design)
     Nov 03, 2023 • updated by [Amelia Editor](/display/~ipsofteditor) • [view change](/pages/diffpagesbyversion.action?pageId=11940325&selectedPageVersions=9&selectedPageVersions=8)
 [Show More](/plugins/recently-updated/changes.action?theme=concise&pageSize=5&startIndex=5&searchToken=424104&spaceKeys=AmeliaDocsV37&contentType=page) ![](images/icons/wait.gif)
-## Attachments:
-![](images/icons/bullet_blue.gif) [amelia-v3-side-view-300x275.png](attachments/11939346/11940520.png) (image/png)  

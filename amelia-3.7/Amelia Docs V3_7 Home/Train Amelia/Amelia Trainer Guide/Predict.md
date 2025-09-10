@@ -72,14 +72,3 @@ Table. Predict Workspace Elements
 </tr>
 </tbody>
 </table>
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-11-20_12-19-29.png](attachments/11939612/11939613.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-trainer-predict-workspace-entity.jpg](attachments/11939612/11939614.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia-v3-trainer-predict-workspace-intent.jpg](attachments/11939612/11939615.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-6-22_14-46-26.png](attachments/11939612/11939616.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-6-19_14-58-50.png](attachments/11939612/11939617.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-6-19_14-57-50.png](attachments/11939612/11939618.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-trainer-predict-workspace.jpg](attachments/11939612/11939619.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2019-10-4_9-47-20.png](attachments/11939612/25461591.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-4_9-47-39.png](attachments/11939612/25461592.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-trainer-predict-workspace-3.7.38.jpg](attachments/11939612/25461593.jpg) (image/jpeg)  

@@ -52,9 +52,3 @@ Preview: Inline Only
 Download: No
 ![](attachments/23397231/23397239.png)
 This list will act as a "playlist" for the Alexa Audio Player. This means that if I begin at track 2, I can go back and forth to track 1, or 3.  
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-9-5_13-56-6.png](attachments/23397231/23397235.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-5_13-56-58.png](attachments/23397231/23397236.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-5_13-59-55.png](attachments/23397231/23397237.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-5_14-0-24.png](attachments/23397231/23397238.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-5_14-2-30.png](attachments/23397231/23397239.png) (image/png)  

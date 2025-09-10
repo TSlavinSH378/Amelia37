@@ -33,15 +33,3 @@ Notifications can be enabled or disabled with the pushNotificationDisabled setti
 To enable notifications, set the pushNotificationDisabled setting to false. To disable notifications, set the pushNotificationDisabled setting to true.
 ![](attachments/25462177/25462200.png)
 Figure. Add or Edit the pushNotificationDisabled Setting
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-10-24_9-28-19.png](attachments/25462177/25462182.png) (image/png)  
-![](images/icons/bullet_blue.gif) [agentJoinsRecording.gif](attachments/25462177/25462184.gif) (image/gif)  
-![](images/icons/bullet_blue.gif) [agentJoinsRecording.gif](attachments/25462177/25462183.gif) (image/gif)  
-![](images/icons/bullet_blue.gif) [image2019-10-24_10-7-27.png](attachments/25462177/25462186.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-24_11-57-2.png](attachments/25462177/25462194.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-24_12-17-28.png](attachments/25462177/25462195.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-24_12-24-46.png](attachments/25462177/25462196.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-24_12-28-30.png](attachments/25462177/25462197.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-24_12-30-2.png](attachments/25462177/25462198.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-24_12-38-53.png](attachments/25462177/25462199.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-24_12-43-8.png](attachments/25462177/25462200.png) (image/png)  

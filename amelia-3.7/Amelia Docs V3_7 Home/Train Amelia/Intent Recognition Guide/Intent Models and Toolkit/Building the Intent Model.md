@@ -186,6 +186,3 @@ Once an area or two is identified to fix, it's time to analyze why they performe
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-7-1_9-55-56.png](attachments/20808367/20808750.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-1_11-29-49.png](attachments/20808367/20808758.png) (image/png)  

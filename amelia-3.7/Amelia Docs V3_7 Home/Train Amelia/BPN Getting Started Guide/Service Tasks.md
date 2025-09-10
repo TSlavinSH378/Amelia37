@@ -226,21 +226,3 @@ Table. Chat Note Create Elements
 </tr>
 </tbody>
 </table>
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-17-13.png](attachments/28476460/28476463.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-19-27.png](attachments/28476460/28476464.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-20-13.png](attachments/28476460/28476465.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-21-3.png](attachments/28476460/28476466.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-22-8.png](attachments/28476460/28476467.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-23-30.png](attachments/28476460/28476468.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-24-25.png](attachments/28476460/28476469.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-27-46.png](attachments/28476460/28476470.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-28-30.png](attachments/28476460/28476471.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-29-16.png](attachments/28476460/28476472.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-34-20.png](attachments/28476460/28476473.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-34-53.png](attachments/28476460/28476474.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-45-36.png](attachments/28476460/28476475.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-47-58.png](attachments/28476460/28476476.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-20_14-50-49.png](attachments/28476460/28476477.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-15_15-20-51.png](attachments/28476460/28477252.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-15_15-23-45.png](attachments/28476460/28477253.png) (image/png)  

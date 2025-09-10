@@ -131,8 +131,3 @@ When connecting to resources in a client environment, or hosted by a service pro
    <property key="http.proxyScheme" value="http"/>
 </properties> |
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-4-12_11-32-54.png](attachments/11945252/11945253.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-12_11-34-17.png](attachments/11945252/11945254.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-12_12-46-38.png](attachments/11945252/11945255.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-12_12-48-7.png](attachments/11945252/11945256.png) (image/png)  

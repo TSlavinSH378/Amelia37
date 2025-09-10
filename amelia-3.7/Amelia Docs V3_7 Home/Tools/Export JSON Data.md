@@ -1237,5 +1237,3 @@ For <strong>custom</strong> metrics upserted from the customMetrics service, onl
 </tr>
 </tbody>
 </table>
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-11-8_16-16-17.png](attachments/11940497/11940498.png) (image/png)  

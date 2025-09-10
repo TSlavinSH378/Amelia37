@@ -23,9 +23,3 @@ The conditions set in the Expression field are called edge notation because thei
 # Service Prefixes
 Amelia V3 includes a notation system called service prefixes with a service:function() syntax. Service prefixes include a range of possible actions, for example, to capture and evaluate a user choice in a BPN with the bpn service prefix using bpn:choice() syntax.
 Service prefixes are used in the Expression setting field in the Properties Panel for process flow lines. Refer to [Service Prefixes](Service%20Prefixes) for details about service prefixes.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-10-3_12-25-28.png](attachments/11939503/11939504.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-3_12-16-58.png](attachments/11939503/11939505.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-27_16-21-31.png](attachments/11939503/11939506.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-27_16-10-8.png](attachments/11939503/11939507.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-27_16-9-33.png](attachments/11939503/11939508.png) (image/png)  

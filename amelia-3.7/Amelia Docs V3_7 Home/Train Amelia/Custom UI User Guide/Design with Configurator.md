@@ -210,16 +210,3 @@ Table. Configurator Elements
 </table>
 ![](attachments/11946154/20807788.png)
 Figure. Full Configurator Chat Note Panel
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-5-28_12-40-51.png](attachments/11946154/11946160.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-28_12-42-7.png](attachments/11946154/11946161.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-28_12-42-52.png](attachments/11946154/11946162.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-28_12-43-31.png](attachments/11946154/11946163.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-28_12-44-15.png](attachments/11946154/11946164.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-28_12-56-20.png](attachments/11946154/11946167.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-28_13-3-23.png](attachments/11946154/11946168.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-28_13-19-34.png](attachments/11946154/11946169.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-28_15-19-58.png](attachments/11946154/11946176.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-29_16-19-40.png](attachments/11946154/11946225.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-29_16-22-45.png](attachments/11946154/11946229.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-5_12-35-53.png](attachments/11946154/20807788.png) (image/png)  

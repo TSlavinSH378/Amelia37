@@ -16,7 +16,3 @@
 >
 > Changes on the Amelia host are required and HAproxy also needs to be modified.  Instructions can be found here: HAproxy changes for Slack Quick Reply
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-6-6_10-42-0.png](attachments/20807833/20807834.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_10-42-39.png](attachments/20807833/20807835.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_10-43-28.png](attachments/20807833/20807836.png) (image/png)  

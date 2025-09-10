@@ -22,9 +22,3 @@ Table. BPN Model Property Panel Settings
 | Default escalation queue | If appropriate, select a queue to handle escalations |
 | Escalation variables | Click the + icon to display a field and enter a variable to attach to an escalation request. Variables are created in Script tasks within the BPN, a Set the Variable task, or passed along with an Escalate Because task. |
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-31-53.png](attachments/11939405/11939406.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-9-26_13-5-36.png](attachments/11939405/11939407.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-9-26_13-4-59.png](attachments/11939405/11939408.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-25_12-2-46.png](attachments/11939405/11941384.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-25_12-3-50.png](attachments/11939405/11941385.png) (image/png)  

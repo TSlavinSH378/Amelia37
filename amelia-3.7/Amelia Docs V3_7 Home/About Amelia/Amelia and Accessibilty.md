@@ -88,6 +88,3 @@ For this purpose we use \`.screen-reader-only\` class which hide this sort of in
 >
 > The accessibility blue focus ring in the chat input area is turned off by default. To add it back, please refer to the [Add Blue Focus Ring in Chat Input section](https://docs.ipsoft.com/display/AmeliaDocsV37/Customize+UI+with+config.json#CustomizeUIwithconfig.json-AddBlueFocusRinginChatInput) on the [Customize UI with config.json](Customize%20UI%20with%20config_json) page.
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [ScreenReader-messages.html](../28476444/Accessibility) (text/html)  
-![](images/icons/bullet_blue.gif) [Accessibility.mp4](attachments/28476444/28476446.mp4) (video/mp4)  

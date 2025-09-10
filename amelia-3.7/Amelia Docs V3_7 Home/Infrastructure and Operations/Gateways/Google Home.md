@@ -103,25 +103,3 @@ Run at least one test from the simulator before accessing the action from a Goog
 >
 > Refer to Google's documentation regarding the steps required to deploy the action for use by the general public.
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-9-23_11-10-4.png](attachments/25461077/25461079.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_11-11-19.png](attachments/25461077/25461080.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_11-13-7.png](attachments/25461077/25461081.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_11-19-42.png](attachments/25461077/25461082.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_11-23-0.png](attachments/25461077/25461083.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_11-25-10.png](attachments/25461077/25461084.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_11-31-33.png](attachments/25461077/25461085.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_11-35-9.png](attachments/25461077/25461088.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_11-38-12.png](attachments/25461077/25461090.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_11-55-19.png](attachments/25461077/25461091.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_11-56-50.png](attachments/25461077/25461092.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_11-58-42.png](attachments/25461077/25461093.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_12-2-9.png](attachments/25461077/25461094.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_12-19-6.png](attachments/25461077/25461095.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_12-19-41.png](attachments/25461077/25461096.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_12-21-50.png](attachments/25461077/25461097.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_12-50-10.png](attachments/25461077/25461098.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_13-0-7.png](attachments/25461077/25461099.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_13-4-3.png](attachments/25461077/25461100.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_13-14-7.png](attachments/25461077/25461101.png) (image/png)  
-![](images/icons/bullet_blue.gif) [IPsoft-Amelia-GoogleHome-Gateway-Client-Information-1.0.pdf](attachments/25461077/25461103.pdf) (application/pdf)  

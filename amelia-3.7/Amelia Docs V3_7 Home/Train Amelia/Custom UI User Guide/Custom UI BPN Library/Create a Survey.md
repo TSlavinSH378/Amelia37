@@ -70,6 +70,3 @@ When the BPN model is built and approved, as described in the section above, ope
     ![](attachments/11939973/11939974.png)  
     Figure. Output of doSurvey BPN  
 4.  Click the green up arrow to submit the survey. Amelia displays the the last Say task in the BPN.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-8-24_9-55-59.png](attachments/11939973/11939974.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-8-24_9-46-22.png](attachments/11939973/11939975.png) (image/png)  

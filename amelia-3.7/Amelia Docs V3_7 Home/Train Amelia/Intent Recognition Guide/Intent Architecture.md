@@ -601,5 +601,3 @@ Instead of merging intents, sometimes graceful intent switching between the int
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-8-13_9-32-20.png](attachments/20808353/23396721.png) (image/png)  

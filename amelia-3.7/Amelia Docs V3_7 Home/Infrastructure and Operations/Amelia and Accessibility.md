@@ -62,5 +62,3 @@ There is a list of roles we used in Amelia:
 -   role="combobox"
 ### Screen reader messages
 In a web application, it's a common practice to add some additional information which is hidden from vision but still visible for screen readers. For this purpose, we use the \`.screen-reader-only\` class which hide this sort of information in a specific way defined with CSS.
-## Attachments:
-![](images/icons/bullet_blue.gif) [IPsoft-Amelia-Accessibility.mp4](attachments/11940489/11940490.mp4) (video/mp4)  

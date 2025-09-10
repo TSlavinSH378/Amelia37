@@ -193,10 +193,3 @@ To set a field as mandatory or optional, set the `required` property to true (ma
 To mask sensitive data, use `password` as the value for the `property` type used to define one of the four input fields. Each character entered in the field will be masked with an asterisk. An eye icon also will appear to the right of the field and, when clicked and held down, will display the entry in plain text.
 ## Form Title
 To display a title at the top of the multi-line form, use the `title` property set as the first entry in the data JSON object.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-7-24_14-35-33.png](attachments/20809504/20809505.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-24_14-36-34.png](attachments/20809504/20809506.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-24_14-40-33.png](attachments/20809504/20809507.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-24_14-42-7.png](attachments/20809504/20809508.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-24_14-46-49.png](attachments/20809504/20809509.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-24_16-35-3.png](attachments/20809504/20809513.png) (image/png)  

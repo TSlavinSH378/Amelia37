@@ -74,13 +74,3 @@ IPsoft Cognitive engineers work with clients to design and deploy an appropriate
 For information about Amelia's interfaces, refer to the [Amelia Custom UI Guide](https://docs.amelia.com/display/COGVODAFONE/Amelia+Custom+UI+Guide) and the [Amelia's Interfaces](Amelia's%20Interfaces) page.
 ## Learn More
 Also be sure to read [Getting Started with Training Amelia](Getting%20Started) for more details about the training process.
-## Attachments:
-![](images/icons/bullet_blue.gif) [amelia-admin-workspace-3.6.4.jpg](attachments/11939353/11939354.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-12-7_16-8-6.png](attachments/11939353/11939355.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-7-17_10-24-5.png](attachments/11939353/11939356.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-7-17_10-23-51.png](attachments/11939353/11939357.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-4-16_15-57-20.png](attachments/11939353/11939358.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-admin-workspace-3.7.0.jpg](attachments/11939353/11941028.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia-bpn-workspace-3.7.0.jpg](attachments/11939353/11941029.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2019-1-24_14-59-38.png](attachments/11939353/11941338.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-24_15-0-28.png](attachments/11939353/11941339.png) (image/png)  

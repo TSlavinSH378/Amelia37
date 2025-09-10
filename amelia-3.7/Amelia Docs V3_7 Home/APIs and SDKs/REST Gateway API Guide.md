@@ -18,7 +18,3 @@ For example, this URL would display links to PDF and HTML versions for an Amelia
 ``` groovy
 https://amelia.yourcompany.com/AmeliaRest/docs/
 ```
-## Attachments:
-![](images/icons/bullet_blue.gif) [Amelia_Rest_Api_1.2.0.pdf](attachments/11939978/11939979.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [Amelia_Rest_Api_1.1.pdf](attachments/11939978/11939980.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [Amelia_Rest_docs_3.7.0.zip](attachments/11939978/25462565.zip) (application/zip)  

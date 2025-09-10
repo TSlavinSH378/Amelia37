@@ -34,9 +34,3 @@
 2.  Toggle the Audio Player switch to enable the feature.  
     ![](attachments/23397229/25461653.png)  
 3.  Click Save Interfaces
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-9-5_15-6-1.png](attachments/23397229/23397244.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-5_15-8-9.png](attachments/23397229/23397245.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-5_15-10-46.png](attachments/23397229/23397246.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-7_10-46-46.png](attachments/23397229/25461630.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-8_9-33-2.png](attachments/23397229/25461653.png) (image/png)  

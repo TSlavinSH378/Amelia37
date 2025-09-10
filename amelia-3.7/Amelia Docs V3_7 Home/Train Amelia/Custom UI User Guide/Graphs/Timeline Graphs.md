@@ -2882,13 +2882,3 @@ messageService.sendIntegrationMessage(jsonString)
 > When a single small pie chart is sent to the custom user interface, the error message, "Looks like you are missing a component in your graph group. It should be exactly two of them, not less or more," appears in the chat note.
 
 For details to create a small timeline in a chat note, please use the [Small Pie Graph in Chat Notes](Pie-Graphs_23396833.html#PieGraphs-SmallPieTimeline) instructions.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-8-21_12-18-10.png](attachments/23396831/23396984.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_12-19-15.png](attachments/23396831/23396985.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_12-27-33.png](attachments/23396831/23396986.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_13-3-41.png](attachments/23396831/23396988.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_13-20-59.png](attachments/23396831/23396990.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_13-21-44.png](attachments/23396831/23396991.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_13-34-13.png](attachments/23396831/23396992.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_14-24-52.png](attachments/23396831/23396998.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_14-25-53.png](attachments/23396831/23396999.png) (image/png)  

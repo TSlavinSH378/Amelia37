@@ -167,28 +167,3 @@ Script tasks and libraries can use `execution` to access process variables usi
 # Multimedia Content Manager
 The [Content Manager](#) can be used to store multimedia files that will be presented to the user during a conversation. The [Present task](#) displays data stored in the content manager while the [Request task](#) collects data files and stores them in the content manager.
 While using a Script task to capture the full media URL then copy/pasting the URL in a web browser will display the uploaded image, the image will not appear in the Buckets workspace. Amelia V3 has two scopes for multimedia files, system and conversation. System scope includes files uploaded and created in the Buckets workspace. Conversation scope includes files uploaded and managed as part of a conversation controlled by a BPN process. BPNs look for multimedia files first in the conversation scope and, if not found, search the system Buckets.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-28-58.png](attachments/11939398/11939399.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-29-17.png](attachments/11939398/11939400.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-29-37.png](attachments/11939398/11939401.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-29-57.png](attachments/11939398/11939402.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-30-18.png](attachments/11939398/11939403.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-30-29.png](attachments/11939398/11939404.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-ask-task-secure-3.7.0.jpg](attachments/11939398/11941315.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2019-1-22_16-15-55.png](attachments/11939398/11941316.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-22_16-17-57.png](attachments/11939398/11941317.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-22_16-19-34.png](attachments/11939398/11941318.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-22_16-21-10.png](attachments/11939398/11941319.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-22_16-23-4.png](attachments/11939398/11941320.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-22_16-24-40.png](attachments/11939398/11941321.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-22_16-27-24.png](attachments/11939398/11941322.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-22_16-29-58.png](attachments/11939398/11941323.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-22_16-30-55.png](attachments/11939398/11941324.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-22_16-33-7.png](attachments/11939398/11941325.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-22_16-55-56.png](attachments/11939398/11941326.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-escalate-options-3.7.0.jpg](attachments/11939398/11941327.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2019-1-23_11-17-23.png](attachments/11939398/11941328.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-23_11-33-23.png](attachments/11939398/11941329.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-escalate-reason-3.7.0.jpg](attachments/11939398/11941330.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2019-1-23_12-30-54.png](attachments/11939398/11941331.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-bpn-type-headless-3.7.0.jpg](attachments/11939398/11941332.jpg) (image/jpeg)  

@@ -57,5 +57,3 @@ The default Escalation Teams workspace includes a search box to find existing t
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-3-22_9-25-21.png](attachments/11940265/11940266.png) (image/png)  

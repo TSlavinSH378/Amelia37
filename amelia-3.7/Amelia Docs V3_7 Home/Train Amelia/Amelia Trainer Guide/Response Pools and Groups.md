@@ -338,10 +338,3 @@ Table. Response Pool XML File Elements
     </group>
 </responsePools>
 ```
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-10-4_13-18-22.png](attachments/11939698/25461612.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-4_13-18-54.png](attachments/11939698/25461613.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-4_13-19-23.png](attachments/11939698/25461614.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-4_13-19-48.png](attachments/11939698/25461615.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-19_16-7-40.png](attachments/11939698/25461616.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-21_16-43-36.png](attachments/11939698/25462088.png) (image/png)  

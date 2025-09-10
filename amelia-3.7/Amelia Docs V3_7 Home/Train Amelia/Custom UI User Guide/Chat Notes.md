@@ -557,11 +557,3 @@ def jsonString = '''{
 jsonString = JsonOutput.toJson(jsonString)
 execution.setVariable("jsonString", jsonString)
 ```
-## Attachments:
-![](images/icons/bullet_blue.gif) [amelia_v3_customui_chatnote.jpg](attachments/11939936/11939937.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia_v3_customui_banner.jpg](attachments/11939936/11939938.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-1-26_13-21-3.png](attachments/11939936/11939939.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-19_9-45-16.png](attachments/11939936/20808316.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-24_16-4-33.png](attachments/11939936/20808540.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-24_16-8-11.png](attachments/11939936/20808542.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-16_14-40-47.png](attachments/11939936/20809259.png) (image/png)  

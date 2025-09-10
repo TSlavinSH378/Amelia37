@@ -175,6 +175,3 @@ AM3-9469 - Fixed a bug where JSON files were created for classifier models that 
 AM3-9439 - Fixed a bug where multimedia files exported from the content manager would be incorrectly written to the file system.
 AM3-9356 - Fixed a bug where exporting entities from a file system would not import into an Amelia instance.
 AM3-9429 - Fixed a bug where exporting intents from a file system would not import into an Amelia instance.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-9-23_10-13-36.png](attachments/11946083/25461069.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-23_10-14-35.png](attachments/11946083/25461070.png) (image/png)  

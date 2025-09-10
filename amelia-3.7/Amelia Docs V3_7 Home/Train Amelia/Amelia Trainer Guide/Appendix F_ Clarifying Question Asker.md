@@ -44,18 +44,3 @@ Table. CQA Parameters in NLU Settings Tab
 | Domain Ambiguity Threshold | If the difference in scores of the top two domains is less than this value, the input utterance is considered domain ambiguous. |
 | CQA Domain Threshold | If the top domain score is less than this value, CQA will be ignored. |
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-11-20_16-16-27.png](attachments/11939776/11939777.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-9_14-34-36.png](attachments/11939776/11939778.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-9_13-7-4.png](attachments/11939776/11939779.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-9_13-5-14.png](attachments/11939776/11939780.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-9_13-4-12.png](attachments/11939776/11939781.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-9_12-49-28.png](attachments/11939776/11939782.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-9_12-47-32.png](attachments/11939776/11939783.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-9_12-17-14.png](attachments/11939776/11939784.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-9_11-58-53.png](attachments/11939776/11939785.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-9_11-52-51.png](attachments/11939776/11939786.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-9_11-50-31.png](attachments/11939776/11939787.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-9_11-40-33.png](attachments/11939776/11939788.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-29_10-51-1.png](attachments/11939776/25462268.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-10-29_10-57-1.png](attachments/11939776/25462271.png) (image/png)  

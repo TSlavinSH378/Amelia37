@@ -55,5 +55,3 @@ Only delete if there is no alternative. Do NOT delete any default item or item c
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-3-20_14-42-6.png](attachments/11940278/11940279.png) (image/png)  

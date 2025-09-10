@@ -159,23 +159,3 @@ To create a new property set, click the plus ( + ) icon at the top right of the 
 Property sets are collections of properties shared with multiple flows through the Properties section of the flow edit form in the Flow Design Workspace.
 ![](attachments/11939827/11939843.png)
 Figure. New Property Set Form
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-5-4_14-45-30.png](attachments/11939827/11939840.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-5-4_15-12-7.png](attachments/11939827/11939841.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-integration-flow-workspace-3.5.13.jpg](attachments/11939827/11939842.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-11-5_15-10-56.png](attachments/11939827/11939843.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-5_15-8-59.png](attachments/11939827/11939844.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-integration-flow-workspace-3.4.6.jpg](attachments/11939827/11939845.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2017-10-6_14-5-17.png](attachments/11939827/11939846.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-6_14-5-45.png](attachments/11939827/11939828.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-6_14-6-6.png](attachments/11939827/11939829.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-6_14-6-26.png](attachments/11939827/11939830.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-6_14-6-50.png](attachments/11939827/11939831.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-6_14-7-7.png](attachments/11939827/11939832.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-6_14-7-24.png](attachments/11939827/11939833.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-6_14-7-39.png](attachments/11939827/11939834.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-6_14-7-55.png](attachments/11939827/11939835.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-6_14-8-10.png](attachments/11939827/11939836.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-6_14-8-28.png](attachments/11939827/11939837.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-6_14-8-47.png](attachments/11939827/11939838.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-5-2_16-54-40.png](attachments/11939827/11939839.png) (image/png)  

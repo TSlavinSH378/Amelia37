@@ -38,5 +38,3 @@ The Authentication Systems workspace is available by clicking the System Settin
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-3-20_16-12-17.png](attachments/11940261/11940262.png) (image/png)  

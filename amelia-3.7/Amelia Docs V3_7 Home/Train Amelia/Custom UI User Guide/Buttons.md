@@ -447,16 +447,3 @@ When the BPN model is built and approved, as described above, open Amelia’s cu
     | run the workflow doSingleButton |
     
 3.  Amelia displays buttons in the conversation area. Click and unclick buttons to make a selection before clicking the Submit button.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-1-29_10-45-55.png](attachments/11939928/11939929.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-29_10-33-12.png](attachments/11939928/11939930.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-29_10-26-7.png](attachments/11939928/11939931.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-29_10-23-58.png](attachments/11939928/11939932.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-26_15-12-13.png](attachments/11939928/11939933.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-26_15-9-47.png](attachments/11939928/11939934.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-26_15-1-12.png](attachments/11939928/11939935.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-18_11-32-36.png](attachments/11939928/20808255.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-18_12-2-47.png](attachments/11939928/20808261.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-18_12-7-17.png](attachments/11939928/20808262.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-18_12-35-9.png](attachments/11939928/20808267.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-11-27_14-2-12.png](attachments/11939928/28475525.png) (image/png)  

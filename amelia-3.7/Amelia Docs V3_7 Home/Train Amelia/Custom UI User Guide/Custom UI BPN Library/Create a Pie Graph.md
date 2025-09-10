@@ -308,6 +308,3 @@ When the BPN model is built and approved, as described in the section above, ope
     ![](attachments/11939964/11939965.png)  
     Figure. Output of doPieGraph BPN  
 4.  Amelia displays the the last Say task in the BPN.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-8-23_14-5-25.png](attachments/11939964/11939965.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-8-23_14-3-9.png](attachments/11939964/11939966.png) (image/png)  

@@ -91,9 +91,3 @@ Because of the large number of AIML files, use a text editor to do a text based 
 <http://www.alicebot.org/documentation/aiml-primer.html>
 <https://www.tutorialspoint.com/aiml/>
 <http://alicebot.blogspot.in/2013/01/aiml-20-draft-specification-released.html>
-## Attachments:
-![](images/icons/bullet_blue.gif) [amelia-v3-aiml-debug-subsystems-3.4.9.jpg](attachments/11939692/11939693.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-5-14_14-42-12.png](attachments/11939692/11939694.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-aiml-workspace-3.4.9.jpg](attachments/11939692/11939695.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-5-14_12-21-43.png](attachments/11939692/11939696.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-5-14_12-21-24.png](attachments/11939692/11939697.png) (image/png)  

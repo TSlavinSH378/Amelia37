@@ -748,23 +748,3 @@ The feature extraction framework specifies feature extraction pipelines as XML 
 In the Annotate workspace in the Amelia Trainer pages of Amelia V3 administration pages, when the Train Intent Models panel is displayed, click the Use custom features toggle slider then click the folder icon to find then upload the feature template file.
 # Test Feature Engineering Output
 When a model is trained with the Annotate workspace and deployed with the Dashboard, click the Entities link or Intents link under the Amelia Trainer link to display the Entities or Intents workspace. At the bottom of the workspace is a simple test facility. Select the newly trained model from a dropdown list and enter sample utterances to confirm they trigger the new model.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-11-20_16-46-55.png](attachments/11939753/11939754.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-20_16-43-31.png](attachments/11939753/11939755.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-20_16-42-33.png](attachments/11939753/11939756.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-20_16-41-36.png](attachments/11939753/11939757.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-20_16-32-33.png](attachments/11939753/11939758.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-21_14-23-10.png](attachments/11939753/11939759.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-21_14-23-56.png](attachments/11939753/11939760.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-21_14-34-32.png](attachments/11939753/11939761.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-15_16-6-50.png](attachments/11939753/11939762.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-15_15-37-45.png](attachments/11939753/11939763.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-15_15-30-53.png](attachments/11939753/11939764.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-15_15-28-32.png](attachments/11939753/11939765.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-13_15-49-7.png](attachments/11939753/11939766.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-13_15-36-31.png](attachments/11939753/11939767.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-13_15-31-58.png](attachments/11939753/11939768.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-13_15-24-41.png](attachments/11939753/11939769.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-13_15-20-39.png](attachments/11939753/11939770.png) (image/png)  
-![](images/icons/bullet_blue.gif) [states.csv](attachments/11939753/11939771.csv) (text/csv)  
-![](images/icons/bullet_blue.gif) [state-examples.txt](attachments/11939753/11939772.txt) (text/plain)  

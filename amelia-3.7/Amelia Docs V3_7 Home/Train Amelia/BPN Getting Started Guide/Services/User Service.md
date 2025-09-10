@@ -80,8 +80,3 @@ When the BPN models are built and approved, as described in the section above, o
     run the workflow showUserData
     ```
 3.  Amelia displays the first and last name extracted from the user data associated with the current conversation.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-1-5_11-41-52.png](attachments/11939543/11939544.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-5_11-40-54.png](attachments/11939543/11939545.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-15_12-48-59.png](attachments/11939543/11939546.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-15_12-43-48.png](attachments/11939543/11939547.png) (image/png)  

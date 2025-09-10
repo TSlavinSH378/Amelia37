@@ -142,6 +142,3 @@ Table. Audit Log Entry Definitions
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-11-27_14-24-59.png](attachments/11940281/28475528.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-3-5_16-33-30.png](attachments/11940281/28480544.png) (image/png)  

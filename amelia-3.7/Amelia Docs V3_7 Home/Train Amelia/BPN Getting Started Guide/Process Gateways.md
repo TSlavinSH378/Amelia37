@@ -41,13 +41,3 @@ Table. Gateway Operators and Expressions
 | And                      |        &&        | and |
 | Or                       |       \|\|       | or  |
 | Not Empty                | !empty *varName* |     |
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-1-5_10-22-11.png](attachments/11939550/11939551.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-5_10-14-40.png](attachments/11939550/11939552.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-3_12-21-50.png](attachments/11939550/11939553.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-3_12-21-4.png](attachments/11939550/11939554.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-3_12-20-43.png](attachments/11939550/11939555.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-27_16-14-31.png](attachments/11939550/11939556.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-27_16-14-8.png](attachments/11939550/11939557.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-27_16-13-42.png](attachments/11939550/11939558.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-27_16-13-16.png](attachments/11939550/11939559.png) (image/png)  

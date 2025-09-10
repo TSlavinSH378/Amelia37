@@ -181,12 +181,3 @@ def openPayload =
 '''
 execution.setVariable("jsonString", openPayload)
 ```
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-1-30_10-41-46.png](attachments/11939940/11939941.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-30_10-40-20.png](attachments/11939940/11939942.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-30_10-1-41.png](attachments/11939940/11939943.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-30_10-0-36.png](attachments/11939940/11939944.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-19_12-43-33.png](attachments/11939940/20808320.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-19_12-44-5.png](attachments/11939940/20808321.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-17_9-12-19.png](attachments/11939940/20809294.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-17_9-14-11.png](attachments/11939940/20809295.png) (image/png)  

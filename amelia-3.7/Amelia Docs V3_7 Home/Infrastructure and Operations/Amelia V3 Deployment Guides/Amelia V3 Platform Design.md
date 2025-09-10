@@ -1197,28 +1197,3 @@ Integration services run with the rest of the admin services.  We have observed
 In a 1000 concurrent user configuration with a heavy reliance on integrations we generally see an average of 10 flows per second executing with minimal load on the integration servers.
 Integration services may be scaled to their own VMs and may be added in batches of 3 nodes to provide additional scaling. 
 Scaling of integration services is beyond the scope of this testing due to the variety of back end systems that may influence integration performance.
-## Attachments:
-![](images/icons/bullet_blue.gif) [IPsoft_Amelia_v3_Platform_Design_v1.3.pdf](attachments/11940325/20808641.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [amelia_v3.5.x_system_arch-2018-0910.png](attachments/11940325/11940327.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia_v3.4.x_system_arch-2018-0418.png](attachments/11940325/11940328.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia_v3.4.x_system_arch-2018-0411.png](attachments/11940325/11940329.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia_v3.3.4_system_arch-2018-0330.png](attachments/11940325/11940330.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia_v3_system_arch-2018-0212a.png](attachments/11940325/11940331.png) (image/png)  
-![](images/icons/bullet_blue.gif) [IPsoft_Amelia_v3_Platform_Design_v1.1.pdf](attachments/11940325/11940332.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [image2017-12-19_10-38-8.png](attachments/11940325/11940333.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-19_10-37-44.png](attachments/11940325/11940334.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-19_10-36-39.png](attachments/11940325/11940335.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-19_10-35-37.png](attachments/11940325/11940336.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-19_10-34-57.png](attachments/11940325/11940337.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-19_10-34-30.png](attachments/11940325/11940338.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-19_10-29-28.png](attachments/11940325/11940339.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-19_10-27-28.png](attachments/11940325/11940340.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-19_10-27-11.png](attachments/11940325/11940341.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-19_10-26-38.png](attachments/11940325/11940342.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-19_10-26-4.png](attachments/11940325/11940343.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-19_10-25-37.png](attachments/11940325/11940344.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia_v3.7.x_system_arch-2019-0626.jpeg](attachments/11940325/20808617.jpeg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [IPsoft_Amelia_v3_Platform_Design_v1.3.pdf](attachments/11940325/11940326.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [image2019-11-20_14-50-43.png](attachments/11940325/25462779.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-11-20_15-5-52.png](attachments/11940325/25462780.png) (image/png)  
-![](images/icons/bullet_blue.gif) [IPsoft_Amelia_v3_Platform_Design_v1.4.pdf](attachments/11940325/28476216.pdf) (application/pdf)  

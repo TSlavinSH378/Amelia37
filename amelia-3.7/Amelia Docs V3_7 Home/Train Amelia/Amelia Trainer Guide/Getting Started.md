@@ -174,10 +174,3 @@ Ideally, all classifier data should be stored in a version control repository an
 Utterances that did not cause Amelia to return the correct label should not be put into a training set and used to retrain. Instead, these utterances should be put in the test data set.
 Then experiment by adding and removing different variations of the missed utterances into the training set until the utterances added to the test set no longer miss with no regressions. Analyze sentence structure and word choice in the missed utterances, as well as those of the current training data set, to determine how to revise the training data to retrain the model. The new different utterances should not be identical to the utterances that didn't return a correct label.
 Repeat this process until the model performance is optimized. Once changes are made, check into version control the new training set, test set, and classifier model.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-9-4_15-36-11.png](attachments/11939562/11939563.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-9-4_15-33-10.png](attachments/11939562/11939564.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-9-4_15-32-16.png](attachments/11939562/11939565.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-9_10-41-5.png](attachments/11939562/11944105.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-9_10-43-31.png](attachments/11939562/11944106.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-9_10-44-13.png](attachments/11939562/11944107.png) (image/png)  

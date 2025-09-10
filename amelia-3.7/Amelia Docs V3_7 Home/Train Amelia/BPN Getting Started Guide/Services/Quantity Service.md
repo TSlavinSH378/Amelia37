@@ -840,8 +840,3 @@ When the BPN models are built and approved, as described in the section above, o
     ```
 3.  Type in a sentence that includes an implied date-related reference, for example, “I need a hotel day after tomorrow” or “I need a hotel this coming Friday.”
 4.  Amelia displays the date reference extracted from the utterance, as well as the full utterance.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-1-5_10-42-22.png](attachments/11939536/11939537.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-12_16-42-29.png](attachments/11939536/11939538.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-12_15-45-17.png](attachments/11939536/11939539.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-12_15-40-30.png](attachments/11939536/11939540.png) (image/png)  

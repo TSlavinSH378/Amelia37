@@ -67,6 +67,3 @@ A query map uses labeled columns in an Excel file to provide answers Amelia can 
 [Download a Sample Query Map Excel File](attachments/11939867/11939875.xlsx)
 ![](attachments/28476789/28476791.png)
 Figure. Example Query Map Excel File
-## Attachments:
-![](images/icons/bullet_blue.gif) [amelia-v3-semantic-workspace-2.jpg](attachments/28476789/28476790.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-3-28_16-56-0.png](attachments/28476789/28476791.png) (image/png)  

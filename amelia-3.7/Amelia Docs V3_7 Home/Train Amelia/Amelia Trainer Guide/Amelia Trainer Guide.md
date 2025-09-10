@@ -24,5 +24,3 @@ The rest of this guide describes how to use data to train Amelia.
 -   [Appendix F: Clarifying Question Asker](Appendix%20F_%20Clarifying%20Question%20Asker)
 -   [Appendix G: ELMo Model Training](Appendix%20G_%20ELMo%20Model%20Training)
 -   [Appendix H: Domain Switching](Appendix%20H_%20Domain%20Switching)
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-4-16_15-57-20.png](attachments/11939560/11939561.png) (image/png)  

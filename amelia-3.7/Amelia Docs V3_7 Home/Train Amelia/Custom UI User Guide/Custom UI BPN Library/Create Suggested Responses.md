@@ -100,6 +100,3 @@ When the BPN model is built and approved, as described in the section above, ope
     ![](attachments/11939970/11939972.png)  
     Figure. Output of doSuggestedResponses BPN  
 4.  Click the green up arrow to submit it as a response. Amelia displays the response from the last Say task in the BPN.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-8-23_12-37-53.png](attachments/11939970/11939971.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-8-23_12-33-59.png](attachments/11939970/11939972.png) (image/png)  

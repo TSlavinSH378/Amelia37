@@ -106,21 +106,3 @@ Table. Chat and Role Links
 Availability for escalation can be set by clicking the dot next to the user name at the top left of Amelia's administration pages. The same dropdown menu includes the ability to sign out.
 ![](attachments/11940183/28480861.png)
 Figure. Status and Sign Out Links
-## Attachments:
-![](images/icons/bullet_blue.gif) [amelia_admin_control_panel_workspace.png](attachments/11940183/11940184.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-3-20_10-4-57.png](attachments/11940183/11940185.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia_v3_admin_ui_chat_admin_link.jpg](attachments/11940183/11940186.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia_v3_admin_ui_default_workspace.jpg](attachments/11940183/11940187.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia_v3_admin_ui_bundle_workspace.jpg](attachments/11940183/11940188.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-3-20_9-21-38.png](attachments/11940183/11940189.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-3-20_9-19-43.png](attachments/11940183/11940190.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-3-20_9-19-4.png](attachments/11940183/11940191.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-basic-interface-dropdown-2017-0221.png](attachments/11940183/11940192.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-28_12-2-56.png](attachments/11940183/11940193.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-21 16:50:37.png](attachments/11940183/11940194.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-interface-chat-basic.png](attachments/11940183/11940195.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia_v3_admin_ui_default_workspace-3.7.44.jpg](attachments/11940183/28480858.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2020-3-11_13-1-19.png](attachments/11940183/28480859.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-3-11_13-5-6.png](attachments/11940183/28480860.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-3-11_13-6-39.png](attachments/11940183/28480861.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-3-9_15-23-32.png](attachments/11940183/28480862.png) (image/png)  

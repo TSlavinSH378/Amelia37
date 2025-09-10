@@ -9,8 +9,3 @@ For all visual interfaces, there is an IPsoft UI Style Guide for Amelia that inc
 Here's an example of how User Interface guidelines impact possible interfaces – the website user interface, mobile, and kiosk interfaces with the custom UI – when they display image buttons.
 ![](attachments/11940474/25462819.png)
 Figure. Converse with Mobile, Desktop, and Kiosk User Interfaces
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-9-15_15-14-25.png](attachments/11940474/11940475.png) (image/png)  
-![](images/icons/bullet_blue.gif) [AmeliaStyleGuide_V1.3_sm.pdf](attachments/11940474/25462817.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [image2019-11-21_16-21-55.png](attachments/11940474/25462818.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-11-21_16-24-24.png](attachments/11940474/25462819.png) (image/png)  

@@ -294,6 +294,3 @@ Creation of effective intents depends on several factors.
 -   Use descriptive class names. Be consistent in the use of camelCase or snake_case notation.
 -   For best results, use live chat examples to test the intent model. Use test utterances as close as possible to what people would say to trigger the model and process. Consider extreme programming techniques, for example, one person creates utterances to train the model while a second person creates utterances to test the model.
 -   If overmatching happens with an intent, add similar sentence structures and word choices in the negative class that would not trigger the intent model.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-9-15_15-24-0.png](attachments/11940399/11940400.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-15_15-23-34.png](attachments/11940399/11940401.png) (image/png)  

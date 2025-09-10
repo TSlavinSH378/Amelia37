@@ -226,12 +226,3 @@ Table. Button Settings
 | actionProcess | For chat notes, defines what data to pass to a specific BPN when editing with the Edit button. Has additional settings and values. If actionProcess is not present in the code, the Edit button will not appear. A button definition uses either actionProcess or link.actionName – The name of the BPN to call when the Edit link is clickedactionArguments – Additional data to pass to the BPN when the Edit link is clicked. Values are passed as keys and values in a single object.
 actionMessage – Custom message output as the user's utterance in the conversation area, for example, "I want to edit my address." If value is empty, the default utterance is, "I have invoked an action." |
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-1-26_12-56-16.png](attachments/11939923/11939924.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-26_12-52-59.png](attachments/11939923/11939925.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-25_10-30-30.png](attachments/11939923/11939926.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia_v3_customui_banner.jpg](attachments/11939923/11939927.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2019-4-26_13-10-29.png](attachments/11939923/11945102.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-26_13-12-12.png](attachments/11939923/11945103.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-26_13-14-37.png](attachments/11939923/11945104.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-19_16-20-41.png](attachments/11939923/20808331.png) (image/png)  

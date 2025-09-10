@@ -336,5 +336,3 @@ With utterances tagged, navigate to Amelia's administration pages and click the 
 Figure. Misclassifications Workspace with Tagged Entries
 For each entry, select the correct domain and intent from the two dropdown lists. When an intent is selected, a popup will appear to confirm the domain and intent selections. Click the OK button to close the confirmation popup.
 To delete a tagged entry, click the checkbox to the left of an entry then click the Delete button at the top right of the Misclassifications tab workspace.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-9-15_15-27-7.png](attachments/11940394/11940395.png) (image/png)  

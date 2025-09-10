@@ -889,19 +889,3 @@ Having $ANY_ALL on the ends of a definition like the above can lead to overmatch
    (check insurance $ANY_ALL)
 ;
 ```
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-11-20_16-7-4.png](attachments/11939678/11939679.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-20_16-5-51.png](attachments/11939678/11939680.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-grammars-workspace-3.6.4.jpg](attachments/11939678/11939681.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-9-20_17-0-10.png](attachments/11939678/11939682.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-9-20_17-0-1.png](attachments/11939678/11939683.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-grammars-intent-edit-3.5.9.jpg](attachments/11939678/11939684.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-9-20_16-41-18.png](attachments/11939678/11939685.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-grammars-workspace-3.5.9.jpg](attachments/11939678/11939686.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia-v3-grammars-entity-edit-3.4.8.jpg](attachments/11939678/11939687.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-5-9_14-49-50.png](attachments/11939678/11939688.png) (image/png)  
-![](images/icons/bullet_blue.gif) [slotfood_test.xml](attachments/11939678/11939689.xml) (text/xml)  
-![](images/icons/bullet_blue.gif) [amelia-v3-grammars-intent-edit-3.4.8.jpg](attachments/11939678/11939690.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia-v3-grammars-workspace-3.4.8.jpg](attachments/11939678/11939691.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2019-1-16_16-32-26.png](attachments/11939678/11941067.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-1-16_16-35-4.png](attachments/11939678/11941068.png) (image/png)  

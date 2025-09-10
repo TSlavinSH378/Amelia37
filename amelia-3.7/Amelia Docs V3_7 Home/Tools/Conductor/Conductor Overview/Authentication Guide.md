@@ -39,7 +39,3 @@ A [user](Authorization%20Guide) has a setting for which authentication system sh
 >
 > The IPsoft LDAP authentication system will automatically add users to the IPsoft Users group and assign them roles to access instances and migrations. This will be made configurable for other authentication systems in the future.
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-28-45.png](attachments/32510212/32510213.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-30-23.png](attachments/32510212/32510214.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-32-34.png](attachments/32510212/32510215.png) (image/png)  

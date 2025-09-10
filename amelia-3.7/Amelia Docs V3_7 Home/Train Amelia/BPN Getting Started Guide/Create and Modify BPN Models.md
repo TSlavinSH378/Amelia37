@@ -52,19 +52,3 @@ Common reasons BPNs fail to trigger during a conversation are several:
 # Copy, Import, and Export BPNs
 BPNs can be copied from one to another through export then import of a BPN into a new model. Click the Export or Import button at the top of the Process Memory BPN workspace. BPNs can be exported in XML (.bpnm) format or PDF.
 Importing a BPN into a BPN model will overwrite existing tasks and other elements in the destination model. It also is possible to use the Lasso tool from the BPN tool bar to select one or more elements of a BPN model then use Ctrl+C/Command+C to copy the elements and Ctrl+V/Command+V to paste the elements elsewhere in the model. It is not currently possible to copy and paste model elements from one model to another.
-## Attachments:
-![](images/icons/bullet_blue.gif) [amelia-v3-bpn-workspace-3.5.10.jpg](attachments/11939409/11939410.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia-v3-bpn-workspace-3.4.3.jpg](attachments/11939409/11939411.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia-v3-bpn-workspace-mind.jpg](attachments/11939409/11939412.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-1-3_9-40-3.png](attachments/11939409/11939413.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-bpn-workspace.jpg](attachments/11939409/11939414.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-30-49.png](attachments/11939409/11939415.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-30-29.png](attachments/11939409/11939416.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-30-18.png](attachments/11939409/11939417.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-29-57.png](attachments/11939409/11939418.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-29-37.png](attachments/11939409/11939419.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-29-17.png](attachments/11939409/11939420.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-22_16-28-58.png](attachments/11939409/11939421.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-bpn-workspace-3.7.0.jpg](attachments/11939409/11941390.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2019-1-25_13-1-23.png](attachments/11939409/11941397.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-bpn-workspace-mind-3.7.0.jpg](attachments/11939409/11941398.jpg) (image/jpeg)  

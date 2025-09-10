@@ -21,6 +21,3 @@ Finally, upload the FAQs Excel spreadsheet with questions and answers about the 
 Also note the Debug information about sub-systems Amelia uses to answer FAQ questions. The FAQ sub-system is used to respond, not SemnetDoc. Also note the SemnetDoc response is accurate to some degree but includes extra characters. Amelia is able to choose the correct FAQ in her semantic memory despite a mostly accurate but incomplete response based on the uploaded manual.
 ![](attachments/28476795/28476797.jpg)
 Figure. Mind Semantic Memory Workspace Using FAQs and Manual
-## Attachments:
-![](images/icons/bullet_blue.gif) [amelia-v3-semantic-chat-mind-interfaces-3.4.6.jpg](attachments/28476795/28476796.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia-v3-semantic-chat-mind-interfaces-faq.jpg](attachments/28476795/28476797.jpg) (image/jpeg)  

@@ -45,6 +45,3 @@ When the BPN model is built and approved, as described in the section above, ope
     ![](attachments/11939954/11939955.png)  
     Figure. Output of doAlert BPN  
 4.  Amelia displays the the last Say task in the BPN.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-8-23_14-35-12.png](attachments/11939954/11939955.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-8-23_14-27-5.png](attachments/11939954/11939956.png) (image/png)  

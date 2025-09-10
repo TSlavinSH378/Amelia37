@@ -61,13 +61,3 @@ Figure. UI Bundle Edit Workspace
 Once a bundle is created and saved and the edit page displays, as shown above, the Current Revisions section of the page will show the Published? toggle as active. Alternately for UI bundles listed in the UI Bundles workspace, click the notepad icon to the left of any bundle name to display the edit page.
 1.  Click the Deployed? toggle in the Current Revisions section for the selected revision. The linked URL path for the deployed version appears to the right of the active Deployed? toggle.
 2.  Click the Default for Bundle? toggle in the Current Revisions section to make the revision the default user interface when the base URL path is used.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-2-20_15-38-4.png](attachments/11939949/11939950.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-2-20_15-37-43.png](attachments/11939949/11939951.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-2-20_15-37-18.png](attachments/11939949/11939952.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia_v3_customui_bundle_3.7.x.jpg](attachments/11939949/11942689.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia_v3_customui_bundle_3.7.x.jpg](attachments/11939949/11942688.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2019-3-6_11-19-18.png](attachments/11939949/11942691.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-3-6_11-40-2.png](attachments/11939949/11942692.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-28_13-3-23.png](attachments/11939949/20807931.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-28_12-56-20.png](attachments/11939949/20807932.png) (image/png)  

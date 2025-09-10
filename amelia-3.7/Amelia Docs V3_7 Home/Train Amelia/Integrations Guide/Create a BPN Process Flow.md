@@ -39,5 +39,3 @@ When the BPN model is built and approved, as described in the section above, ope
     run the workflow getWeather
     ```
 3.  Amelia displays the conversation transcript and an object of transcript utterances.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-10-9_16-59-46.png](attachments/11939862/11939863.png) (image/png)  

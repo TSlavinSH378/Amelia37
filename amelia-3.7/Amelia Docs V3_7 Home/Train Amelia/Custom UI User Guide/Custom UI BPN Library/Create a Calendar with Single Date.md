@@ -47,7 +47,3 @@ When the BPN model is built and approved, as described in the section above, ope
     ![](attachments/11939957/11939959.png)  
     Figure. Output of doCalendarSingleDte BPN  
 4.  Click the green up arrow at the bottom right of the calendar to submit the calendar data.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-8-23_14-20-54.png](attachments/11939957/11939958.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-8-23_14-16-59.png](attachments/11939957/11939959.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-8-23_14-15-21.png](attachments/11939957/11939960.png) (image/png)  

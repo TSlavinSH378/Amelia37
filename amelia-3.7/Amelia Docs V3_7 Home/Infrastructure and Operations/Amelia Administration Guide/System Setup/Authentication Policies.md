@@ -48,5 +48,3 @@ The Authentication Policies workspace is available by clicking the System Setti
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-3-20_15-45-27.png](attachments/11940263/11940264.png) (image/png)  

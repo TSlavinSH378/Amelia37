@@ -127,8 +127,3 @@ Use this data object to replace the default data object definition of the defau
       ]
     }
 ```
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-7-24_13-2-22.png](attachments/20809426/20809492.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-24_13-14-22.png](attachments/20809426/20809495.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-24_13-16-24.png](attachments/20809426/20809496.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-24_14-16-39.png](attachments/20809426/20809502.png) (image/png)  

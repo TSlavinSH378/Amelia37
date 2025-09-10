@@ -42,15 +42,3 @@ If the user does not fill out all information, the form will return empty string
 Figure. Multi-line Input with Response Echo Blank and Date Excluded
 Note the missing date field in the echo.
 multiline.bpmn
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2020-1-23_10-53-15.png](attachments/25461075/28477686.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-23_10-54-42.png](attachments/25461075/28477687.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-23_10-56-4.png](attachments/25461075/28477688.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-23_10-57-41.png](attachments/25461075/28477689.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-23_10-58-29.png](attachments/25461075/28477691.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-23_11-2-34.png](attachments/25461075/28477697.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-23_11-4-4.png](attachments/25461075/28477698.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-23_11-6-24.png](attachments/25461075/28477699.png) (image/png)  
-![](images/icons/bullet_blue.gif) [buttons.bpmn](attachments/25461075/28477700.bpmn) (application/octet-stream)  
-![](images/icons/bullet_blue.gif) [dropdown.bpmn](attachments/25461075/28477701.bpmn) (application/octet-stream)  
-![](images/icons/bullet_blue.gif) [multiline.bpmn](attachments/25461075/28477702.bpmn) (application/octet-stream)  

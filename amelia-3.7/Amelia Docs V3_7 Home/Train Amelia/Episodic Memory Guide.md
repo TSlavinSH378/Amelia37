@@ -135,16 +135,3 @@ To confirm the models are training, click the Training Queue link on far right e
 To deploy the intent model and two episodic memory models, click the Dashboard link visible when the Amelia Trainer link is clicked in Amelia's V3 administration pages. Deploy the intent model first then the Thought Vector and Contextual LSTM models. Find the model names in the dashboard list and click the thumbs up Ready icon to deploy each model. Deployed model listings have a light blue background stripe in the dashboard.
 # Test Episodic Memory Models
 Once the three episodic memory models have been created, trained, and deployed, Amelia's V3 chat interface displays how she navigates from past conversations based on the current conversation. To see her episodic memory, click the Mind link at the top right of the chat interface then click the Episodic Memory tab icon on the right edge of the Mind panel. Then engage Amelia in conversation. She navigate past conversations that address the context and needs in the current conversation.  
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-12-4_15-38-41.png](attachments/11939903/11939904.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-12-4_14-34-2.png](attachments/11939903/11939905.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-10_11-53-44.png](attachments/11939903/11939906.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-10_11-53-21.png](attachments/11939903/11939907.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-8_10-33-32.png](attachments/11939903/11939908.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-8_10-40-9.png](attachments/11939903/11939909.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-10_9-58-56.png](attachments/11939903/11939910.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-10_9-57-5.png](attachments/11939903/11939911.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-10_9-37-2.png](attachments/11939903/11939912.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-10_9-35-50.png](attachments/11939903/11939913.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-10_9-35-11.png](attachments/11939903/11939914.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-8_10-38-7.png](attachments/11939903/11939915.png) (image/png)  

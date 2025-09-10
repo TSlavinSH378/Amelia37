@@ -45,9 +45,3 @@ A Git application instance can be any flavor of Git repository such as GitHub, G
 >
 > This functionality has not yet been implemented.
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-50-59.png](attachments/32510231/32510232.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-51-56.png](attachments/32510231/32510233.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_10-1-47.png](attachments/32510231/32510234.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_10-2-41.png](attachments/32510231/32510235.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_10-4-36.png](attachments/32510231/32510236.png) (image/png)  

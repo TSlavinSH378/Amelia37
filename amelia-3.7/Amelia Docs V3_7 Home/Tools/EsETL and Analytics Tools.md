@@ -468,12 +468,3 @@ A data dictionary will be provided shortly.
 # Import the EsETL Output to a Visualization Tool
 Metrics collected in the JSON array flattened by the EsETL tool can be aggregated in Kibana or similar tool. Any data indexed as a keyword type also can be created as a visualization. Data aggregations and visualizations can be collected and organized in a Kibana dashboard.
 IPsoft currently follows this process internally for clients using Elasticsearch and Kibana tools. This process and tools are not officially validated and supported by IPsoft. There are many other tools that could be used to achieve the similar results.
-## Attachments:
-![](images/icons/bullet_blue.gif) [Interaction.groovy](attachments/11944907/11944937.groovy) (application/octet-stream)  
-![](images/icons/bullet_blue.gif) [EsETL_6_Common_BPNs_2019-0425.zip](attachments/11944907/11944938.zip) (application/zip)  
-![](images/icons/bullet_blue.gif) [create_ticket.bpmn](attachments/11944907/11944940.bpmn) (application/octet-stream)  
-![](images/icons/bullet_blue.gif) [pto_balance.bpmn](attachments/11944907/11944941.bpmn) (application/octet-stream)  
-![](images/icons/bullet_blue.gif) [Chat_ACE_Metrics_Presentation_0817.pdf](attachments/11944907/11944964.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [image2019-4-25_13-26-25.png](attachments/11944907/11944968.png) (image/png)  
-![](images/icons/bullet_blue.gif) [Chat_Analytics_MetEx_Flow_Prod.jpg](attachments/11944907/11944969.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2019-4-25_15-16-44.png](attachments/11944907/11944985.png) (image/png)  

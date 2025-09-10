@@ -97,5 +97,3 @@ One of three SelectionUtterance fields – postfixed`SelectionUtterance`, prefi
 -   The `prefixedSelectionUtterance("single_select_phrase", "multiple_select_phrase")` property field adds text before the user response. If a button value is `chocolate`, for example, this property can add, "I really like " before the user utterance in the conversation area to display, "I really like chocolate" instead of "chocolate." It's possible to define one response for single choice button and a second response for multiple select buttons.
 -   The `postfixedSelectionUtterance("single_select_phrase", "multiple_select_phrase")` property field adds a phrase after the user response, for example, "Chocolate is my favorite food" instead of "Chocolate."
 -   And `staticSelectionUtterance("phrase")` adds text to the user selection whether or not the buttons are single or multiple select.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-7-18_16-27-25.png](attachments/20809362/20809378.png) (image/png)  

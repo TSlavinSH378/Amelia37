@@ -36,10 +36,3 @@ Once all of the content is selected, clicking the Start Migration button will su
 >
 > Viewing migration status/progress is not yet implemented.
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2020-5-27_10-12-13.png](attachments/32510238/32510239.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_10-12-52.png](attachments/32510238/32510240.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_10-13-42.png](attachments/32510238/32510241.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_10-14-56.png](attachments/32510238/32510242.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_10-16-50.png](attachments/32510238/32510243.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_10-17-53.png](attachments/32510238/32510244.png) (image/png)  

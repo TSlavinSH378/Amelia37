@@ -81,10 +81,3 @@ def formInputData = formInputDataBuilder.create()
                 .build();
 execution.setVariable('formInputData', formInputData.toString())
 ```
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2020-1-3_10-20-3.png](attachments/28476646/28476647.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-3_10-36-4.png](attachments/28476646/28476648.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-3_10-36-29.png](attachments/28476646/28476649.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-3_10-38-44.png](attachments/28476646/28476650.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-3_10-46-24.png](attachments/28476646/28476653.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-1-3_10-47-30.png](attachments/28476646/28476654.png) (image/png)  

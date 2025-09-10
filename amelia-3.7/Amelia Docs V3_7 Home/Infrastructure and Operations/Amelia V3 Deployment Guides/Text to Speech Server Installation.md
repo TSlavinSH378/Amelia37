@@ -352,5 +352,3 @@ Display Name                                            Name                    
         [ ] TCP Activation                              NET-WCF-TCP-Activati...        Available
         [X] TCP Port Sharing                            NET-WCF-TCP-PortShar...        Installed
 ```
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-8-9_14-16-10.png](attachments/11940366/11940367.png) (image/png)  

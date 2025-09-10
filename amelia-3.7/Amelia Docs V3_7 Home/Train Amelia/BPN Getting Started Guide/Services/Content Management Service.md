@@ -140,7 +140,3 @@ When the BPN models are built and approved, as described in the section above, o
 >
 > While copy/pasting the full URL in a web browser will display the uploaded image, the image will not appear in the Buckets workspace. Amelia V3 has two scopes for multimedia files, system and conversation. System scope includes files uploaded and created in the Buckets workspace. Conversation scope includes files uploaded and managed as part of a conversation controlled by a BPN process. BPNs look for multimedia files first in the conversation scope and, if not found, search the system Buckets.
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-1-5_11-4-7.png](attachments/11939523/11939524.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-5_11-3-28.png](attachments/11939523/11939525.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-19_13-2-38.png](attachments/11939523/11939526.png) (image/png)  

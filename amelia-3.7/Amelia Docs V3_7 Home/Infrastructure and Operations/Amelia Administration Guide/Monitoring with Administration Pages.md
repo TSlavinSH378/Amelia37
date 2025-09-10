@@ -1864,27 +1864,3 @@ For <strong>custom</strong> metrics upserted from the customMetrics service, onl
 </tr>
 </tbody>
 </table>
-## Attachments:
-![](images/icons/bullet_blue.gif) [active-conversations-sample-escalation-menu-supe.jpg](attachments/11940300/11940301.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-3-1_15-15-33.png](attachments/11940300/11940302.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-3-1_15-14-54.png](attachments/11940300/11940303.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-3-6_12-12-10.png](attachments/11940300/11940304.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-3-6_12-32-5.png](attachments/11940300/11940305.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-3-22_10-35-46.png](attachments/11940300/11940306.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-21 15:15:46.png](attachments/11940300/11940307.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-21 14:58:53.png](attachments/11940300/11940308.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-21 15:1:33.png](attachments/11940300/11940309.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-21 14:59:55.png](attachments/11940300/11940310.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-21 15:6:57.png](attachments/11940300/11940311.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-21 15:4:21.png](attachments/11940300/11940312.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-21 15:11:46.png](attachments/11940300/11940313.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-21 15:8:16.png](attachments/11940300/11940314.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-21 15:13:34.png](attachments/11940300/11940315.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-21 15:12:41.png](attachments/11940300/11940316.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-9_16-45-45.png](attachments/11940300/11944136.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-9_16-28-15.png](attachments/11940300/11944192.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-9_16-27-59.png](attachments/11940300/11944193.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-9_16-27-40.png](attachments/11940300/11944194.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-9_16-27-23.png](attachments/11940300/11944195.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-10_10-17-36.png](attachments/11940300/11944196.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-4-9_16-22-58.png](attachments/11940300/11944191.png) (image/png)  

@@ -32,19 +32,3 @@
 14. Copy the Bot User Oauth Access Token to provide for the ameliav3-gateway-slack  
     ![](attachments/20807838/20807850.png)  
 15. If the Quick Replies feature is used, follow the steps in the [Slack API Documentation](Slack%20API) page.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-6-6_10-49-7.png](attachments/20807838/20807839.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_10-49-42.png](attachments/20807838/20807840.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_10-50-11.png](attachments/20807838/20807841.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_10-50-56.png](attachments/20807838/20807842.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_10-51-30.png](attachments/20807838/20807843.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_10-57-8.png](attachments/20807838/20807844.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_10-58-52.png](attachments/20807838/20807845.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_10-59-32.png](attachments/20807838/20807846.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_11-0-13.png](attachments/20807838/20807847.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_11-1-46.png](attachments/20807838/20807848.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_11-2-24.png](attachments/20807838/20807849.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_11-3-4.png](attachments/20807838/20807850.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_13-18-8.png](attachments/20807838/20807884.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_13-19-57.png](attachments/20807838/20807885.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_13-26-46.png](attachments/20807838/20807887.png) (image/png)  

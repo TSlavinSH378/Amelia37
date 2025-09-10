@@ -34,13 +34,3 @@ Figure. Sample Image Overlay
 Figure. Sample Video Overlay
 ![](attachments/20809368/20809403.png)
 Figure. Sample PDF Overlay in Firefox Browser
-## Attachments:
-![](images/icons/bullet_blue.gif) [amelia_v3_customui_present_icons_3.7.x.jpg](attachments/20809368/20809372.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2019-7-19_9-54-58.png](attachments/20809368/20809396.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-19_9-58-17.png](attachments/20809368/20809397.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-19_9-59-51.png](attachments/20809368/20809398.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-19_10-1-44.png](attachments/20809368/20809399.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-19_10-16-43.png](attachments/20809368/20809401.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-19_10-17-14.png](attachments/20809368/20809402.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-19_10-18-35.png](attachments/20809368/20809403.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-19_10-31-8.png](attachments/20809368/20809405.png) (image/png)  

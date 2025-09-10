@@ -75,7 +75,3 @@ Amelia has a number of key modules for V3, as well as user interfaces, escalatio
 -   AIML (Artificial Intelligence Markup Language) for conversational chitchat
 -   Facial Recognition
 The rest of this guide describes how to make use of Amelia's many features.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-9-15_15-5-36.png](attachments/11940369/11940370.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-15_15-5-18.png](attachments/11940369/11940371.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-15_15-4-53.png](attachments/11940369/11940372.png) (image/png)  

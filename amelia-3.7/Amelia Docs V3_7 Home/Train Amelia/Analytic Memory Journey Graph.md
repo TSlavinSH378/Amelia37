@@ -16,28 +16,3 @@ Table. Journey Analytics Dropdown Options
 | Date Range | Select a date or date range to display conversation flows. Options are Today, Yesterday, Week to Date, Last Week, Month to Date, and Last Month, as well as years, quarters, and months based on log data stored in the Amelia instance. Today is default. |
 | Data Type | Select a specific type of data to filter conversation flows. Options are Intent, Agent, BPN, and None. Selecting Intent, Agent, or BPN displays a second dropdown list of all available choices for that type of data. None is the default filter option; all data is used to display conversation flows. |
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [testAnalyticMemory.bpmn](attachments/11939882/11939883.bpmn) (application/octet-stream)  
-![](images/icons/bullet_blue.gif) [am-demo-full.csv](attachments/11939882/11939884.csv) (text/csv)  
-![](images/icons/bullet_blue.gif) [am-demo-basic.csv](attachments/11939882/11939885.csv) (text/csv)  
-![](images/icons/bullet_blue.gif) [amelia-v3-analytic-mem-convo-output.jpg](attachments/11939882/11939886.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2017-11-3_12-22-7.png](attachments/11939882/11939887.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-3_12-20-32.png](attachments/11939882/11939888.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-analytic-mem-create-entity.jpg](attachments/11939882/11939889.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2017-11-2_16-57-40.png](attachments/11939882/11939890.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-2_16-45-56.png](attachments/11939882/11939891.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-2_16-45-17.png](attachments/11939882/11939892.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-analytic-mem-run-model.jpg](attachments/11939882/11939893.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia-v3-analytic-mem-create-model-job-key-3.jpg](attachments/11939882/11939894.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia-v3-analytic-mem-create-model-job-key-1.jpg](attachments/11939882/11939895.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia-v3-analytic-mem-create-model.jpg](attachments/11939882/11939896.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2017-10-25_14-49-43.png](attachments/11939882/11939897.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-25_14-44-54.png](attachments/11939882/11939898.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-25_14-44-16.png](attachments/11939882/11939899.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-25_14-27-33.png](attachments/11939882/11939900.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-25_14-12-4.png](attachments/11939882/11939901.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-25_10-26-57.png](attachments/11939882/11939902.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-9_13-18-48.png](attachments/11939882/25460789.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-9_13-30-33.png](attachments/11939882/25460790.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-9_13-33-41.png](attachments/11939882/25460791.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-9_14-11-25.png](attachments/11939882/25460793.png) (image/png)  

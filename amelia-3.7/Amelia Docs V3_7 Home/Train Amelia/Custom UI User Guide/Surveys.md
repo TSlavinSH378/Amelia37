@@ -88,9 +88,3 @@ Figure. Ask Task Form Data Variable Property
 The basic survey appears in the conversation chat box. Click a survey option then click the up arrow at the right of the chat box, or press the Enter key, to select the option.  
 Figure. Example Survey in Conversation Chat Box
 Figure. Example Survey Result Output
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-7-19_10-45-48.png](attachments/20809407/20809408.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-19_11-6-2.png](attachments/20809407/20809409.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-19_11-13-23.png](attachments/20809407/20809410.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-19_11-20-58.png](attachments/20809407/20809411.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-19_11-59-56.png](attachments/20809407/20809412.png) (image/png)  

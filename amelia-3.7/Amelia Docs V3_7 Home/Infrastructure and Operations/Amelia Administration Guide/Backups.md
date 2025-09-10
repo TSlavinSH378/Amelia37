@@ -119,7 +119,3 @@ to
 my @individual_dbs = ('amelia', 'data', 'OTHER DATABASE NAME 1', 'OTHER DATABASE NAME 2');
 etc.
 ```
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-4-21 10:0:47.png](attachments/11940296/11940297.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-3-29 13:20:30.png](attachments/11940296/11940298.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-21 10:1:57.png](attachments/11940296/11940299.png) (image/png)  

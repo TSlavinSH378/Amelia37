@@ -78,17 +78,3 @@ Table. Speech Tab Elements (SAPI Standard)
 | Voice | Voice Selection Tags | The tag can be empty, in which case it changes the voice for all subsequent text, or it can have content, in which case it only changes the voice for that content. | The Voice tag selects a voice based on its attributes, Age, Gender, Language, Name, Vendor, and VendorPreferred. |
 | Lang | Voice Selection Tags | The Lang tag selects a voice based solely on its Language attribute. The tag can be empty, in which case it changes the voice for all subsequent text; or it can have content, in which case it only changes the voice for that content. | The Lang tag has one attribute, LangId. This attribute should be a LANGID, such as 409 (U.S. English) or 411 (Japanese). Note that these numbers are hexadecimal, but without the typical "0x". |
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-2-6_13-51-6.png](attachments/11940946/11941765.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-2-6_13-52-3.png](attachments/11940946/11941766.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-2-6_13-52-16.png](attachments/11940946/11941767.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-2-6_13-53-3.png](attachments/11940946/11941768.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-2-6_14-9-52.png](attachments/11940946/11941769.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-2-7_11-34-16.png](attachments/11940946/11941791.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-3-8_13-16-1.png](attachments/11940946/11942763.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-3-8_13-19-22.png](attachments/11940946/11942766.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-3-8_13-23-39.png](attachments/11940946/11942769.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-3-8_13-56-12.png](attachments/11940946/11942773.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-3-8_13-57-8.png](attachments/11940946/11942774.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-3-11_13-4-32.png](attachments/11940946/11942826.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-3-11_13-5-5.png](attachments/11940946/11942827.png) (image/png)  

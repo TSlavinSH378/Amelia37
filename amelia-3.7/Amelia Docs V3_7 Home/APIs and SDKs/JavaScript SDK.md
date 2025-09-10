@@ -1466,9 +1466,3 @@ First, open your browser's dev tools, and navigate to the source you would like.
 7.  You can put whatever javascript statements you wish in this box; as long as they are valid, they will be executed.  The last statement is crucial.  If the last statement returns true, the breakpoint will stop.  If the last statement returns false, the code will not stop at this point.  In this example, the code will not stop, but instead print this to the browser's console:  
     ![](attachments/11940105/11940106.png)
 A combination of these techniques should provide some insight into any running javascript, be it dependency, SDK, UX code, or something else, and help track down problems
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-4-6 12_23_6c.png](attachments/11940105/11940106.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-6 12_17_42b.png](attachments/11940105/11940107.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-4-6 12_10_33.png](attachments/11940105/11940108.png) (image/png)  
-![](images/icons/bullet_blue.gif) [chromdevtoolsminimized.png](attachments/11940105/11940109.png) (image/png)  
-![](images/icons/bullet_blue.gif) [nicetoseeyou.png](attachments/11940105/11940110.png) (image/png)  

@@ -1251,17 +1251,3 @@ def jsonString =
 '''
 messageService.sendIntegrationMessage(jsonString)
 ```
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-8-20_16-4-14.png](attachments/23396833/23396950.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-20_16-5-22.png](attachments/23396833/23396951.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-20_16-7-29.png](attachments/23396833/23396952.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_8-59-34.png](attachments/23396833/23396969.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_9-2-13.png](attachments/23396833/23396970.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_9-46-52.png](attachments/23396833/23396971.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_9-47-38.png](attachments/23396833/23396972.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_10-4-18.png](attachments/23396833/23396975.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_10-5-8.png](attachments/23396833/23396976.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_10-7-41.png](attachments/23396833/23396977.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_10-10-39.png](attachments/23396833/23396979.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_10-13-1.png](attachments/23396833/23396980.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-21_11-40-52.png](attachments/23396833/23396982.png) (image/png)  

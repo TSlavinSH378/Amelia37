@@ -75,21 +75,3 @@ With the updated BPN saved and deployed, talk with Amelia and use the earlier an
 3.  When Amelia asks your age, type 14 or 14 years old. Notice Amelia now responds with the response you made to the earlier escalation.
 ![](attachments/11939509/11939512.png)
 Figure. Amelia Can Respond with Updated BPN
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-12-4_12-30-17.png](attachments/11939509/11939510.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-12-4_12-27-47.png](attachments/11939509/11939511.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-8_14-40-6.png](attachments/11939509/11939512.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-8_14-38-57.png](attachments/11939509/11939513.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-8_14-38-24.png](attachments/11939509/11939514.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-8_14-37-41.png](attachments/11939509/11939515.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-8_14-34-14.png](attachments/11939509/11939516.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-8_14-32-45.png](attachments/11939509/11939517.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-8_14-27-43.png](attachments/11939509/11939518.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-8_14-26-39.png](attachments/11939509/11939519.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-11-26_16-23-33.png](attachments/11939509/28475453.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-11-27_8-48-55.png](attachments/11939509/28475514.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-11-27_8-51-0.png](attachments/11939509/28475516.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-13_12-5-0.png](attachments/11939509/28476316.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-13_12-5-43.png](attachments/11939509/28476317.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-13_14-22-41.png](attachments/11939509/28476328.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-13_14-23-10.png](attachments/11939509/28476329.png) (image/png)  

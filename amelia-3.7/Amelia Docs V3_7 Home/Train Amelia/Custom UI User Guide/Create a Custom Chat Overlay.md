@@ -312,12 +312,3 @@ messageService.sendIntegrationMessage(jsonString)
 ```
 ## Talk with Amelia
 Call up the web page with the chat overlay then in the overlay type run the workflow BPN_NAME to display the message. BPN_NAME is the name of the BPN created above.  
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-9-4_10-47-56.png](attachments/11939945/11939946.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-9-4_10-44-58.png](attachments/11939945/11939947.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-9-4_8-51-45.png](attachments/11939945/11939948.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-19_9-0-48.png](attachments/11939945/23396875.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-8-19_9-1-26.png](attachments/11939945/23396876.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-11_12-21-15.png](attachments/11939945/25460821.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-9-11_12-22-48.png](attachments/11939945/25460822.png) (image/png)  
-![](images/icons/bullet_blue.gif) [TShirtDemoVideo.mp4](attachments/11939945/25460823.mp4) (video/mp4)  

@@ -77,5 +77,3 @@ This searches for double line breaks and should have zero matches. If there are 
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-6-28_13-1-33.png](attachments/20808369/20808712.png) (image/png)  

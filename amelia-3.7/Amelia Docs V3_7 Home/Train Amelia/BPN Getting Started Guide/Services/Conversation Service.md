@@ -149,7 +149,3 @@ When the BPN models are built and approved, as described in the section above, o
     SessMode  
     UserID  
     Username
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-1-5_11-25-55.png](attachments/11939528/11939529.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-20_16-43-51.png](attachments/11939528/11939530.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-20_16-40-48.png](attachments/11939528/11939531.png) (image/png)  

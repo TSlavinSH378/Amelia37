@@ -50,10 +50,3 @@ Figure. List of User Groups
 To change the members in a group, move the users between the two lists in the edit modal.
 ![](attachments/32510217/32510223.png)
 Figure. Update Group Workspace
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-35-13.png](attachments/32510217/32510218.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-36-34.png](attachments/32510217/32510219.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-37-18.png](attachments/32510217/32510220.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-38-1.png](attachments/32510217/32510221.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-38-53.png](attachments/32510217/32510222.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-5-27_9-40-0.png](attachments/32510217/32510223.png) (image/png)  

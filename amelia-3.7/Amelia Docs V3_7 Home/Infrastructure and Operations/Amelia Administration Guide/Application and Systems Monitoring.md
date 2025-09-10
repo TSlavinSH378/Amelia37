@@ -151,7 +151,3 @@ Table. Monitoring CLI Commands
 | RabbitMQ | rabbitmqctl status |
 | MySQL | service mysql status OR ps aux | grep mysql |
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [amelia_v3.4.x_system_arch-2018-0418.png](attachments/11940317/11940318.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia_v3.3.4_system_arch-2018-0330.jpeg](attachments/11940317/11940319.jpeg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia_v3_system_arch-2018-0212a.jpeg](attachments/11940317/11940320.jpeg) (image/jpeg)  

@@ -338,6 +338,3 @@ To reach the workspace, click the Amelia Trainer link on the left side of Amelia
 In the 1. Load/Learn workspace, click the TSV radio button on the left side then upload a TSV file with the contents above or similar. The Annotation Framework workspace displays the 2. Annotate workspace. The workspace will display the two sentences above or similar marked up. The entities are listed in the Entities workspace. However, the new entities need further definition and editing in the Entities workspace for use in training entity models.
 ![](attachments/11939584/11939586.png)
 Figure. Annotate Workspace after Multiple Entities Uploaded
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-9-15_15-25-45.png](attachments/11940396/11940397.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-15_15-25-24.png](attachments/11940396/11940398.png) (image/png)  

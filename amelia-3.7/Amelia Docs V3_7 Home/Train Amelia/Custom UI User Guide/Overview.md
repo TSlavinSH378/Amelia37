@@ -157,9 +157,3 @@ Table. Conversation Area Code Structure
 | backToField | Marks the end of the unique option definition |
 | backToForm | Defines the end of the unique field definition |
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [amelia_v3_customui_chat_interface_5.3.0.jpg](attachments/11939917/11939918.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-1-26_15-48-40.png](attachments/11939917/11939919.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia_v3_customui_chat_interface.jpg](attachments/11939917/11939920.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-1-25_9-21-11.png](attachments/11939917/11939921.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-1-24_15-52-12.png](attachments/11939917/11939922.png) (image/png)  

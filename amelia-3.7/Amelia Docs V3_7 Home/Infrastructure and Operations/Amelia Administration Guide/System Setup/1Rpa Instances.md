@@ -21,7 +21,3 @@ Table. New 1Rpa Instance Workspace Elements
 | Change MQ Password | Uncheck to force a change in the MQ password |
 | MQ Password | Password of MQ user. ;rabbitmqctl authenticate_user <username> <password>rabbitmqctl authenticate_user guest guest # verifies the user guest with password guest; make sure the user/pass works |
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-12-10_13-23-6.png](attachments/28476193/28476205.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-10_11-52-37.png](attachments/28476193/28476206.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-10_11-53-58.png](attachments/28476193/28476207.png) (image/png)  

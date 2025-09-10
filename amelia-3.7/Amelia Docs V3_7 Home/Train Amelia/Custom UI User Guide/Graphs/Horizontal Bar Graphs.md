@@ -113,6 +113,3 @@ def jsonString = '''
     '''
 messageService.sendIntegrationMessage(jsonString)
 ```
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-7-30_14-26-8.png](attachments/20809652/20809653.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-30_14-28-44.png](attachments/20809652/20809654.png) (image/png)  

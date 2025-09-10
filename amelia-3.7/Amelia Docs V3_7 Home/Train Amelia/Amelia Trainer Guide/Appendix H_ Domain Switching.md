@@ -71,12 +71,3 @@ Figure. Example Domain Switching Test Utterances
 # Domain Switching Impact on Metrics
 Domains get scores at the context level because a user can access multiple domains in the same conversation. In addition, a domain name prefix is added to BPNs and intents triggered during a conversation then logged. These can be viewed with Journey Analytics and Metrics summaries in Amelia's administration pages.
 If the Transcripts panel on a Domain form has Anonymize User selected, the conversation summary will anonymize user data.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-12-12_12-35-39.png](attachments/28476266/28476289.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-12_12-40-44.png](attachments/28476266/28476290.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-12_13-4-14.png](attachments/28476266/28476291.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-12_13-34-15.png](attachments/28476266/28476292.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-12_13-41-24.png](attachments/28476266/28476293.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-12-12_13-58-37.png](attachments/28476266/28476295.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-2-18_16-12-32.png](attachments/28476266/28479397.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2020-2-18_16-14-7.png](attachments/28476266/28479398.png) (image/png)  

@@ -660,9 +660,3 @@ CSS styles to call the fonts should adhere to @font-face rules and link to WOFF
 ```
 ## Select the Custom Font in the Configurator
 [Design with Configurator](Design%20with%20Configurator)
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-5-6_12-45-59.png](attachments/11946019/11946020.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-6_12-47-47.png](attachments/11946019/11946021.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-5-6_12-49-7.png](attachments/11946019/11946022.png) (image/png)  
-![](images/icons/bullet_blue.gif) [scrollToFirstOfAmeliaMessagesGroupFalse.gif](attachments/11946019/11946023.gif) (image/gif)  
-![](images/icons/bullet_blue.gif) [scrollToFirstOfAmeliaMessagesGroupTrue.gif](attachments/11946019/11946024.gif) (image/gif)  

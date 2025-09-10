@@ -133,10 +133,3 @@ See the following pages for the appropriate data dictionaries and schemas that a
 > Using this tool requires Java 8 Update 152 or above on the executing machine (your laptop, server, or otherwise).
 
 External Releases: <https://artifactory.ipsoft.com/artifactory/libs-release-local/net/ipsoft/ameliav3x/ameliav3x-metrics-export/>
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-11-1_16-55-41.png](attachments/11940492/11940493.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-7-5_14-37-37.png](attachments/11940492/11940494.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-7-5_14-36-58.png](attachments/11940492/11940495.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-7-5_14-35-45.png](attachments/11940492/11940496.png) (image/png)  
-![](images/icons/bullet_blue.gif) [test-export-2019-08-08-16-26-13.replay](attachments/11940492/32510611.replay) (application/octet-stream)  
-![](images/icons/bullet_blue.gif) [chat-export-2019-08-08-16-26-13.json](attachments/11940492/32510612.json) (application/json)  

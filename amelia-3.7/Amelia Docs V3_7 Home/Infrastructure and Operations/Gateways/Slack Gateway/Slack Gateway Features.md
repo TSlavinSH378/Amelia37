@@ -51,10 +51,3 @@ The response will be sent back as a JSON, containing field name and the value, t
 </tr>
 </tbody>
 </table>
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-6-6_12-41-22.png](attachments/20807870/20807872.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_12-41-54.png](attachments/20807870/20807873.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_12-42-29.png](attachments/20807870/20807874.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_12-43-35.png](attachments/20807870/20807875.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_12-44-20.png](attachments/20807870/20807876.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-6-6_12-45-27.png](attachments/20807870/20807877.png) (image/png)  

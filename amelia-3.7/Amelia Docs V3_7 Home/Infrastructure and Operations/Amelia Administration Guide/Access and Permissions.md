@@ -320,7 +320,3 @@ Table. Amelia's Pre-Configured Groups
 
 # Spring Security Framework
 Amelia uses Spring Security (4.0.X) as its underlying security framework.  Spring security is a mature, battle-tested, Java based security framework.  To the greatest extent possible, Amelia utilizes all security features provided by this framework.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-3-24 16:26:8.png](attachments/11940292/11940293.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-3-24 16:26:24.png](attachments/11940292/11940294.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-3-24 16:26:35.png](attachments/11940292/11940295.png) (image/png)  

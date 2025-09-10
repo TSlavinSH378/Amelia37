@@ -202,5 +202,3 @@ Table. Table Data Properties
 , 
  |
 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-7-17_16-19-28.png](attachments/20809332/20809336.png) (image/png)  

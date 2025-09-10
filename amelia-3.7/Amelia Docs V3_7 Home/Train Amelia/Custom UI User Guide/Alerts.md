@@ -157,13 +157,3 @@ def jsonString = """
     """
 messageService.sendIntegrationMessage(jsonString)
 ```
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2019-7-26_12-58-57.png](attachments/20809561/20809562.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-26_13-1-14.png](attachments/20809561/20809563.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-26_13-6-7.png](attachments/20809561/20809564.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-26_14-6-13.png](attachments/20809561/20809584.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-26_14-35-8.png](attachments/20809561/20809585.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-26_14-36-49.png](attachments/20809561/20809586.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-26_14-40-46.png](attachments/20809561/20809587.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-26_14-44-4.png](attachments/20809561/20809588.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2019-7-29_16-11-5.png](attachments/20809561/20809627.png) (image/png)  

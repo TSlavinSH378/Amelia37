@@ -414,6 +414,3 @@ When the BPN model is built and approved, as described in the section above, ope
     ![](attachments/11939967/11939969.png)  
     Figure. Output of doTimelineGraph BPN  
 4.  Amelia displays the the last Say task in the BPN.
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2018-8-23_13-8-59.png](attachments/11939967/11939968.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-8-23_13-7-11.png](attachments/11939967/11939969.png) (image/png)  

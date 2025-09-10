@@ -113,25 +113,3 @@ Table. Misclassifications Popup Columns
 
 # Export and Import Models
 A model can be exported to a ZIP archive using the export button on the model revision. Exported models can be uploaded to Amelia with the Upload Models tab on the right edge of the Dashboard workspace.
-## Attachments:
-![](images/icons/bullet_blue.gif) [amelia-v3-dashboard-workspace-3.6.4.jpg](attachments/11939658/11939659.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-11-20_14-55-43.png](attachments/11939658/11939660.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-20_14-54-22.png](attachments/11939658/11939661.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-20_14-53-59.png](attachments/11939658/11939662.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-20_14-53-27.png](attachments/11939658/11939663.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-20_14-52-48.png](attachments/11939658/11939664.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-11-20_14-50-33.png](attachments/11939658/11939665.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-dashboard-workspace-3.5.9.jpg](attachments/11939658/11939666.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2018-4-19_12-28-8.png](attachments/11939658/11939667.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-4-19_12-27-31.png](attachments/11939658/11939668.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-4-19_12-26-37.png](attachments/11939658/11939669.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-4-19_12-26-0.png](attachments/11939658/11939670.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-4-19_12-17-33.png](attachments/11939658/11939671.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-8_13-6-33.png](attachments/11939658/11939672.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-8_13-0-21.png](attachments/11939658/11939673.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-8_12-59-0.png](attachments/11939658/11939674.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-8_12-57-46.png](attachments/11939658/11939675.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-11-8_12-52-25.png](attachments/11939658/11939676.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-10-6_16-55-54.png](attachments/11939658/11939677.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-dashboard-workspace-3.7.40.jpg](attachments/11939658/25462219.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [image2019-10-28_9-40-13.png](attachments/11939658/25462239.png) (image/png)  

@@ -682,19 +682,3 @@ and see
 Ensure you update openssl and openssl-libs
 openssl-libs-1.0.2k-8.el7.x86_64openssl-1.0.2k-8.el7.x86_64
 \|
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-51-14.png](attachments/11940345/11940352.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-50-47.png](attachments/11940345/11940353.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-50-3.png](attachments/11940345/11940354.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-49-26.png](attachments/11940345/11940355.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-48-21.png](attachments/11940345/11940356.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-47-57.png](attachments/11940345/11940357.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-46-55.png](attachments/11940345/11940358.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-46-31.png](attachments/11940345/11940359.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-46-4.png](attachments/11940345/11940360.png) (image/png)  
-![](images/icons/bullet_blue.gif) [Amelia V3 RPMs and Files Installed.xlsx](attachments/11940345/11940346.xlsx) (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet)  
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-53-22.png](attachments/11940345/11940347.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-52-58.png](attachments/11940345/11940348.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-52-22.png](attachments/11940345/11940349.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-51-50.png](attachments/11940345/11940350.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-12-7_11-51-31.png](attachments/11940345/11940351.png) (image/png)  

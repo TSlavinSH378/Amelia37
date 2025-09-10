@@ -68,17 +68,3 @@ These interactions are through a REST API exposed within an Amelia instance. Ame
 [](attachments/11940373/11940379.pdf)
 [Amelia Web Core UI Design Guide (v1.2)](attachments/11940373/11940379.pdf) (PDF \| 109pp \| 15.2MB \| 04/30/2018)
 The UI elements listed are meant to work on v2 and v3 moving forward. 
-## Attachments:
-![](images/icons/bullet_blue.gif) [image2017-9-15_15-9-31.png](attachments/11940373/11940374.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-15_15-9-0.png](attachments/11940373/11940375.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-15_15-8-24.png](attachments/11940373/11940376.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2017-9-15_15-7-48.png](attachments/11940373/11940377.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-custom-ui-style-guide-v1.2.jpg](attachments/11940373/11940378.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [AmeliaStyleGuideV1.2_20180430_RO.pdf](attachments/11940373/11940379.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [AmeliaStyleGuideV1.1_20171109.pdf](attachments/11940373/11940380.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [amelia_v3_home_mind_view-2.jpg](attachments/11940373/11940381.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia_v3_home_basic_view-2.jpg](attachments/11940373/11940382.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [amelia-v3-mobile-ui-2017-1023.png](attachments/11940373/11940383.png) (image/png)  
-![](images/icons/bullet_blue.gif) [amelia-v3-desktop-ui-2017-1023.png](attachments/11940373/11940384.png) (image/png)  
-![](images/icons/bullet_blue.gif) [AmeliaStyleGuideV1.0_20171016-cover.jpg](attachments/11940373/11940385.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [AmeliaStyleGuideV1.0_20171016.pdf](attachments/11940373/11940386.pdf) (application/pdf)  
