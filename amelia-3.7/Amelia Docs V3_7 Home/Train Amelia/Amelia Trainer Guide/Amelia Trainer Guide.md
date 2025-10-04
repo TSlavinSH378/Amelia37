@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Training Amelia involves preparing data and creating models she uses to process utterances and respond in a helpful way. These tasks use the Amelia Trainer pages located on the left side navigation of the V3 administration site.
 These types of data are used to help Amelia understand user utterances in a conversation:
 -   **Intents** can connect specific user phrases and responses from Amelia to confirm an intent or call a BPN. For example, "I lost my hotel bill. How can I get a new one?" expresses a goal, retrieve a hotel bill.
@@ -24,3 +25,4 @@ The rest of this guide describes how to use data to train Amelia.
 -   [Appendix F: Clarifying Question Asker](Appendix%20F_%20Clarifying%20Question%20Asker)
 -   [Appendix G: ELMo Model Training](Appendix%20G_%20ELMo%20Model%20Training)
 -   [Appendix H: Domain Switching](Appendix%20H_%20Domain%20Switching)
+{% /version %}

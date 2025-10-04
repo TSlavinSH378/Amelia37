@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Amelia's Process Memory interfaces provides tools to define Business Process Networks to map how Amelia responds to user interactions. The BPN interface has these components to build process flows:
 -   **Workspace** to create, edit, approve, and script BPN process flows
 -   **Tool Bar** to drag and drop elements to build process flows
@@ -177,3 +178,4 @@ Figure. Tabular Data Workspace
 The Content Manager includes buckets as a folder to hold files displayed to users in a conversation with the Present task, as well as a location to upload files collected from users. Refer to the [Content Manager Buckets and File Storage](BPN-Tasks_11939422.html#BPNTasks-ContentManager) section in the [BPN Tasks](BPN%20Tasks) page for more details.
 ![](attachments/11939361/11941380.png)
 Figure. Buckets Workspace
+{% /version %}

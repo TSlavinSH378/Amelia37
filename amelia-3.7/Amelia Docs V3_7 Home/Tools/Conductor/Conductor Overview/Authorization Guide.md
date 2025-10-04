@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This page describes the RBAC functionality of Conductor including managing users, roles, authorities, and groups.
 # Authorities
 The following authorities exist in Conductor:
@@ -50,3 +51,4 @@ Figure. List of User Groups
 To change the members in a group, move the users between the two lists in the edit modal.
 ![](attachments/32510217/32510223.png)
 Figure. Update Group Workspace
+{% /version %}

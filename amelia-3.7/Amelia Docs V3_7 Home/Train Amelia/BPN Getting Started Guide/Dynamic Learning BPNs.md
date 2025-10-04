@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Amelia has the ability to listen to escalated conversation and learn from them, creating updated versions of BPN processes for approval by a knowledge engineer. The updated BPN versions are called dynamic or learning BPNs.
 Currently only these types of escalation trigger Amelia’s learning capabilities:
 -   Failure of a user utterance to satisfy an Ask task
@@ -75,3 +76,4 @@ With the updated BPN saved and deployed, talk with Amelia and use the earlier an
 3.  When Amelia asks your age, type 14 or 14 years old. Notice Amelia now responds with the response you made to the earlier escalation.
 ![](attachments/11939509/11939512.png)
 Figure. Amelia Can Respond with Updated BPN
+{% /version %}

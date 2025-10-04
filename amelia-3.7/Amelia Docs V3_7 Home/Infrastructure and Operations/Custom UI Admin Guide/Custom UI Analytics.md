@@ -1,3 +1,4 @@
+{% version "3.x" %}
 As of Custom UI version 5.5.1, it is possible to capture analytics data for the custom user interface. JavaScript code is passed with the **customJS** parameter in the config.json file.
 Refer to [Custom UI Bundles](Custom%20UI%20Bundles) page for details about configuring a custom user interface and [Customize UI with config.json](Customize%20UI%20with%20config_json) for details about the config.json file.
 Analytics data can be sent with an external script to receive data or without an external script.
@@ -57,3 +58,4 @@ This code collects any custom user interface links clicked by the user. JavaScri
     "customJS": "(() => {var s = document.createElement('script');s.type = 'text/javascript';s.text = 'var list = []; function getClick(url) {console.log(url);list.push(url);console.log(list);}';document.head.appendChild(s);})();"
     }
     ```
+{% /version %}

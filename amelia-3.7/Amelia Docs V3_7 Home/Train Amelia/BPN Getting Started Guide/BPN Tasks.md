@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Steps in Amelia's conversations are mapped to individual tasks in a Business Process Network (BPN) model. Results from these tasks determine the flow to other tasks. Tasks tell Amelia what to ask or say, as well as run other BPNs, set and unset variables, escalate conversations to human agents, and other tasks.
 The outbound flow from a task and inbound flow into a task are called edges. Conditions that regulate whether or not the conversation continues past a task edge are written with edge notation.
 In addition, all BPN model tasks have access to any variables captured and set during the conversation process, as well as the conversation history. This thread of execution scope also is available to any sub BPNs called with a Run the Workflow task and their output also is available to tasks within the calling wrapper BPN.
@@ -483,3 +484,4 @@ Table. Message Types for Send Task
 # Close the Conversation Task
 The Close the conversation task allow the current conversation to be closed by Amelia during the execution of a BPN. Once the execution flow hits the Close the Conversation task, the conversation will be closed and the subsequent tasks (if existing) will be ignored. The thread of execution is stopped and all variables and other context are not available.
 **Example: **close the conversation
+{% /version %}

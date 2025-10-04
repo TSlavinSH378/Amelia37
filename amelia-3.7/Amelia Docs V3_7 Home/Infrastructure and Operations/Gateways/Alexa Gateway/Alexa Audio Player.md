@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The Alexa audio player, in a sense, can be considered a separate component outside the Amelia skill.  When invoked, the original conversation is closed within Amelia and the Alexa Audio player takes over.
 # Audio Controls and Features
 When the audio player is being used the user is able to control the playback simply by invoking Alexa's name without the skill. Alexa is able to recall which skills are associated with the queued audio and will perform call backs to the gateway as necessary.
@@ -52,3 +53,4 @@ Preview: Inline Only
 Download: No
 ![](attachments/23397231/23397239.png)
 This list will act as a "playlist" for the Alexa Audio Player. This means that if I begin at track 2, I can go back and forth to track 1, or 3.  
+{% /version %}

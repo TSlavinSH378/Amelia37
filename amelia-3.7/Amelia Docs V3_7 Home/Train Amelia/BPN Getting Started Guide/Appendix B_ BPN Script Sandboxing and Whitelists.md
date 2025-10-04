@@ -1,3 +1,4 @@
+{% version "3.x" %}
 By default, all scripts within a BPN are executed within a secure sandbox within the Amelia engine, whether code that appears directly in a BPN Script task or a script library script. The sandbox prevents malfunctioning or malicious code from doing damage.
 The sandbox constrains which:
 -   Classes can be imported
@@ -104,3 +105,4 @@ systemctl restart amelia-engine-service@p00x amelia-admin-web
 -   Test the script state for functionality after the whitelist is added and the engine-service and admin-web restarted.
 -   The whitelist might need to be updated several times to ensure classes/modules are added appropriately as script states are tested.
 -   Adding an entire class loads methods that may not be needed. Add specific additions to the whitelist before adding an entire class.
+{% /version %}

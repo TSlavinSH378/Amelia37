@@ -1,3 +1,4 @@
+{% version "3.x" %}
 /\*\*/ Authentication Systems Default Authentication System LDAP Authentication System Setting a User's Authentication System
 Conductor supports multiple authentication systems for logging in users. The default authentication system uses Conductor's application database to store user credentials. A commonly used alternative to this is to use an LDAP server to authenticate a user during login, while [authorization](Authorization%20Guide) is still handled by Conductor locally. 
 # Authentication Systems
@@ -39,3 +40,4 @@ A [user](Authorization%20Guide) has a setting for which authentication system sh
 >
 > The IPsoft LDAP authentication system will automatically add users to the IPsoft Users group and assign them roles to access instances and migrations. This will be made configurable for other authentication systems in the future.
 
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Intent recognition isn't only determined by how Amelia understands the user. It also matters how the user expresses their intent to Amelia. While working on intent recognition, it's important to be aware of this part of the equation as well.
 # User Understanding of Amelia
 In terms of intent recognition, it's an advantage that users have a reasonable understanding of Amelia and her role. Typically, that can include points covered below. 
@@ -144,3 +145,4 @@ When working intent recognition, be mindful of the audience expected to use an A
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
+{% /version %}

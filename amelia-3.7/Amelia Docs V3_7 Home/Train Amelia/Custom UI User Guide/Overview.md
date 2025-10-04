@@ -1,3 +1,4 @@
+{% version "3.x" %}
 When Amelia talks with people through a chat interface, her conversation can include different ways to interact in addition to text. She also can collect, organize, and present artifacts from the conversation. For example, a car insurance quote can include a photo of the vehicle plus financial details used to generate a quote. Or Amelia can include a map to help customers find a local store. Amelia also can ask a person to click to select from button options instead of typing text.
 This enhanced chat interface is called a custom user interface, or custom UI. Within the chat conversation, Amelia can present single and multiple choice buttons to collect data. Chat notes appear in a panel that slides into view from the right edge of the chat interface. Within the chat notes panel, one or more chat notes can present a mix of text, images, video, HTML tables, and maps as needed. The chat notes panel also can include a banner fixed at the top.
 Currently, chat notes and a banner are the two components of Amelia's custom UI. These two components each have a set of subcomponents, for example, text, value, fontSize, and so on.
@@ -157,3 +158,4 @@ Table. Conversation Area Code Structure
 | backToField | Marks the end of the unique option definition |
 | backToForm | Defines the end of the unique field definition |
 
+{% /version %}

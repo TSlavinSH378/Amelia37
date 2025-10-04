@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Refer to the Amelia Deployment Center installation guide for details about installing the software files. The document describes how to install the Amelia Deployment Center (ADC) then use it to configure and install Amelia software on one or more hosts.
 Once installed, setting up an Amelia instance requires several elements be configured first, in this order:
 ![](attachments/11940196/11940226.png)
@@ -30,3 +31,4 @@ The last setup step is to connect the escalation queue to the initial domain cre
 4.  Find the Escalations box and dropdown list then select a queue name from the dropdown list.
 5.  Click the Save button at the top of the domain edit page to save changes.
 The rest of this document describes how to configure an Amelia system based on the purpose of the system, for example, to set up an authentication system, users, and additional domains to store and process knowledge.
+{% /version %}

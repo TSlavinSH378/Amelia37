@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Domains organize distinct sets of knowledge, users, groups, roles, escalation teams, and other systems.  The global domain should be the parent to one or more child domains to allow future changes without affecting the global domain settings.
 While domains can be organized into parent-child domains, sharing knowledge and systems, no domain can have more than one parent domain. Chats also can use a URL to access a specific domain and its knowledge.
 The global domain contains Amelia's default personality and chit chat training. Parent and child domains are created below the global domain to segregate knowledge. For example, parent and child domains can hold active responders, greetings, and rote response behaviors before she escalates or closes a conversation. Parent and child domains also can be configured for languages, time zones, default escalation queues, text to speech (TTS), and other functionality.
@@ -418,3 +419,4 @@ amelia.job.audit-cleanup-keep-past.days = 90
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
+{% /version %}

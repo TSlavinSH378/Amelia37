@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The execution object provides access to a BPN process instance, variables, and user information. For example, the *containsVariable(string key)* method tests whether or not a variable of a given key name exists while the *userDisplayName()* method captures the full name of the current logged in user.
 ``` groovy
 def varsIn =   execution.containsVariable('getId');
@@ -83,3 +84,4 @@ Returns true if the current conversation is anonymous.
     void addAnalyticOutcome(String name, AbstractDatum datum)
 Adds the current outcome of a process from the Analytic Memory functionality to the current BPN process, for example, to test if a conversation is likely to succeed or fail based on analytics then route the conversation flow afterwards. name is the name of the outcome and datum is the value. Outcomes with the same name will update and replace the existing name value.
 This functionality is to be added shortly with examples.
+{% /version %}

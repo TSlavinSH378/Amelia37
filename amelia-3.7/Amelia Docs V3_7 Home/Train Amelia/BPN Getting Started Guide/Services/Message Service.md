@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The Message Service allows an integration message to be sent directly from a script task, which eliminates the need for a Send the Integration Message task after the Script task that prepares the message payload.
 # Methods
 ## sendIntegrationMessage
@@ -23,3 +24,4 @@ def buildIntegrationMessage() {
 def payload = buildIntegrationMessage()
 messageService.sendIntegrationMessage(payload.toJsonString())
 ```
+{% /version %}

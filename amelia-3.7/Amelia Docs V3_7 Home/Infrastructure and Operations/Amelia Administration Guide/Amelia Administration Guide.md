@@ -1,3 +1,4 @@
+{% version "3.x" %}
 -   [Introduction](Introduction)
 -   [Initial System Setup](Initial%20System%20Setup)
 -   [System Setup](System%20Setup)
@@ -21,3 +22,4 @@
 -   [Application Configuration Properties](Application%20Configuration%20Properties)
 -   [Archiving Amelia V3 Chat Data](Archiving%20Amelia%20V3%20Chat%20Data)
 -   [Monthly Software Patching and Upgrades](Monthly%20Software%20Patching%20and%20Upgrades)
+{% /version %}

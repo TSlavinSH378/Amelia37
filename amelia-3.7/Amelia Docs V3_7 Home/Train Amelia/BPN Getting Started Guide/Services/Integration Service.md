@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The `integrationService` service provides integration flow related operations to BPN Script tasks and libraries. Many times a Run the Integration Flow task is followed by a Script task used to parse output from the preceding task. The Integration Service allows a Script task to interact with integration flows directly and adapt data, in some cases without any limitations of a BPN task.
 # Methods
 ## runSynchronously(String flowName)
@@ -48,3 +49,4 @@ outgoingVariableMap.put('x', outgoingVariable)
 def incomingVariableMap = integrationService.runSynchronously('multiply', outgoingVariableMap)
 execution.setVariable('sum', incomingVariableMap.get('result'));
 ```
+{% /version %}

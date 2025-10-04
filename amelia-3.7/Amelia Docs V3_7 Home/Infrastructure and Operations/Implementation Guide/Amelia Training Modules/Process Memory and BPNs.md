@@ -1,3 +1,4 @@
+{% version "3.x" %}
 With Amelia V3, the use of Business Process Networks (BPNs) to manage conversations has been refined.
 -   A new edge notation (service prefixes) for transitions specifies conditions with less complexity and code
 -   Additional property settings for Ask tasks, for example, choice display behavior and subsequent ask behavior
@@ -99,3 +100,4 @@ Which task Amelia jumps to is determined by a real time evaluation of her curren
 -   [Tabular Data Resources](https://docs.ipsoft.com/display/AmeliaDocsV3/Script+Tasks#ScriptTasks-TabularDataSources)
 -   [Buckets and File Storage](https://docs.ipsoft.com/display/AmeliaDocsV3/BPN+Tasks#BPNTasks-BucketsandFileStorage)
 -   [FreeMarker to Display Dynamic Data](https://docs.ipsoft.com/display/AmeliaDocsV3/Script+Tasks#ScriptTasks-FreeMarkertoDisplayDynamicData)
+{% /version %}

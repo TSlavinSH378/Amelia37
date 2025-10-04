@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Training an artificial intelligence (AI) like Amelia is similar to training a person. People and AIs are not born knowing how to speak a language or perform tasks. Learning requires study of relevant information with lots of practice and testing.
 Before starting to train Amelia, it's important to understand key concepts, terms, and the training process. This document describes how to train Amelia, at a high level, with an emphasis on best practices.
 > [!warning]  
@@ -174,3 +175,4 @@ Ideally, all classifier data should be stored in a version control repository an
 Utterances that did not cause Amelia to return the correct label should not be put into a training set and used to retrain. Instead, these utterances should be put in the test data set.
 Then experiment by adding and removing different variations of the missed utterances into the training set until the utterances added to the test set no longer miss with no regressions. Analyze sentence structure and word choice in the missed utterances, as well as those of the current training data set, to determine how to revise the training data to retrain the model. The new different utterances should not be identical to the utterances that didn't return a correct label.
 Repeat this process until the model performance is optimized. Once changes are made, check into version control the new training set, test set, and classifier model.
+{% /version %}

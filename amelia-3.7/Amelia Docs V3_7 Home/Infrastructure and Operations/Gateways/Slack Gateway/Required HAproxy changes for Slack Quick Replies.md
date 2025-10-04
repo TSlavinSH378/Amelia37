@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Update the HAproxy configuration file with details about the Amelia Slack configuration.
 **Table. HAproxy Changes for Slack**
 ``` groovy
@@ -17,3 +18,4 @@ Update properties in the gateway application.properties file.
 | server.servlet-path | 3.5.x/3.6.x/3.7.0 | No | /Amelia/slack | Servlet context path. Must match the setting in HAproxy. |
 | server.servlet.context-path | 3.7.1+ | No | /Amelia/slack | Servlet context path. Must match the setting in HAproxy. |
 
+{% /version %}

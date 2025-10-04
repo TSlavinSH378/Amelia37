@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This page describes the journey of registering and maintaining application instances in Conductor.
 # Registering an Application Instance
 To register a new application instance with Conductor, go to the Instances screen and click the blue button in the top right above the list.
@@ -45,3 +46,4 @@ A Git application instance can be any flavor of Git repository such as GitHub, G
 >
 > This functionality has not yet been implemented.
 
+{% /version %}

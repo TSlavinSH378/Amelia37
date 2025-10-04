@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # How to Use Amelia
 Amelia has several user interfaces. Most end users will use a customized interface to chat with Amelia. Agents and Supervisors handling escalations of conversations use the basic conversation interface that includes the ability to access conversations and see how Amelia processes conversations to respond to people.
 ### Login
@@ -74,3 +75,4 @@ IPsoft Cognitive engineers work with clients to design and deploy an appropriate
 For information about Amelia's interfaces, refer to the [Amelia Custom UI Guide](https://docs.amelia.com/display/COGVODAFONE/Amelia+Custom+UI+Guide) and the [Amelia's Interfaces](Amelia's%20Interfaces) page.
 ## Learn More
 Also be sure to read [Getting Started with Training Amelia](Getting%20Started) for more details about the training process.
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 BPN processes help determine how Amelia behaves during a conversation. Careful planning and thought is required to help Amelia converse in a natural human way and for her processes to be easy to create and maintain.
 # Creating Conversations
 The ability to converse with humans using natural language is Amelia's greatest strength. However, this is not easy to accomplish. In the same way people would notice and become annoyed if a person talked to us as if they were filling out a form, conversations with Amelia need to include basic human elements.
@@ -167,3 +168,4 @@ Script tasks and libraries can use `execution` to access process variables usi
 # Multimedia Content Manager
 The [Content Manager](#) can be used to store multimedia files that will be presented to the user during a conversation. The [Present task](#) displays data stored in the content manager while the [Request task](#) collects data files and stores them in the content manager.
 While using a Script task to capture the full media URL then copy/pasting the URL in a web browser will display the uploaded image, the image will not appear in the Buckets workspace. Amelia V3 has two scopes for multimedia files, system and conversation. System scope includes files uploaded and created in the Buckets workspace. Conversation scope includes files uploaded and managed as part of a conversation controlled by a BPN process. BPNs look for multimedia files first in the conversation scope and, if not found, search the system Buckets.
+{% /version %}

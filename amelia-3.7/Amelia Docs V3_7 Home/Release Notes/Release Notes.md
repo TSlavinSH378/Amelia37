@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Amelia Software
 The [What's New in 3.7.x](What's%20New%20in%203_7_x) page also describes new features with links to details about how to use the features.
 
@@ -27,3 +28,4 @@ The [What's New in 3.7.x](What's%20New%20in%203_7_x) page also describes new fe
 -   [Import Export Tool Releases](Import%20Export%20Tool%20Releases)
 -   [Metrics Export Tool Releases](Metrics%20Export%20Tool%20Releases)
 -   [Remote Admin Tool Releases](Remote%20Admin%20Tool%20Releases)
+{% /version %}

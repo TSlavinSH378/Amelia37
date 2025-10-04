@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Overview
 This guide will describe the steps to download and run Conductor as a Docker Compose deployment.
 # Requirements
@@ -94,3 +95,4 @@ When a new version of Conductor is released, the running containers need to be s
     systemctl stop conductor
     systemctl start conductor
     ```
+{% /version %}

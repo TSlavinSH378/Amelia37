@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This demonstration creates a calendar with a single date selection to appear in the conversation area.
 ![](attachments/11939957/11939958.png)
 Figure. doCalendarSingleDte BPN
@@ -47,3 +48,4 @@ When the BPN model is built and approved, as described in the section above, ope
     ![](attachments/11939957/11939959.png)  
     Figure. Output of doCalendarSingleDte BPN  
 4.  Click the green up arrow at the bottom right of the calendar to submit the calendar data.
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 When troubleshooting, there could be log files to check and preserve, for example, escalation logs for escalated chats. The table below lists the location of log files used by the Amelia system.
 > [!warning]  
 >
@@ -28,3 +29,4 @@ When troubleshooting, there could be log files to check and preserve, for exampl
 | Redis | /var/log/redis/redis-p001.log/var/log/redis/redis.log/var/log/redis/sentinel.log |
 | REST Gateway | /apps/IPsoft/amelia/amelia-rest-gateway/var/log/amelia-rest-gateway.log |
 
+{% /version %}

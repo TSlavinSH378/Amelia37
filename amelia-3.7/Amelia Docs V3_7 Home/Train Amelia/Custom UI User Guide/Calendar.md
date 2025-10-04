@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The custom user interface can display a calendar in the conversation chat box. Possible calendar options are defined in a BPN Script task, saved as a variable, and then referenced in an Ask task.
 The code examples below can be dropped into a Script task in a simple BPN to demonstrate how they work. The Ask task Form data variable property also must be set to formInputData, the Script task variable output shown below, or whatever variable name is used. Once the BPN is saved and deployed, type `run the workflow BPNName` in the custom user interface chat box, where `BPNName `is the name of the simple BPN.
 ![](attachments/20809426/20809492.png)
@@ -127,3 +128,4 @@ Use this data object to replace the default data object definition of the defau
       ]
     }
 ```
+{% /version %}

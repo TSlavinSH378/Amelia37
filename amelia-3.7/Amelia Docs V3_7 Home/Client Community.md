@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The Amelia Customer Community (ACC) was created to give IPsoft clients the opportunity to learn from one another and provide feedback for future product development. Members get exclusive information about Amelia product developments and updates, the opportunity to learn from their peers, and network with like-minded industry professionals.
 The Community holds monthly, customer-only calls, an annual in-person meeting before IPsoft’s Digital Workforce Summit in the spring, and a monthly webinar series on topics chosen by Community members. If you are interested in joining, please email <acc@ipsoft.com.>
 # November 2, 2021: Building Prototypes with Amelia's Digital Employee Builder
@@ -42,3 +43,4 @@ Password: ACust
 # September 10, 2019: Best Practices for Amelia Utterances and Domain Strategy
 Creating a successful Amelia implementation with high accuracy requires careful planning and fine-tuning of Intent Models. In this webinar, IPsoft’s lead Intent Recognition Designer discusses best practices and provides examples of what to do and what not to do, i.e. when should you combine intents, use Qualifying Question Asker (CQA) and handle infrequent intents. We also discuss how to plan your Domain and Domain switching strategy as part of your implementation.
 Password: ACust
+{% /version %}

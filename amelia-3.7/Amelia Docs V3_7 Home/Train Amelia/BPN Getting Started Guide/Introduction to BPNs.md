@@ -1,3 +1,4 @@
+{% version "3.x" %}
 A Business Process Network (BPN) is a flexible and extensible way to guide Amelia's behavior in her interactions. They define a process flow needed to identify and resolve multiple goals and use cases. This is in addition to training Amelia's mind with relevant data to create a reasoning model to help her converse with people. BPNs map her process. Training gives her a model to use when evaluating responses from a conversation.
 Amelia uses a BPN model based on the Business Process Model and Notation 2.0 (BPMN). By definition, Business Process Model and Notation helps businesses understand and document their internal procedures with graphical notation, as well as the ability to communicate these procedures in a standard.
 # BPN Model Types
@@ -32,3 +33,4 @@ In addition to flows and gateways, the direction of a BPN process can be control
 BPNs allows for scripting complex functions and processes to be executed during a process flow, for example, to display invoice data within an HTML table. Groovy and JavaScript languages are currently supported. Within the scope of a script tasks, the execution object allows for interaction between the BPN and the script through the getVariable and setVariable methods. The BPN script editor includes a syntax check tool, as well as a tool to run and test a script. Amelia V3 also includes support for FreeMarker and tabular data to present data within a conversation.
 ## Integrations
 BPNs can use script and tasks to connect to third party software systems to perform tasks within an Amelia interaction. Amelia V3 integrations use the Apache Camel standard to connect and interact with a wide variety of third party sources.
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 > [!info]  
 >
 > Please note this page is a work in progress. Content is likely to change as Amelia V3 evolves and more in-depth documentation becomes available.
@@ -11,3 +12,4 @@ The System Settings for Amelia V3 are similar to V2 with the addition of login w
 -   Response Pools are default responses Amelia uses for common situations, for example, saying goodbye.
 -   Users and Roles to provide access to individuals and organize their activities by role.
 -   Facial recognition provides a set of tools to allow users to login with facial recognition.
+{% /version %}

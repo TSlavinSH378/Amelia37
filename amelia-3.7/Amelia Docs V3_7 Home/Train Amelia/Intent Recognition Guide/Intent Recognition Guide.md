@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This guide describes in detail how Amelia recognizes user intent and how to optimize her ability to recognize intent. A basic familiarity with Amelia and how BPNs, intents, entities, and models work is useful background before reading this guide.
 -   [Introduction to Intent Recognition](Introduction%20to%20Intent%20Recognition)
 -   [Intent Scope](Intent%20Scope)
@@ -14,3 +15,4 @@ This guide describes in detail how Amelia recognizes user intent and how to opti
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
+{% /version %}

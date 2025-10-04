@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Compatibility Matrix
 Amelia V3 works with these browsers. While the chat and custom user interfaces display as noted for iOS and Android, the administration pages are not optimized for mobile use.
 <table class="relative-table wrapped confluenceTable" style="width: 40.875%;">
@@ -50,3 +51,4 @@ Amelia V3 works with these browsers. While the chat and custom user interfaces 
 Ø = Not Applicable
 # WebGL/3D Acceleration
 Display of the interactive Amelia avatar requires use of WebGL/3D Acceleration which may not be available with some systems.
+{% /version %}

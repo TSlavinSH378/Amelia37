@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Please note that this page applies to the web interfaces customers use to interact with Amelia, also called the custom UI. Accessibility is available with the Custom UI 5.6.0+ releases. Other less actively used pages are not currently designed for widespread accessibility, for example, the administration pages used to define Amelia as well as the 3D Mind interface which shows which parts of Amelia respond within a conversation.
 People with disabilities need access to the same technology as everyone else. Web accessibility ensures that people with physical and non-physical disabilities have equal access to the web.
 # How much of the Custom UI is accessible?
@@ -88,3 +89,4 @@ For this purpose we use \`.screen-reader-only\` class which hide this sort of in
 >
 > The accessibility blue focus ring in the chat input area is turned off by default. To add it back, please refer to the [Add Blue Focus Ring in Chat Input section](https://docs.ipsoft.com/display/AmeliaDocsV37/Customize+UI+with+config.json#CustomizeUIwithconfig.json-AddBlueFocusRinginChatInput) on the [Customize UI with config.json](Customize%20UI%20with%20config_json) page.
 
+{% /version %}

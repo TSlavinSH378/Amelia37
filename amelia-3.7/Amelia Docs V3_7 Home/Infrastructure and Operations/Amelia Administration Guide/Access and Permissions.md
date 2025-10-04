@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This section describes the technical details of Amelia's authentication system and user-related permissions.
 # System Authentication
 Each instance of Amelia has a range of authentication systems, policies, and other details documented in this section. Creating and modifying these elements is covered in the System Configuration section.
@@ -320,3 +321,4 @@ Table. Amelia's Pre-Configured Groups
 
 # Spring Security Framework
 Amelia uses Spring Security (4.0.X) as its underlying security framework.  Spring security is a mature, battle-tested, Java based security framework.  To the greatest extent possible, Amelia utilizes all security features provided by this framework.
+{% /version %}

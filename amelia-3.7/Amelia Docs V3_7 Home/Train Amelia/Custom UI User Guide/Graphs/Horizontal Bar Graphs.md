@@ -1,3 +1,4 @@
+{% version "3.x" %}
 > [!info]  
 >
 > This graph only displays in the chat note area.
@@ -113,3 +114,4 @@ def jsonString = '''
     '''
 messageService.sendIntegrationMessage(jsonString)
 ```
+{% /version %}

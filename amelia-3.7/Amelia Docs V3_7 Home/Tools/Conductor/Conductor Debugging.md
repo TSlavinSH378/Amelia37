@@ -1,3 +1,4 @@
+{% version "3.x" %}
 -   <a href="#ConductorDebugging-" data-iwastryingtoxanditdidn'twork!""="">"I was trying to X and it didn't work!"</a>
 -   <a href="#ConductorDebugging-" data-whenigotoapagenothingshowsupinthelistandaredmessagepopsupsaying'forbidden.'""="">"When I go to a page nothing shows up in the list and a red message pops up saying 'Forbidden.'"</a>
 -   <a href="#ConductorDebugging-" data-icannotseeanyinstanceswhenviewingthelist.""="">"I cannot see any instances when viewing the list."</a>
@@ -23,3 +24,4 @@ As you answer these questions, you may even find a more relevant solution contai
 **Solution**: Make sure that all fields in the edit modal are filled out.
 ### "When I click the details button on a content type a yellow message pops up saying 'Content is not available.'"
 **Solution**: This indicates that there is either no content to fetch from the instances/domain or there was an issue with the engine service while fetching the content.
+{% /version %}

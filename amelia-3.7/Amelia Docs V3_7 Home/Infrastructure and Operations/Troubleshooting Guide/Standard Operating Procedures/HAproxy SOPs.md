@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Check HAProxy Status
 Run this command:
 ``` text
@@ -99,3 +100,4 @@ systemctl restart haproxy
 systemctl restart amelia-engine@p001 (where 001 is the pod number)
 systemctl restart amelia-user-web
 ```
+{% /version %}

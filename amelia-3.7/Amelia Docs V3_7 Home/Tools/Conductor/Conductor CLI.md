@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The Conductor Engine CLI application enables users to leverage the functionality of the Conductor engines from their command line. This includes the ability to migrate knowledge and configuration options between Amelia instances, Git repositories, etc. As an added utility function, the ability to export metrics is also included in the application.
 # Intended Audience
 This page and instructions are intended for Amelia admins and engineers that regularly need to migrate Amelia content and configuration changes or export metrics.
@@ -823,3 +824,4 @@ Yes, but there is a catch. Major and minor versions can include breaking API cha
 
 [Conductor Engine CLI 4.3.10 for Amelia Core V4](https://artifactory.ipsoft.com/artifactory/libs-release/net/ipsoft/conductor/conductor-engine-cli-service/4.3.10/conductor-engine-cli-service-4.3.10.jar) - 03/23/2022
 [Conductor Engine CLI 3.7.13 for Amelia Core V3](https://artifactory.ipsoft.com/artifactory/libs-release/net/ipsoft/conductor/conductor-engine-cli-service/3.7.13/conductor-engine-cli-service-3.7.13.jar) - 02/07/2022
+{% /version %}

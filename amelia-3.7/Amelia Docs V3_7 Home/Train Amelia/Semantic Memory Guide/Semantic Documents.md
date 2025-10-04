@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The Semantic Documents workspace is available through the Semantic Memory link on the left side of Amelia's administration pages and the Semantic Documents link. The workspace includes space to specify the type of file, upload a file, and a list of previously uploaded files. Files uploaded display status, a green check mark or rotating circular arrow, and links to download or delete the file. A domain can be selected with a dropdown list at the top right of the interface, next to the navigation links.
 ![](attachments/28476789/28476790.jpg)
 Figure. Semantic Memory Workspace
@@ -67,3 +68,4 @@ A query map uses labeled columns in an Excel file to provide answers Amelia can 
 [Download a Sample Query Map Excel File](attachments/11939867/11939875.xlsx)
 ![](attachments/28476789/28476791.png)
 Figure. Example Query Map Excel File
+{% /version %}

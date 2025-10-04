@@ -1,3 +1,4 @@
+{% version "3.x" %}
 > [!warning]  
 >
 > Use of CustomJS is the responsibility of our clients to implement, test, and maintain. IPsoft is happy to help guide our clients, provide examples, and so on. But clients assume responsibility for use of CustomJS features.
@@ -164,3 +165,4 @@ To combine a chat log background image with button colors, both scripts can be a
 "customJS": "(() => { var styles = document.createElement('style'); styles.innerHTML = '.main--wrapper { background: url(data:image/png;base64,iREST_OF_BASE64_STRING) left top no-repeat; background-size: 24px;} .ChatNote__edit-button {background-color: #FFF; color: #0000FF;}'; document.body.appendChild(styles);})()"
 }
 ```
+{% /version %}

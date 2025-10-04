@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The first step creating a BPN involves the choice of BPN model type. There are three different types with Amelia V3, each with their own positives and negatives.
 # BPN Model Types
 There are several possible types of BPN models.
@@ -22,3 +23,4 @@ Table. BPN Model Property Panel Settings
 | Default escalation queue | If appropriate, select a queue to handle escalations |
 | Escalation variables | Click the + icon to display a field and enter a variable to attach to an escalation request. Variables are created in Script tasks within the BPN, a Set the Variable task, or passed along with an Escalate Because task. |
 
+{% /version %}

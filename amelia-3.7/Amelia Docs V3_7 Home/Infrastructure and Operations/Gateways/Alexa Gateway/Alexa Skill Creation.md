@@ -1,3 +1,4 @@
+{% version "3.x" %}
 > [!warning]  
 >
 > This guide does not cover certification and distribution of the skill.
@@ -34,3 +35,4 @@
 2.  Toggle the Audio Player switch to enable the feature.  
     ![](attachments/23397229/25461653.png)  
 3.  Click Save Interfaces
+{% /version %}

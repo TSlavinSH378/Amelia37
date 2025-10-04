@@ -1,3 +1,4 @@
+{% version "3.x" %}
 These documents describe how to build and install an Amelia environment.
 -   [NOT USED - Amelia V3 Platform Design](Amelia%20V3%20Platform%20Design)
 -   [Amelia Deployment Center Install Guide](Amelia%20Deployment%20Center%20Install%20Guide)
@@ -8,3 +9,4 @@ These documents describe how to build and install an Amelia environment.
 -   [SSL Installation Guide](SSL%20Installation%20Guide)
 -   [Text to Speech Server Installation](Text%20to%20Speech%20Server%20Installation)
 -   [Replace IPsoft Self-Signed Certificates](Replace%20IPsoft%20Self-Signed%20Certificates)
+{% /version %}

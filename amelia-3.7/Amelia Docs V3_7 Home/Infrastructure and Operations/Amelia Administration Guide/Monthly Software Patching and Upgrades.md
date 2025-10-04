@@ -1,3 +1,4 @@
+{% version "3.x" %}
 To ensure that our systems are compliant and not vulnerable against threats, regular security patches will be deployed to all hosts in the same windows as standard product upgrades (for version compatibility). This will occur in two parts based upon the type of deployment, i.e., shared vs dedicated to ensure that the application downtime is kept to a minimum
 For any client-hosted hosts/products, we shall provide training to customers to use our available playbooks for stopping/starting our applications, and will be available on stand-by in case of any issues. To accomplish this, clients would be required to share the patch details with us for validation, and any exceptions we would need to consider to ensure that the application downtime is kept to a minimum.
 # Amelia Platform Upgrades - SaaS
@@ -53,3 +54,4 @@ It is to be noted that there are two types of Upgrade that would be considered f
 -   Each client PM/EM/CPL will ensure that they keep their clients aware of the patching windows, and choose from the available slots indicated
 -   If a change in the window is required, inform STech through a CI ticket, at least one week in advance
 -   QA each instance post-patching to ensure no feature/functionality is broken, and report back if any concerns
+{% /version %}

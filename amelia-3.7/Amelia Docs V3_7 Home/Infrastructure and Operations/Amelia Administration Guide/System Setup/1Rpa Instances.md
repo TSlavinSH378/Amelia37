@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Robotic Process Automation (RPA) enables software bots to mimic human interaction with a user interface. 1RPA hosts can be registered with Amelia then called with the run the rpa bot BPN task. Bots called from within a BPN must exist on the 1RPA host.
 To view registered 1RPA instances, click the System Settings link on the left side of Amelia's administration pages then click the Audit Log link to display a searchable list of events.
 To edit a 1RPA instance click the ![](attachments/28476193/28476205.png) pencil icon to the left of a name listed in the 1Rpa Instances workspace.
@@ -21,3 +22,4 @@ Table. New 1Rpa Instance Workspace Elements
 | Change MQ Password | Uncheck to force a change in the MQ password |
 | MQ Password | Password of MQ user. ;rabbitmqctl authenticate_user <username> <password>rabbitmqctl authenticate_user guest guest # verifies the user guest with password guest; make sure the user/pass works |
 
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 -   <a href="#SemnetConfiguration-ThresholdforSemnet" data-idon'tknow"response"="">Threshold for Semnet "I don't know" response</a>
 -   <a href="#SemnetConfiguration-ThresholdforDocumentQA" data-idon'tknow"response"="">Threshold for Document QA "I don't know" response</a>
 -   <a href="#SemnetConfiguration-ThresholdforFAQ" data-idon'tknow"response"="">Threshold for FAQ "I don't know" response</a>
@@ -21,3 +22,4 @@ Table. Semnet Configuration Properties
 | Knn threshold for paragram similarity in FAQ responder | 0.7 | Minimum paragram similarity score for a document to be a part of the cluster.;Reduce the score if you get frequent "I don't know" responses from FAQ responder. |
 | Threshold on entailment score for highest sum match | 0.9 | Paragram similarity score and entailment similarity score are added and the document with highest sum is returned if the entailment score of the document is greater than this threshold. Reduce the score if you get;frequent "I don't know" responses from FAQ responder. Very low value for this threshold will make the FAQ responder return answers for all the queries including casual chats and common queries. |
 
+{% /version %}

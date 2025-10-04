@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Amelia can use past conversations to navigate through a real time conversation. As a conversation progresses, she identifies relevant past conversations to find the best process to follow. This dynamic capability is called episodic memory.
 Creating Amelia's episodic memory requires the creation, training, and deployment of three models. An intent model uses words, phrases, and other elements to help Amelia understand one or more topics she will encounter in conversation. Two episodic memory models also are created, a Thought Vectors model to generate the five best responses and a Contextual LSTM model to rank and pick from the five best responses.
 All three episodic memory models are created with the Annotate workspace in Amelia's administration pages. The workspace annotates chat transcripts and other materials to identify intents and entities.
@@ -135,3 +136,4 @@ To confirm the models are training, click the Training Queue link on far right e
 To deploy the intent model and two episodic memory models, click the Dashboard link visible when the Amelia Trainer link is clicked in Amelia's V3 administration pages. Deploy the intent model first then the Thought Vector and Contextual LSTM models. Find the model names in the dashboard list and click the thumbs up Ready icon to deploy each model. Deployed model listings have a light blue background stripe in the dashboard.
 # Test Episodic Memory Models
 Once the three episodic memory models have been created, trained, and deployed, Amelia's V3 chat interface displays how she navigates from past conversations based on the current conversation. To see her episodic memory, click the Mind link at the top right of the chat interface then click the Episodic Memory tab icon on the right edge of the Mind panel. Then engage Amelia in conversation. She navigate past conversations that address the context and needs in the current conversation.  
+{% /version %}

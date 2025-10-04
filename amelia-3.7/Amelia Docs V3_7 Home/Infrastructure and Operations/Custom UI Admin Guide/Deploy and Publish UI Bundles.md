@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Amelia V3 has two interfaces available to chat with people. The traditional chat interface includes an avatar and, in some cases, the ability to see details about the BPN process, affective memory, and other factors she uses to respond in conversations. There's also a custom user interface that allows Amelia to present data collected during a conversation, for example, to build an insurance quote. Both interfaces allow images, buttons, and other types of interactive content to appear in the conversation flow.
 The Amelia V3 administration pages include the ability to deploy custom user interfaces (UIs) for a variety of situations, for example, different Amelia environments for different products and services. User interfaces are configured as bundles then uploaded and deployed in Amelia instances.
 UI bundles can be deployed by customers as well as IPsoft technical staff. Configuring UI bundles is done by IPsoft staff in consultation with clients.
@@ -61,3 +62,4 @@ Figure. UI Bundle Edit Workspace
 Once a bundle is created and saved and the edit page displays, as shown above, the Current Revisions section of the page will show the Published? toggle as active. Alternately for UI bundles listed in the UI Bundles workspace, click the notepad icon to the left of any bundle name to display the edit page.
 1.  Click the Deployed? toggle in the Current Revisions section for the selected revision. The linked URL path for the deployed version appears to the right of the active Deployed? toggle.
 2.  Click the Default for Bundle? toggle in the Current Revisions section to make the revision the default user interface when the base URL path is used.
+{% /version %}

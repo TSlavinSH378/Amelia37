@@ -1,3 +1,4 @@
+{% version "3.x" %}
 If there is a problem, but no alerts identify an Amelia system host, start troubleshooting with these steps. These steps look at disk space and other basic environment and system issues that might cause a problem for Amelia.
 # Disk - /
 Check the current usage with the command: **df -h**. Also, check the usage by directory with **du -h --max-depth=1 /. **The 15 largest files can be found with **find / -xdev -depth -type f -ls \|sort -nr -k 7 \|head -15. **Check which files can be deleted/gzipped/moved. The alert may be due to log files, which can be rotated with **logrotate -vf /etc/logrotate.conf**.
@@ -76,3 +77,4 @@ When Linux uses all physical RAM on a server, instead of RAM it uses the swap me
 
 To recover from this situation, the challenge is to clear out the swap memory. This can be as simple as moving swap memory data to free physical memory, if enough exists. If that is not possible, find any non-database programs and services to restart or kill.
 Use the free command to see current memory size and locations and the swapon and swapoff commands to move data in or out of swap memory.
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Once Amelia is setup and with a basic configuration and its default escalation queue defined, additional changes depend on the purpose of the system. Amelia includes a default set of elements which can be adapted and new ones created as needed:
 -   Groups, Roles, Authentication Systems, Authentication Policies
 -   Basic greeting and escalation BPNs
@@ -24,3 +25,4 @@ The goals of the system will determine how many of these steps need to be taken.
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
+{% /version %}

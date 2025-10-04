@@ -1,3 +1,4 @@
+{% version "3.x" %}
 With intents and entities defined, the next step is to use the Annotate workspace to create representational models for Amelia to use in conversations. This process uses entities and intents as well as chats and other data imported into the Annotate workspace. Data to import includes free flowing chat conversations, chat transcripts, and negative utterances.
 The Amelia Trainer link on the left side of the Amelia V3 administration pages when clicked displays links to create intents, entities, and annotate data.
 # Annotation Framework Workspace
@@ -332,3 +333,4 @@ With utterances tagged, navigate to Amelia's administration pages and click the 
 Figure. Misclassifications Workspace with Tagged Entries
 For each entry, select the correct domain and intent from the two dropdown lists. When an intent is selected, a popup will appear to confirm the domain and intent selections. Click the OK button to close the confirmation popup.
 To delete a tagged entry, click the checkbox to the left of an entry then click the Delete button at the top right of the Misclassifications tab workspace.  
+{% /version %}

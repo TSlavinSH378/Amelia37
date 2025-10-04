@@ -1,3 +1,4 @@
+{% version "3.x" %}
 -   [Integration Workspaces](Integration%20Workspaces)
 -   [Create an Integration Flow](Create%20an%20Integration%20Flow)
 -   [Create a BPN Process Flow](Create%20a%20BPN%20Process%20Flow)
@@ -5,3 +6,4 @@
 -   [Camel HTTP4 Component Integration Example](Camel%20HTTP4%20Component%20Integration%20Example)
 -   [Camel Email Component Integration Example](Camel%20Email%20Component%20Integration%20Example)
 -   [Integration Best Practices](Integration%20Best%20Practices)
+{% /version %}

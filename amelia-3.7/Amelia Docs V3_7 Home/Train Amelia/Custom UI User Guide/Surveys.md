@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The custom user interface can display a basic survey in the conversation chat box. Survey options are stars, emoji, and numbers. Possible survey options are defined in a BPN Script task, saved as a variable, and then referenced in an Ask task.
 Survey results can be mined from conversation logs or captured with a Script task, for example, to integrate with a third party tool that collects survey data.
 The code examples below can be dropped into a Script task in a simple BPN to demonstrate how they work. The Ask task Form data variable property also must be set to formInputData, the Script task variable output shown below, or whatever variable name is used. Once the BPN is saved and deployed, type run the workflow BPNName in the custom user interface chat box, where BPNName is the name of the simple BPN.
@@ -88,3 +89,4 @@ Figure. Ask Task Form Data Variable Property
 The basic survey appears in the conversation chat box. Click a survey option then click the up arrow at the right of the chat box, or press the Enter key, to select the option.  
 Figure. Example Survey in Conversation Chat Box
 Figure. Example Survey Result Output
+{% /version %}

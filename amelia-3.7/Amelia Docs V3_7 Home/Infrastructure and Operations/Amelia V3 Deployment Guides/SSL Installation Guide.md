@@ -1,3 +1,4 @@
+{% version "3.x" %}
 To install the SSL Certificate in an Amelia deployment, follow these steps:
 1.  Verify these items exist:
     -   The X.509 server certificate which is obtained using a CSR request. The certificate can be in CRT or PEM format. If the former see section [Create PEM File](#SSLInstallationGuide-CreatePEM) to generate a PEM file.
@@ -145,3 +146,4 @@ Step 2 allows all java processes to trust the client CA  and Steps 3-4 allow Op
     ``` bash
     systemctl restart haproxy.service
     ```
+{% /version %}

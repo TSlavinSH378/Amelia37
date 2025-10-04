@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This page and section includes links to documentation for the Amelia version 3.7.x system.
 ## What Is Amelia?
 Amelia is a cognitive software agent who appears as a digital avatar who listens and interacts with people to solve problems. She reads natural language, understands context, applies logic, infers implications, learns through experience and senses emotions. She understands what is meant, not only what a person says. Amelia can take on a wide variety of rote business and engineering tasks. With V3, Amelia has evolved substantially in conversational intelligence, analytics, workflow, and experience management.
@@ -58,3 +59,4 @@ Search
     [NOT USED - Amelia V3 Platform Design](Amelia%20V3%20Platform%20Design)
     Nov 03, 2023 • updated by [Amelia Editor](/display/~ipsofteditor) • [view change](/pages/diffpagesbyversion.action?pageId=11940325&selectedPageVersions=9&selectedPageVersions=8)
 [Show More](/plugins/recently-updated/changes.action?theme=concise&pageSize=5&startIndex=5&searchToken=424104&spaceKeys=AmeliaDocsV37&contentType=page) ![](images/icons/wait.gif)
+{% /version %}

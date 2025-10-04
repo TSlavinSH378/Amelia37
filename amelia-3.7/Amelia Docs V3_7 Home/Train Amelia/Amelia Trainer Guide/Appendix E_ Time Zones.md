@@ -1,3 +1,4 @@
+{% version "3.x" %}
 These time zone codes are used by the quantity (qty) service, as described in the [Process Flows and Edge Notation](Process%20Flows%20and%20Edge%20Notation) page.
 -   TimeZones.ETC_GMT_PLUS_12
 -   TimeZones.ETC_GMT_PLUS_11
@@ -560,3 +561,4 @@ These time zone codes are used by the quantity (qty) service, as described in th
 -   TimeZones.PACIFIC_TONGATAPU
 -   TimeZones.ETC_GMT_MINUS_14
 -   TimeZones.PACIFIC_KIRITIMATI
+{% /version %}

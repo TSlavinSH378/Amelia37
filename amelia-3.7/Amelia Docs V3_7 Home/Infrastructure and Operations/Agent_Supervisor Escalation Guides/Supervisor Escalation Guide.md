@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Supervisors use Amelia administration pages to manage conversations, escalations, assess performance with metrics, and export conversations. In addition, Agent/Supervisor functionality depends on the configuration of users, roles, escalation teams, escalation queues, and other settings. This guide describes how supervisors manage escalated conversations and system configuration.
 # Getting Started
 Amelia is a cognitive software agent who performs many of the same tasks as human agents. She learns using the same information human agents use to learn. And she can access the same databases and other tools used by humans.
@@ -612,3 +613,4 @@ When the BPN model is built and deployed, as described in the section above, ope
     | run the workflow escalate |
     
 3.  Click the Conversations link at the top of the conversation area to see the escalated conversation listed on the Active Conversations page.
+{% /version %}

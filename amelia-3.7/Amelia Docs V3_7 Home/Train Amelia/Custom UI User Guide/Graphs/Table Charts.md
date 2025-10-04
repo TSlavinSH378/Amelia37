@@ -1,3 +1,4 @@
+{% version "3.x" %}
 > [!info]  
 >
 > Table charts can appear in either the chat log or a chat note.
@@ -288,3 +289,4 @@ def jsonString = '''
     '''
 messageService.sendIntegrationMessage(jsonString)
 ```
+{% /version %}

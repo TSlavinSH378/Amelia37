@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The Amelia Camel Mail Component is a drop-in replacement for the standard [Camel Mail component](http://camel.apache.org/mail.html), providing conveniences for sending mail from Amelia via Camel in a standardized manner in an effort to significantly reduce boilerplate code both within Amelia as well as within Camel.
 Using this component for sending mail through Camel is straightforward. The general steps for doing so are as follows, and are described in detail farther below:
 1.  Add this component as an asset in the Amelia Integration Framework.
@@ -327,3 +328,4 @@ To associate an image with this image element, you would need to specify an atta
 ]
 ```
 Note that the value of the `Content-ID` header must match the value following the `cid:` prefix in the `src` attribute of the `img` tag (`amelia-logo` in this example), surrounded by `<` and `>` (`<amelia-logo>` in this example).
+{% /version %}

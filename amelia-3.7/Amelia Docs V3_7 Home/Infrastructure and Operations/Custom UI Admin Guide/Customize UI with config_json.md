@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Customize Links, UI, and Functionality
 <table class="wrapped relative-table confluenceTable" style="width: 91.7202%;">
 <colgroup>
@@ -660,3 +661,4 @@ CSS styles to call the fonts should adhere to @font-face rules and link to WOFF
 ```
 ## Select the Custom Font in the Configurator
 [Design with Configurator](Design%20with%20Configurator)
+{% /version %}

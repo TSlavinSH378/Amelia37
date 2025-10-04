@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This service provides operations associated with the agent information of a given escalation queue. It is exposed as "escalationQueueService", to script tasks and libraries.
 # Methods
 ## getNumberOfAvailableAgentsByQueueCode
@@ -98,3 +99,4 @@ Returns the number of active (i.e., currently handled) chat sessions for the spe
 | ----|----|
 | queueName | The name of the escalation queue |
 
+{% /version %}

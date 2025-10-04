@@ -1,3 +1,4 @@
+{% version "3.x" %}
 To output the versions of all software used by Amelia, run this command:
 ``` groovy
 rpm -qa --queryformat '%{NAME}\t%{VERSION}-%{RELEASE}\n' | grep -iE 'amelia|redis|rabbitmq|haproxy|openssl|percona|jdk|py-bcrypt|netdata|erlang' | sort | column -t
@@ -138,3 +139,4 @@ pyOpenSSL 0.13.1-3.el7
 rabbitmq-server 3.6.15-1.el7
 redis 3.2.10-2.el7
 ```
+{% /version %}

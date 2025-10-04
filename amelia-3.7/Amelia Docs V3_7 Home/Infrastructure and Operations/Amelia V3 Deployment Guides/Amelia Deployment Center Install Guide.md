@@ -1,3 +1,4 @@
+{% version "3.x" %}
 
 |  |  |  |  |  |
 | ----|----|----|----|----|
@@ -682,3 +683,4 @@ and see
 Ensure you update openssl and openssl-libs
 openssl-libs-1.0.2k-8.el7.x86_64openssl-1.0.2k-8.el7.x86_64
 \|
+{% /version %}

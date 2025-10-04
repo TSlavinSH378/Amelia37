@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This demonstration creates a timeline graph of data stored in a Script task and sent as a JSON string for display by Amelia.
 ![](attachments/11939967/11939968.png)
 Figure. doTimelineGraph BPN
@@ -414,3 +415,4 @@ When the BPN model is built and approved, as described in the section above, ope
     ![](attachments/11939967/11939969.png)  
     Figure. Output of doTimelineGraph BPN  
 4.  Amelia displays the the last Say task in the BPN.
+{% /version %}

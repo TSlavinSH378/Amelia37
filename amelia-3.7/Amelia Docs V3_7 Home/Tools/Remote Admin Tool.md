@@ -1,3 +1,4 @@
+{% version "3.x" %}
 > [!info]  
 >
 > [Conductor Engine CLI](Conductor) is the next generation of this tool. Consider using Conductor instead unless there is a legacy reason to use this tool.
@@ -214,3 +215,4 @@ Many of the JSON files will contain UUIDs that reference other configuration ite
 </table>
 # Download
 External Releases: https://artifactory.ipsoft.com/artifactory/libs-release-local/net/ipsoft/ameliav3x/ameliav3x-remote-admin
+{% /version %}

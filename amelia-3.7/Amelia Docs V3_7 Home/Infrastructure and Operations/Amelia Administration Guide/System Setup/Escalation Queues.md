@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Once a conversation is escalated, it will be placed in one of the existing queues defined for the conversation domain. The module in Amelia that escalates the conversation, for example, a BPN, will specify the queue where the conversation should be placed. If no queue is specified, conversations will be queued on the domain's default queue.
 To create and modify escalation queues, users must have their access privileges include these authorities:
 AUTHORITY_ADMIN_ESCALATION_QUEUE_VIEW  
@@ -62,3 +63,4 @@ The default Escalation Queues workspace includes a search box to find existing 
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
+{% /version %}

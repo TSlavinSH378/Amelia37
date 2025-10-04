@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Overview
 This document will cover each part of Amelia and how IPsoft monitors its systems. This document covers the checks, how they work, and their default values.
 Depending on what each customer uses as their monitoring tool, adjustments will need to be made by their monitoring team. IPsoft monitors each core component as a separate host. This approach logically separates the component into groups that can be easily understood. In most deployments, all the components are installed on a single host. In some of the newer deployments some components may be split onto their own hosts.
@@ -757,3 +758,4 @@ Marked as broken because of SQLSTATE. WSREP has not yet prepared node for applic
 ``` groovy
 ** ERROR ** mnesia_event got {inconsistent_database, running_partitioned_network, rabbit@app01}
 ```
+{% /version %}

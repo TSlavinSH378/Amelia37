@@ -1,3 +1,4 @@
+{% version "3.x" %}
 As of Custom UI version 5.15.0, it is possible to send customized text to speech (TTS) to the chat window. JavaScript code is passed with the **customJS** parameter in the config.json file.
 Refer to [Custom UI Bundles](https://docs.ipsoft.com/display/AmeliaDocsV37/Custom+UI+Bundles) page for details about configuring a custom user interface and [Customize UI with config.json](https://docs.ipsoft.com/display/AmeliaDocsV37/Customize+UI+with+config.json) for details about the config.json file.
 # Set Value for customJS Parameter
@@ -69,3 +70,4 @@ This example uses Amazon Polly with documentation here. In this example, JavaScr
       "customJS": "(() => {var s = document.createElement('script'); s.type = 'text/javascript'; s.src = 'https://sdk.amazonaws.com/js/aws-sdk-2.283.1.min.js'; document.head.appendChild(s); var audio = document.createElement('audio'); document.body.appendChild(audio);})(); window.fetchCustomSpeech=function(e,t){AWS.config.region='YOUR_REGION',AWS.config.credentials=new AWS.CognitoIdentityCredentials({IdentityPoolId:'YOUR_IDENTITY_POOL_ID'});const o={OutputFormat:'mp3',SampleRate:'16000',Text:'',TextType:'text',VoiceId:'Matthew'};o.Text=e.text.replace(/<(?:.|\\n)*?>/gm,''),new AWS.Polly({apiVersion:'2016-06-10'}).synthesizeSpeech(o,(o,n)=>{if(o)console.log('error',o);else{const o=document.getElementsByTagName('audio'),a=new Uint8Array(n.AudioStream).buffer,c=new Blob([a]),d=URL.createObjectURL(c);o[0].src=d,t.addFetchedAudio(e,{audio:d})}})},window.playCustomSpeech=function(e,t){const o=document.getElementsByTagName('audio');o[0].onended=(()=>{t.onFetchedAudioPlayEnd()}),o[0].src=e.audio,o[0].play()};"
     }
     ```
+{% /version %}

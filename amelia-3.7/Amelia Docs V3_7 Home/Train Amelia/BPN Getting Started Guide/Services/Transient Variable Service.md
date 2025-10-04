@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This service allows for the creation and recovery of transient variables. It provides a separate scope for variables longer than 64kB. Such scope is accessible from script tasks via TransientVariableService.
 The following operations are available from TransientVariableService. Transient variables are accessible across all processes executed during a conversation, and removed once the conversation is closed (by the user or due to timeout).
 # Methods
@@ -46,3 +47,4 @@ Removes all variables associated with a process instance.
 ## clearVariables
 void clearVariables(Long conversationId)
 Removes all transient variables associated with a conversation.
+{% /version %}

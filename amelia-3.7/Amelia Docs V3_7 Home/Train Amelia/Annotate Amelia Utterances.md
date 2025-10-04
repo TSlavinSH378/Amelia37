@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Amelia's utterances can be annotated for style and speech, for example, highlighting with bold part of an utterance or changing the pitch. This feature applies to BPN Say and Ask tasks, response pools, entities, and Answer FAQs. The tool appears with a right mouse-click after a cursor is positioned in an edit field or text is highlighted. See the Annotation Editor Interfaces section below for details about annotation editor settings.
 # Ask and Say Tasks
 With an Ask or Say task, double-click the task to open then highlight a portion of text then right mouse-click to open the annotation tool. For Ask tasks, the double quote marks cannot be annotated, only content in between.
@@ -78,3 +79,4 @@ Table. Speech Tab Elements (SAPI Standard)
 | Voice | Voice Selection Tags | The tag can be empty, in which case it changes the voice for all subsequent text, or it can have content, in which case it only changes the voice for that content. | The Voice tag selects a voice based on its attributes, Age, Gender, Language, Name, Vendor, and VendorPreferred. |
 | Lang | Voice Selection Tags | The Lang tag selects a voice based solely on its Language attribute. The tag can be empty, in which case it changes the voice for all subsequent text; or it can have content, in which case it only changes the voice for that content. | The Lang tag has one attribute, LangId. This attribute should be a LANGID, such as 409 (U.S. English) or 411 (Japanese). Note that these numbers are hexadecimal, but without the typical "0x". |
 
+{% /version %}

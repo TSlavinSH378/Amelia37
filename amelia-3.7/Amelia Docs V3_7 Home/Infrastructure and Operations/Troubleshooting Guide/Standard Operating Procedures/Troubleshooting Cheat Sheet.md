@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Check SElinux Status
 ``` groovy
 getenforce
@@ -32,3 +33,4 @@ Finally look at the yum log file with this command:
 ``` groovy
 tail -40 /var/log/yum.log
 ```
+{% /version %}

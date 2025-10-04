@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Amelia software installations include URLs to view guides for their REST API interfaces. Multiple versions of the guide are available. There are two web versions, a multi-page interactive guide and a single page HTML version that is not interactive. There's also a PDF version of the guide available.
 If you do not have access to an Amelia installation, please speak to your IPsoft Account/Partner contact.
 # Multi-Page Web Version
@@ -18,3 +19,4 @@ For example, this URL would display links to PDF and HTML versions for an Amelia
 ``` groovy
 https://amelia.yourcompany.com/AmeliaRest/docs/
 ```
+{% /version %}

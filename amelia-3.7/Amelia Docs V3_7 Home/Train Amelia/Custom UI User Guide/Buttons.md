@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Amelia can display single or multiple-choice buttons with user selection used to direct the future conversation flow, as well as present data in one or more chat notes.
 ![](attachments/11939928/20808262.png)
 Figure. Example Multiple Choice Buttons
@@ -447,3 +448,4 @@ When the BPN model is built and approved, as described above, open Amelia’s cu
     | run the workflow doSingleButton |
     
 3.  Amelia displays buttons in the conversation area. Click and unclick buttons to make a selection before clicking the Submit button.
+{% /version %}

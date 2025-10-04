@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This document describes how to use the interactive chat interface to present buttons, data that has been gleaned from a conversation, and a banner to announce results or drive action.
 The [Custom UI Admin Guide](Custom%20UI%20Admin%20Guide) describes how to install and configure the Custom UI.
 -   [Overview](Overview)
@@ -31,3 +32,4 @@ The [Custom UI Admin Guide](Custom%20UI%20Admin%20Guide) describes how to insta
     -   [Create a Timeline Graph](Create%20a%20Timeline%20Graph)
     -   [Create Suggested Responses](Create%20Suggested%20Responses)
     -   [Create a Survey](Create%20a%20Survey)
+{% /version %}

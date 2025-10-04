@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Datums are tools for extracting valuable input values from natural language inputs. Each defined Slot has an assigned datum type unless the slot being defined is a custom type for which a Custom Datum type would be used composed of datums of type Custom Datum Field. Datums are pre built entities for facilitating the handling of most popular common concepts.
 When working with the code,
 -   A** Datum Registry** has been defined for getting an instance of the Datum of required type.
@@ -628,3 +629,4 @@ Following is the entire list of extactable datums:
 -   US_STATE
 -   US_COUNTY
 -   US_STREET_ADDRESS
+{% /version %}

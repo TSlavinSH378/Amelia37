@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Getting Started
 Amelia is a cognitive software agent who performs many of the same tasks as human agents. She learns using the same information human agents use to learn. And she can access the same databases and other tools used by humans.
 More than a questions and answer chat bot, Amelia understands user requests enough to complete tasks to resolve their issues. She uses conversations to sense the emotions of people as they converse with her and acts accordingly, escalating if needed. She also answers frequently asked questions at any time during a conversation.
@@ -208,3 +209,4 @@ Clicking the Accept button opens a new browser window to display the current con
 
 ![](attachments/11940113/11940116.jpg)
 Figure. Escalation Alert Popup
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 A wide range of Amelia events can be searched and viewed individually and by event type. To view audit log events for a domain, the user must have the ADMIN_AUDIT_EVENT authority assigned to their user account. For events not connected to a domain, the ADMIN_AUDIT_EVENT authority must be assigned from a group with global authority.
 To view events, click the System Settings link on the left side of Amelia's administration pages then click the Audit Log link to display a searchable list of events.
 To display details about an audit log event, click the ![](attachments/11940281/28480544.png) icon to the right of any entry in the Event Data column.
@@ -142,3 +143,4 @@ Table. Audit Log Entry Definitions
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
+{% /version %}

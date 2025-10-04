@@ -1,3 +1,4 @@
+{% version "3.x" %}
 These operating procedures help debug possible RabbitMQ issues.
 # RabbitMQ Users
 An Amelia RabbitMQ instance requires 4 users to be present:
@@ -59,3 +60,4 @@ This alert indicates several possible problems.
     ``` bash
     # rabbitmqctl purge_queue <queue name>
     ```
+{% /version %}

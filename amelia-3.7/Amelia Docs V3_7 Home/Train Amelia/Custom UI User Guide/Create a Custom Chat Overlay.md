@@ -1,3 +1,4 @@
+{% version "3.x" %}
 A chat overlay is a popup window that appears over a web page. Conversing with Amelia with a chat overlay can lead her to display web pages in the main browser window, as needed. This example shows how to install and demonstrate a basic chat overlay.
 ![](attachments/11939945/25460822.png)
 Figure. Custom Chat Overlay in an Example Website
@@ -312,3 +313,4 @@ messageService.sendIntegrationMessage(jsonString)
 ```
 ## Talk with Amelia
 Call up the web page with the chat overlay then in the overlay type run the workflow BPN_NAME to display the message. BPN_NAME is the name of the BPN created above.  
+{% /version %}

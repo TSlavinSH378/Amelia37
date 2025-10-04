@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Once an intent model is trained, the next step is to evaluate the intent recognition capabilities of the model. This process is called validation. Test the model against a set of utterances, called a validation set, to see how the model predicts the intent or lack of intent in the validation set utterances. If training a model is teaching a model, then validating a model is testing and grading a model.
 The purpose of validation is to:
 -   Benchmark the performance of the model – How well does the model perform? How does the performance compare across iterations of the same model? Performance is the ability to generalize beyond what it's trained on to identify intent in live unscripted utterances. 
@@ -356,3 +357,4 @@ As the validation data set is built, it is important to look for congruence bias
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
+{% /version %}

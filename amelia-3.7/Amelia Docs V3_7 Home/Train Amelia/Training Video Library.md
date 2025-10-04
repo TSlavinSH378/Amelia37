@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The IPsoft Amelia V3.7 Video Series includes over 26 short videos ranging from 3 to 15 minutes each. Videos cover high level getting started tasks and concepts, as well as intents, entities, datum types, BPNs, third-party integrations, and other more detailed topics.
 # Getting Started
 ## Welcome
@@ -78,3 +79,4 @@ vimeo.com
 ## Introduction to Amelia Custom UI
 This video introduces the Amelia custom UI function available in version 3.7.
 vimeo.com
+{% /version %}

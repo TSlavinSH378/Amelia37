@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Working with models requires juggling large amounts of precious and evolving data. To stay in control of this data and preserve any formatting, data must be managed and curated in a reasonably disciplined way. This avoids potential double work and time-consuming clean-ups. To work efficiently and smartly with this data, it's helpful to know a few techniques to search in the data and read it.
 # Organization and Version Control
 The data we use is distributed across various files. They should be organized in a sensible way that helps us keep the data clean, and allows us to cooperate on the data and maintain version control.
@@ -77,3 +78,4 @@ This searches for double line breaks and should have zero matches. If there are 
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
+{% /version %}

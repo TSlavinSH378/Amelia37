@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Allows BPN Script tasks to save conversation level custom metrics.  Custom metrics can be saved, updated, deleted and retrieved from any BPN throughout the conversation.  
 The metrics will be persisted and included in the export report, available from the Export Conversations tab in the Admin UI on the Metrics page.
 The service is exposed to script tasks by the name:  customMetricService 
@@ -39,3 +40,4 @@ Returns a map of all custom metrics currently saved for the current conversation
     transientVariableService.addVariable("goals",0)
     def goals = transientVariableService.getVariable("goals")
     customMetricService.upsertMetric("goals", goals.toString())
+{% /version %}

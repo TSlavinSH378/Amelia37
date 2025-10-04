@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The Alexa Gateway allows Amazon Alexa users to speak to Amelia by invoking her name (or a customized name) as a skill. Invoking the skills name automatically launches a new conversation with Amelia.
 ## Greeting
 As with any Amelia conversation, Amelia begins by greeting the user. Using the greeting BPN feature from Amelia, she introduces the user to all the functionalities of the skill as well as conveys any relevant information.
@@ -16,3 +17,4 @@ For more information please refer to our skill installation guide.
 The Amelia skill can be used either privately or publicly depending on the use case.
 Private skills will need to be deployed via an Alexa for Business account. (For more information - <https://aws.amazon.com/alexaforbusiness/>) 
 Public skills will need to be certified by Amazon to be placed into their store (For more information - <https://developer.amazon.com/docs/custom-skills/certification-requirements-for-custom-skills.html>)
+{% /version %}

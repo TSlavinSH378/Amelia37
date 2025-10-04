@@ -1,3 +1,4 @@
+{% version "3.x" %}
 To build and optimize an intent model for high intent recognition requires understanding the current state of the model and knowing how to build and optimize a model.
 # Building and Enhancing a Model
 Working with intent models has two modes, build mode and enhance mode. Build mode happens when creating a new model or expanding an existing model by adding new intents. Enhance mode improves an existing model with no change to its intents. Each mode has significant differences.
@@ -186,3 +187,4 @@ Once an area or two is identified to fix, it's time to analyze why they performe
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
+{% /version %}

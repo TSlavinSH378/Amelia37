@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Clients are a mechanism to allow multi-tenancy in Conductor. By default, the IPsoft client is always created in Conductor. Additional clients can be added to segregate access to a specified instance or migration resource that may be for a specific client. Users can be added to client groups to be allowed access to read and write to any restricted instance and migration resources for that client.
 # Creating a Client
 A new client can be created by going to the Clients list and pressing the blue button on the top right above the list.
@@ -19,3 +20,4 @@ Figure. Select Client When Editing a User Group
 Selecting a client when editing an instance:
 ![](attachments/32510225/32510229.png)
 Figure. Select Client When Editing an Instance
+{% /version %}

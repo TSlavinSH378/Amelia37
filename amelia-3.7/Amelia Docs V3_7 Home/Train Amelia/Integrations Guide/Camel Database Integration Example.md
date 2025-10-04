@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This database example shows how to use Camel in the Source View of the Integration Flow workspace to implement key functionality.
 # Camel Code
 > [!note]  
@@ -79,3 +80,4 @@ utility01.ams1.amelia.ipcenter.com
 | ----|----|----|
 | sqlResponse | Array of maps for each table row returned | The result set or result code of the sql statement |
 
+{% /version %}

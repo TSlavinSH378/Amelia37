@@ -1,3 +1,4 @@
+{% version "3.x" %}
 When an agent joins a conversation and the user is away from the conversation tab, the custom UI will display push notifications if the pushNotificationDisabled setting is set to false in the UI Bundles workspace. The first push notification will prompt the user to allow or block notifications.
 The agent has joined notification pops up every 30 seconds if the user is not focused on the conversation browser tab. If the user starts typing in the chat input to respond to an agent notification popup, the popups will stop appearing.
 > [!warning]  
@@ -33,3 +34,4 @@ Notifications can be enabled or disabled with the pushNotificationDisabled setti
 To enable notifications, set the pushNotificationDisabled setting to false. To disable notifications, set the pushNotificationDisabled setting to true.
 ![](attachments/25462177/25462200.png)
 Figure. Add or Edit the pushNotificationDisabled Setting
+{% /version %}

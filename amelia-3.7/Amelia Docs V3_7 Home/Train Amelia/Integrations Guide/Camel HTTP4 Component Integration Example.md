@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The Amelia Camel HTTP4 Component is a drop-in replacement for the standard [Camel HTTP4 component](http://camel.apache.org/http4.html), providing conveniences for making HTTP requests from Amelia via Camel in a standardized manner in an effort to significantly reduce boilerplate code both within Amelia as well as within Camel.
 Using this component for making requests to any HTTP server through Camel is straightforward. The general steps for doing so are as follows, and are described in detail farther below:
 1.  Add this component as an asset in the Amelia Integration Framework.
@@ -254,3 +255,4 @@ The benefit is that your context file can be much simpler since the Amelia HTTP4
 </beans>
 ```
 Of course, this simple context file does not include any type of authentication that might be required, nor any other options that you may need to set on the HTTP4 component, but again, you can set those options exactly as you would for the standard HTTP4 component.
+{% /version %}

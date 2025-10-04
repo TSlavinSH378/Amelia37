@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Domains and users in Amelia are associated with an authentication policy. The [Authentication Policy](https://docs.ipsoft.com/display/AmeliaDocsV3/Access+and+Permissions#AccessandPermissions-AuthPolicies) part of the [Access and Permissions](https://docs.ipsoft.com/display/AmeliaDocsV3/Access+and+Permissions) page has more technical details.
 ## The Authentication Policy Interface
 To edit or add an authentication policy, log in to Amelia's administration pages and select System Settings then Authentication Policies from the left side navigation links. The Authentication Policies workspace appears with a New Authentication Policy button at the top right.
@@ -48,3 +49,4 @@ The Authentication Policies workspace is available by clicking the System Setti
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 > [!warning]  
 >
 > As of April 2019, this page describes an internal IPsoft process. It is not part of an official IPsoft deliverable. However, clients are welcome to use this process to augment conversation logs and prepare those logs for analysis with visualization tools.
@@ -468,3 +469,4 @@ A data dictionary will be provided shortly.
 # Import the EsETL Output to a Visualization Tool
 Metrics collected in the JSON array flattened by the EsETL tool can be aggregated in Kibana or similar tool. Any data indexed as a keyword type also can be created as a visualization. Data aggregations and visualizations can be collected and organized in a Kibana dashboard.
 IPsoft currently follows this process internally for clients using Elasticsearch and Kibana tools. This process and tools are not officially validated and supported by IPsoft. There are many other tools that could be used to achieve the similar results.
+{% /version %}

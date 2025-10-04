@@ -1,3 +1,4 @@
+{% version "3.x" %}
 > [!warning]  
 >
 > You have Workspace Owner permissions to perform these configuration steps.
@@ -32,3 +33,4 @@
 14. Copy the Bot User Oauth Access Token to provide for the ameliav3-gateway-slack  
     ![](attachments/20807838/20807850.png)  
 15. If the Quick Replies feature is used, follow the steps in the [Slack API Documentation](Slack%20API) page.
+{% /version %}

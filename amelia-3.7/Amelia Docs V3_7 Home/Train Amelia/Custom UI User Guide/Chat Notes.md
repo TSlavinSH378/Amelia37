@@ -1,3 +1,4 @@
+{% version "3.x" %}
 In Amelia's custom user interface, chat notes can contain text, images, buttons, maps, and other content. They appear in the chat not panel on the right side of the interface. Chat notes can be used to display data shared in a conversation with Amelia with the ability to edit some or all of the data.
 ![](attachments/11939936/11939937.jpg)
 Figure. Basic Chat Note Example
@@ -557,3 +558,4 @@ def jsonString = '''{
 jsonString = JsonOutput.toJson(jsonString)
 execution.setVariable("jsonString", jsonString)
 ```
+{% /version %}

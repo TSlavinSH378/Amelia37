@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Overview
 While quality and quantity of data is crucial to training Amelia, feature engineering is equally or more important. Feature engineering uses domain knowledge of the data to create features – attributes used to build a numeric representation of each data point that emphasizes and distinguishes their differences – ideal to solve a specific problem with machine learning.
 For example, a mapping gazetteer of US state names with all possible variations would have state as a feature to solve the problem of helping Amelia identify all variations people might use to describe a state. If AL and Alabama are single word tokens mapped to a feature in a file, Amelia can identify AL refers to a US state and connects to the state of Alabama.
@@ -748,3 +749,4 @@ The feature extraction framework specifies feature extraction pipelines as XML 
 In the Annotate workspace in the Amelia Trainer pages of Amelia V3 administration pages, when the Train Intent Models panel is displayed, click the Use custom features toggle slider then click the folder icon to find then upload the feature template file.
 # Test Feature Engineering Output
 When a model is trained with the Annotate workspace and deployed with the Dashboard, click the Entities link or Intents link under the Amelia Trainer link to display the Entities or Intents workspace. At the bottom of the workspace is a simple test facility. Select the newly trained model from a dropdown list and enter sample utterances to confirm they trigger the new model.
+{% /version %}

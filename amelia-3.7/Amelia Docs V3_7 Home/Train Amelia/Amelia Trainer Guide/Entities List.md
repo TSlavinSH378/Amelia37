@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Entities capture data from user utterances that Amelia needs to fulfill a user request. Entities are the pieces of data needed to achieve a goal or intent. For example, dates, locations, names, and other data are defined as entities then used by Amelia to capture data and complete a conversation.
 Entities are defined two ways, as standalone items and as a tool to annotate chat transcripts and other data. Amelia uses both sets of entity data to create a representational model to converse with people and perform specific tasks.
 # Entities Workspace
@@ -403,3 +404,4 @@ Table. Speech Tab Elements (SAPI Standard)
 | Voice | Voice Selection Tags | The tag can be empty, in which case it changes the voice for all subsequent text, or it can have content, in which case it only changes the voice for that content. | The Voice tag selects a voice based on its attributes, Age, Gender, Language, Name, Vendor, and VendorPreferred. |
 | Lang | Voice Selection Tags | The Lang tag selects a voice based solely on its Language attribute. The tag can be empty, in which case it changes the voice for all subsequent text; or it can have content, in which case it only changes the voice for that content. | The Lang tag has one attribute, LangId. This attribute should be a LANGID, such as 409 (U.S. English) or 411 (Japanese). Note that these numbers are hexadecimal, but without the typical "0x". |
 
+{% /version %}

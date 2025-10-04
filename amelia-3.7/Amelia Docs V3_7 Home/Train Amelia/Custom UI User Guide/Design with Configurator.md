@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The Configurator provides a user interface to design, manage, and deploy the Custom UI. The Configurator interface updates a UI bundle when saved.
 # Create a New UI Bundle
 Amelia V3 has two interfaces available to chat with people. The traditional chat interface includes an avatar and, in some cases, the ability to see details about the BPN process, affective memory, and other factors she uses to respond in conversations. There's also a custom user interface that allows Amelia to present data collected during a conversation, for example, to build an insurance quote. Both interfaces allow images, buttons, and other types of interactive content to appear in the conversation flow.
@@ -210,3 +211,4 @@ Table. Configurator Elements
 </table>
 ![](attachments/11946154/20807788.png)
 Figure. Full Configurator Chat Note Panel
+{% /version %}

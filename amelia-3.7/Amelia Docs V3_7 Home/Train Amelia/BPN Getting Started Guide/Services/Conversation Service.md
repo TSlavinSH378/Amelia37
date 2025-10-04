@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Within a BPN process, the conversation can be captured and parsed as needed with the Conversation Service.
 # Methods
 ## getTranscriptUtterances
@@ -149,3 +150,4 @@ When the BPN models are built and approved, as described in the section above, o
     SessMode  
     UserID  
     Username
+{% /version %}

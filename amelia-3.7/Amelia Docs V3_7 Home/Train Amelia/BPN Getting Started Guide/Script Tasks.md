@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Script tasks allow complex functions and processes to be executed during a BPN process in a conversation. Two languages are currently supported: Groovy and Javascript.
 In the scope of the script task, the execution object allows for interaction between the BPN and the script through the methods getVariable and setVariable. As the supported scripting languages are compliant with the [JSR-223 specification](https://www.jcp.org/en/jsr/detail?id=223), converting the example provided in Groovy to JS is a fairly simple task.
 # Script Task BPN and Console Interfaces
@@ -406,3 +407,4 @@ When the BPN model is built and approved, as described in the section above, ope
     run the workflow movieCosts
     ```
 3.  Amelia asks for a price. Enter an integer, for example, 3 or 10 or 6. Amelia will complete the last task in the BPN model.
+{% /version %}

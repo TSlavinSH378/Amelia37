@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The custom user interface can present a list of possible responses to a user, as a way to standardize responses and streamline the response process. The list of possible responses is defined in a BPN Script task, with the list contents saved as a variable, then referenced in an Ask task. The contents of the list responses can be defined dynamically or as static code.
 # Response Modes
 There are two possible ways a user can respond to a pre-populated list of possible responses, submit mode and input mode.
@@ -97,3 +98,4 @@ One of three SelectionUtterance fields – postfixed`SelectionUtterance`, prefi
 -   The `prefixedSelectionUtterance("single_select_phrase", "multiple_select_phrase")` property field adds text before the user response. If a button value is `chocolate`, for example, this property can add, "I really like " before the user utterance in the conversation area to display, "I really like chocolate" instead of "chocolate." It's possible to define one response for single choice button and a second response for multiple select buttons.
 -   The `postfixedSelectionUtterance("single_select_phrase", "multiple_select_phrase")` property field adds a phrase after the user response, for example, "Chocolate is my favorite food" instead of "Chocolate."
 -   And `staticSelectionUtterance("phrase")` adds text to the user selection whether or not the buttons are single or multiple select.
+{% /version %}

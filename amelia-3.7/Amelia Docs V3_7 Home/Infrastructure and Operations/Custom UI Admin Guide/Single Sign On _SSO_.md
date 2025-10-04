@@ -1,3 +1,4 @@
+{% version "3.x" %}
 As of Custom UI version 5.5.2, it is possible to use single sign on (SSO) to log in to a custom user interface regardless of the device.
 # Non-Mobile Devices
 If the ssoImmediateRedirect parameter in the config.json file is set to true, upon successful login the user will be returned to the original custom user interface. If the parameter is set to false, the user will see the login page.
@@ -10,3 +11,4 @@ For mobile devices, there are a number of parameter settings in the config.json 
 -   To only show the single sign on button, set the showSSOButton parameter to true.
 -   To hide domains from the login screen, set the showAnonymousDomains parameter to true.
 Refer to Customize UI with config.json for details about how to hide login pages and anonymous domains.
+{% /version %}

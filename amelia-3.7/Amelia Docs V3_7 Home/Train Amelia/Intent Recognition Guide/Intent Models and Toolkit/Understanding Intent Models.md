@@ -1,3 +1,4 @@
+{% version "3.x" %}
 In most Amelia deployments, the intent model does the lion's share of intent recognition. This page describes intent models and what models can achieve, as well as how to approach training and validating a model and then how to build, analyze and optimize it.
 # What the Intent Model Is and Isn't
 As with any tool, the intent model should be used for what it's designed to do, not something it's not designed to do. 
@@ -149,3 +150,4 @@ A balanced model lies in between these two. It balances curiosity with skepticis
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
+{% /version %}

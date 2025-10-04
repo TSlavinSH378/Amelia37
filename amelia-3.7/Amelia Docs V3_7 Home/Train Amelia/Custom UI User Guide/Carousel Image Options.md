@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Images with text can be presented in the custom user interface as single options as part of a conversation with Amelia. One or more options can be selected from a horizontal carousel.
 # A Simple BPN
 This simple BPN example displays a carousel with image and text options. The code example below can be dropped into a Script task in a simple BPN to demonstrate how they work. Once the BPN is saved and deployed, type `run the workflow BPNName` in the custom user interface chat box, where `BPNName` is the name of the simple BPN.
@@ -81,3 +82,4 @@ def formInputData = formInputDataBuilder.create()
                 .build();
 execution.setVariable('formInputData', formInputData.toString())
 ```
+{% /version %}

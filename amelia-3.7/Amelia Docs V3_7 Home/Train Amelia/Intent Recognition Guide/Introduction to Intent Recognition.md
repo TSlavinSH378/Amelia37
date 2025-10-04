@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This guide describes the Amelia cognitive software system and provides instructions to help Amelia identify and improve the identification of the reasons users chat with her.
 # Who is Amelia?
 Amelia is a cognitive software agent who listens and interacts with people to solve problems. She reads natural language, understands context, applies logic, infers implications, learns through experience, and senses emotions. She understands what is meant, not only what a person says. Amelia can take on a wide variety of rote business and engineering tasks.
@@ -81,3 +82,4 @@ However, the first step is to optimize how Amelia determines intent for a specif
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
+{% /version %}

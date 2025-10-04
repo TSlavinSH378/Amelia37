@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Create Tests
 From the `Create Tests` page you can create new tests, export a test as a replay file, or import previously saved replay files for testing.
 ## Replay vs. Load Tests
@@ -314,3 +315,4 @@ The test has exceed the maximum timeout and did not finish correctly. This can h
 
 On a test's details page, you can see information about the Amelia instance tested against, when the test was run, it's overall score, and detailed list of each conversation tested. To view details on the utterance pairs tested, click on a conversation in the list - this will expand to reveal the user utterance, the expected answer, Amelia's actual answer, whether the utterance pair passed, and other information.
 If a conversation failed, a red error box will appear underneath the failed conversation in the list. Click on the conversation to find where the conversation failed.
+{% /version %}

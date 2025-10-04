@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This demonstration creates a calendar with a date range to appear in the conversation area.
 ![](attachments/11939961/11939963.png)
 Figure. doCalendarDteRange BPN
@@ -52,3 +53,4 @@ When the BPN model is built and approved, as described in the section above, ope
     ![](attachments/11939961/11939962.png)  
     Figure. Output of doCalendarDteRange BPN  
 4.  Click the blue up arrow at the bottom right of the calendar to submit the calendar data.
+{% /version %}

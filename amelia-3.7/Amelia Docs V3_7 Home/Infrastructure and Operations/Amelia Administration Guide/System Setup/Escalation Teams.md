@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Escalation teams are collections of users and must be created before creating one or more escalation queues.
 An escalation team is a set of agents (team members) that can handle escalations for one or more queues. Conversations are escalated exclusively to members of the team(s) assigned to the queue, regardless of their roles or user group memberships.
 Every team member also must be able to accept chats from Amelia and their user record must have *Max active chats (agent)* setting be greater than 0. User records are created and updated by clicking the Users tab on the left side of the administration page. The *Max active chats (agent)* setting is in the Basics area in the Users workspace that appears on the right side of the screen when a new record is created or an existing record is opened by double-clicking a user name in the Users Control Panel.
@@ -57,3 +58,4 @@ The default Escalation Teams workspace includes a search box to find existing t
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
+{% /version %}

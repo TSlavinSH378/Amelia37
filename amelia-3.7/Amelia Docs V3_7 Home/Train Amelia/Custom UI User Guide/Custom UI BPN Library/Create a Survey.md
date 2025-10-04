@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This demonstration displays a simple rating survey coded in a Script task and sent as a JSON string for display by Amelia.
 ![](attachments/11939973/11939975.png)
 Figure. doSurvey BPN
@@ -70,3 +71,4 @@ When the BPN model is built and approved, as described in the section above, ope
     ![](attachments/11939973/11939974.png)  
     Figure. Output of doSurvey BPN  
 4.  Click the green up arrow to submit the survey. Amelia displays the the last Say task in the BPN.
+{% /version %}

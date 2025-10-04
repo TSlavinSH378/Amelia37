@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This service includes methods to add, find, encode, and retrieve multimedia assets from the content management system used by BPN tasks and scripts.
 # Methods
 ## addFile
@@ -140,3 +141,4 @@ When the BPN models are built and approved, as described in the section above, o
 >
 > While copy/pasting the full URL in a web browser will display the uploaded image, the image will not appear in the Buckets workspace. Amelia V3 has two scopes for multimedia files, system and conversation. System scope includes files uploaded and created in the Buckets workspace. Conversation scope includes files uploaded and managed as part of a conversation controlled by a BPN process. BPNs look for multimedia files first in the conversation scope and, if not found, search the system Buckets.
 
+{% /version %}

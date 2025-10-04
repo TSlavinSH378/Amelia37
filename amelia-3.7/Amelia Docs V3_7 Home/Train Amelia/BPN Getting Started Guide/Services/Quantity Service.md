@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The BpnQuantityService normalizes and formats date references and quantity data included in user utterances during conversations with Amelia. For example, a user might say ‘day after tomorrow’ or ‘next week’ and this service will convert those phrases to specific dates with the user’s local timezone.
 The quantity service enables one to do the following:
 -   Get an already extracted datum using the slot code
@@ -840,3 +841,4 @@ When the BPN models are built and approved, as described in the section above, o
     ```
 3.  Type in a sentence that includes an implied date-related reference, for example, “I need a hotel day after tomorrow” or “I need a hotel this coming Friday.”
 4.  Amelia displays the date reference extracted from the utterance, as well as the full utterance.
+{% /version %}

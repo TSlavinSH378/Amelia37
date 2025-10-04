@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Overview
 This page lists and expands on the information regarding Formatters defined for formatting the datum values in [Appendix C: Datum Types](Appendix%20C_%20Datum%20Types).
 # Supported Formatters
@@ -218,3 +219,4 @@ def formattedValue = quantityService.normalizeAndFormat('12/12/2000', DatumType.
 | WEIGHT_RANGE | from 80.40 kg to 100 kg |
 | WEIGHT_RANGE_IN_WORDS | from eighty point four kilograms to one hundred kilograms |
 
+{% /version %}

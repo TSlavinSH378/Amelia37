@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Use the grep command to try and find specific errors. For example, these commands can help locate an authentication error or activity from a specific date:
 ``` bash
 tail -n 1000 /apps/IPsoft/amelia/amelia-admin-web/var/log/amelia-admin-web.log | grep AUTHENTICATION_SUCCESS
@@ -25,3 +26,4 @@ The following terms can be used with the grep command to find possible issues in
 | <service name> | any log file | Search for mention of a specific <service name> |
 
 See [Appendix A](https://docs.amelia.com/display/AmeliaDocsV2/Appendix+A%3A+Log+File+Locations) for the location of log files used by the Amelia system.
+{% /version %}

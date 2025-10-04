@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The Context Service provides access to slot entity and intent operations within a BPN for Script tasks and libraries.
 -   Predicates and functions available under the “slot:” namespace will match only against the value of the slot associated with the task.
 -   The outgoing transitions of a task and expressions on edge transitions should not mix references to the namespaces “slot:” and “response:”
@@ -185,3 +186,4 @@ execution.setVariable("triggeredIntent", contextService.triggeredIntent())
 execution.setVariable("processIntents", contextService.processIntents().collect { it.code() })
 execution.setVariable("isTriggeredByIntent", contextService.isCurrentProcessTargetedByIntent("mortgage_help"))
 ```
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 How well an intent model is trained determines the ability of the model to process a live user utterance then generalize it to match similar patterns in the training data that map to an intent. Three topics determine the quality of training data and intent model training.
 -   Training Data Best Practices
 -   Pre-processing and Feature Extraction
@@ -353,3 +354,4 @@ This threshold is customizable. As a model is trained, experiment with increasin
 All that said, this functionality is not an excuse to **not** work on the training data to fix issues. The main method to improve a model remains the training data. 
 **More from the Intent Integration Guide**
 Unable to render {children}. Page not found: How Amelia Recognizes Intent.
+{% /version %}

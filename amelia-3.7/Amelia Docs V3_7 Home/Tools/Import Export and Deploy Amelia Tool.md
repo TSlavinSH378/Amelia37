@@ -1,3 +1,4 @@
+{% version "3.x" %}
 > [!info]  
 >
 > [Conductor Engine CLI](Conductor) is the next generation of this tool. Consider using Conductor instead unless there is a legacy reason to use this tool.
@@ -444,3 +445,4 @@ at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl
 at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1496)  
 ... 23 more
 A: You are trying to use the tool with a URL that does not have a valid certificate. You can get around this by using the \`--ignore-cert\` option, however you should only do this if you are sure the server is one that you trust.
+{% /version %}

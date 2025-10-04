@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Methods
 ## getUser
     BpnUser getUser()
@@ -80,3 +81,4 @@ When the BPN models are built and approved, as described in the section above, o
     run the workflow showUserData
     ```
 3.  Amelia displays the first and last name extracted from the user data associated with the current conversation.
+{% /version %}

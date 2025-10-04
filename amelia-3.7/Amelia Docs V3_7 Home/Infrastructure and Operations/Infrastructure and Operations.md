@@ -1,3 +1,4 @@
+{% version "3.x" %}
 -   [Agent/Supervisor Escalation Guides](Agent_Supervisor%20Escalation%20Guides)
 -   [Amelia Administration Guide](Amelia%20Administration%20Guide)
 -   [Amelia Monitoring Guide](Amelia%20Monitoring%20Guide)
@@ -7,3 +8,4 @@
 -   [Troubleshooting Guide](Troubleshooting%20Guide)
 -   [Gateways](Gateways)
 -   [Amelia and Accessibility](Amelia%20and%20Accessibility)
+{% /version %}

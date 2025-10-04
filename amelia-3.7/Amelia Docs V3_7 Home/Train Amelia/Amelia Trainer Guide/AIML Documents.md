@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Amelia uses Artificial Intelligence Markup Language (AIML) files to chit chat with people, for example, if someone asks Amelia about her favorite movie. The chit chat sub system module responds when no higher priority module is triggered by an utterance.
 The chit chat module primarily uses AIML to respond but in rare cases also uses a Semantic Role Labelling (SRL) module. When chit chat is triggered, Amelia's Debug mode displays *AIML* in the Sub Systems tab of the Subsystem Responses page for a given utterance.
 ![](attachments/11939692/11939693.jpg)
@@ -91,3 +92,4 @@ Because of the large number of AIML files, use a text editor to do a text based 
 <http://www.alicebot.org/documentation/aiml-primer.html>
 <https://www.tutorialspoint.com/aiml/>
 <http://alicebot.blogspot.in/2013/01/aiml-20-draft-specification-released.html>
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The custom user interface can display a multi-line data entry form in the conversation chat box. The form reduces the number of turns Amelia must make to collect information from users. Possible form options are defined in a BPN Script task, saved as a variable, and then referenced in an Ask task.
 The form is limited to four fields, to ensure all fields can be seen on mobile devices. While collecting user first name, last name, email, and birth date are obvious uses for the multi-line form, each of the four fields can be customized. And the form can be displayed multiple times in a BPN by using process flows to evaluate user responses, for example, if the user answers Yes when Amelia asks if they have more data to enter.
 However, this feature is not a replacement for conversation. Amelia is more than a talking form.
@@ -193,3 +194,4 @@ To set a field as mandatory or optional, set the `required` property to true (ma
 To mask sensitive data, use `password` as the value for the `property` type used to define one of the four input fields. Each character entered in the field will be masked with an asterisk. An eye icon also will appear to the right of the field and, when clicked and held down, will display the entry in plain text.
 ## Form Title
 To display a title at the top of the multi-line form, use the `title` property set as the first entry in the data JSON object.
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 An intent architecture implements the intent scope in a way that causes high intent recognition. This includes:
 -   Setting boundaries that influence what can or should shape the intent architecture
 -   Defining objectives for an intent architecture
@@ -601,3 +602,4 @@ Instead of merging intents, sometimes graceful intent switching between the int
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
+{% /version %}

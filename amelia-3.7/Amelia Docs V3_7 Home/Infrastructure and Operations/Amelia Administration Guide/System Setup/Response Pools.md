@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Response pools are batches of sentences, from which Amelia randomly selects for specific purposes. To greet users, for example, there might be a greeting response pool with many possible statements. Amelia would select a greeting for the start of each interaction. If Amelia cannot find an expected response at the domain level, she will look at the global response pool.
 Response groups are created first to organize response pools. When a response group and a pool are created, response pool entries can be created to provide possible responses for Amelia.
 Responses can be deleted.
@@ -937,3 +938,4 @@ Table. English Language Pack Response Pool Entries
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
+{% /version %}

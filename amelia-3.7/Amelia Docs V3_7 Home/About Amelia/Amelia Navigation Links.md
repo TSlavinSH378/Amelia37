@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The administration pages used to train Amelia have a set of navigation links located on the left side of the workspace, as described below.
 <table class="wrapped relative-table confluenceTable" style="width: 100.0%;">
 <colgroup>
@@ -174,3 +175,4 @@ The administration pages used to train Amelia have a set of navigation links loc
 </tr>
 </tbody>
 </table>
+{% /version %}

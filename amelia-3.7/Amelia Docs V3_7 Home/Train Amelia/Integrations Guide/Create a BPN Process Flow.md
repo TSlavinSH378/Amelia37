@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Once the integration flow and host details have been configured, call the service from within a BPN process flow.
 ![](attachments/11939862/11939863.png)
 Figure. Simple BPN to Retrieve API Output
@@ -39,3 +40,4 @@ When the BPN model is built and approved, as described in the section above, ope
     run the workflow getWeather
     ```
 3.  Amelia displays the conversation transcript and an object of transcript utterances.
+{% /version %}

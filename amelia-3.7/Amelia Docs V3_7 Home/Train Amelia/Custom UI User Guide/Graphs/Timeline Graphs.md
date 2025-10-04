@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Chat Log
 Single series and multiple series timeline graphs can display in the chat log conversation area, as part of the conversation.
 ## Large Single Series Graph
@@ -2882,3 +2883,4 @@ messageService.sendIntegrationMessage(jsonString)
 > When a single small pie chart is sent to the custom user interface, the error message, "Looks like you are missing a component in your graph group. It should be exactly two of them, not less or more," appears in the chat note.
 
 For details to create a small timeline in a chat note, please use the [Small Pie Graph in Chat Notes](Pie-Graphs_23396833.html#PieGraphs-SmallPieTimeline) instructions.
+{% /version %}

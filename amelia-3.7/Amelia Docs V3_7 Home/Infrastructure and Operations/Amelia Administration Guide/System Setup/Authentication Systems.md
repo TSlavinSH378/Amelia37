@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Access to Amelia is provided through authentication systems. Amelia includes a set of default systems. The [A](https://docs.ipsoft.com/display/AmeliaDocsV3/Access+and+Permissions#AccessandPermissions-AuthPolicies)[uthentication System](https://docs.ipsoft.com/display/AmeliaDocsV37/Access+and+Permissions#AccessandPermissions-AuthSystems) part of the [Access and Permissions](https://docs.ipsoft.com/display/AmeliaDocsV37/Access+and+Permissions) page has more technical details.
 ## The Authentication Systems Interface
 To edit or add an authentication policy, log in to Amelia's administration pages and select System Settings then Authentication Systems from the left side navigation links. The Authentication Systems workspace appears with a New Authentication System button at the top right.
@@ -38,3 +39,4 @@ The Authentication Systems workspace is available by clicking the System Settin
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
+{% /version %}

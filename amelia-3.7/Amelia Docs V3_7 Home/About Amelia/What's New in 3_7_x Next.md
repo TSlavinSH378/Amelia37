@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The 3.7.x version of Amelia includes significant improvements and additions from earlier versions. Consult the [release notes](Release%20Notes) and documentation for details about all changes.
 ## General
 -   Amelia is compatible with Safari (v10), Firefox (v57 Quantum), and Microsoft Edge (v42.17134) AM3-6082, 6089, 6117
@@ -36,3 +37,4 @@ The 3.7.x version of Amelia includes significant improvements and additions from
 -   **Browser tab notification for agents when Amelia tab doesn't have focus AM3-5567**
 ## System
 -   **Cancel and Go Back dialog acts added to response pools AM3-7114, 7116**
+{% /version %}

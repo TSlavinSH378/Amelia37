@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Slack API URLs
 -   -   **Real Time Messaging Api** - <https://api.slack.com/rtm>  
     -   **Send a file to user** - <https://api.slack.com/methods/files.upload>  
@@ -16,3 +17,4 @@
 >
 > Changes on the Amelia host are required and HAproxy also needs to be modified.  Instructions can be found here: HAproxy changes for Slack Quick Reply
 
+{% /version %}

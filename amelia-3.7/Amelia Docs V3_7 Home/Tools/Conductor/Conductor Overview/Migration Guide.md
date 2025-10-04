@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This page describes the journey of creating and submitting a migration request to be executed.
 # Sources and Targets
 In Conductor different systems can act as sources of data to be deployed to a target Amelia instance. Conductor will also facilitate the process of moving content from a source Amelia instance to a target Git branch. To accomplish either of these workflows, application instances must first be registered with Conductor. See the [Instance Guide](https://docs.amelia.com/display/AmeliaDocsV4/Instance+Guide) for more information on registering instances with Conductor.
@@ -36,3 +37,4 @@ Once all of the content is selected, clicking the Start Migration button will su
 >
 > Viewing migration status/progress is not yet implemented.
 
+{% /version %}

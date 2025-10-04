@@ -1,3 +1,4 @@
+{% version "3.x" %}
 For completeness and disaster recovery best practices, the following files / directories are candidates for backup.  The target use-case is standing up a new fresh install of an Amelia host to replace an unrecoverable one, restoring both the original's configuration and data.
 > [!info]  
 >
@@ -111,3 +112,4 @@ If other databases are created locally in an instance, these need to be added to
     *to  
     **my @individual_dbs = ('amelia', 'data', 'OTHER DATABASE NAME 1', 'OTHER DATABASE NAME 2');**  
     etc.
+{% /version %}

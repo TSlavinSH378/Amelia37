@@ -1,3 +1,4 @@
+{% version "3.x" %}
 .
 In Amelia's custom user interface, a banner is a standalone component like chat notes that appears fixed at the top of the chat notes panel. A banner is the simplest component of the custom UI and, therefore, a good place to start learning about how to use the interface. The banner background color is defined when Amelia is installed.
 ![](attachments/11939923/11945102.png)
@@ -226,3 +227,4 @@ Table. Button Settings
 | actionProcess | For chat notes, defines what data to pass to a specific BPN when editing with the Edit button. Has additional settings and values. If actionProcess is not present in the code, the Edit button will not appear. A button definition uses either actionProcess or link.actionName – The name of the BPN to call when the Edit link is clickedactionArguments – Additional data to pass to the BPN when the Edit link is clicked. Values are passed as keys and values in a single object.
 actionMessage – Custom message output as the user's utterance in the conversation area, for example, "I want to edit my address." If value is empty, the default utterance is, "I have invoked an action." |
 
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 > [!warning]  
 >
 > For CSV export data definitions, please refer to the [Export Conversations](Monitoring-with-Administration-Pages_11940300.html#MonitoringwithAdministrationPages-ExportConversations) section of the Monitoring with Administration Pages.
@@ -1237,3 +1238,4 @@ For <strong>custom</strong> metrics upserted from the customMetrics service, onl
 </tr>
 </tbody>
 </table>
+{% /version %}

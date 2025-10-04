@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Amelia provides monitoring of conversations and other system behaviors with the Active Conversations, Agent Supervisor, and Metrics pages. The Conversations link is visible from the default chat interface while the Conversations, Supervisor, and Metrics links area available from the administration pages and the Conversations page. Clicking the Admin link at the top right of the default chat interface displays the administration pages.
 ![](https://docs.ipsoft.com/download/attachments/11940113/amelia-v3-mind-interface-3.7.0.jpg)
 Figure. Amelia’s Default Conversation Area
@@ -1864,3 +1865,4 @@ For <strong>custom</strong> metrics upserted from the customMetrics service, onl
 </tr>
 </tbody>
 </table>
+{% /version %}

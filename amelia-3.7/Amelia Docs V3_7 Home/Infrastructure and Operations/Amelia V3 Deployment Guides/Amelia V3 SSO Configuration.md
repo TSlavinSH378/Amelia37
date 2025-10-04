@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Access to Amelia V2 and V3 instances requires set up and use of Single Sign-On (SSO) authentication to connect and authenticate with client systems. Setup with clients requires collecting basic demographic information, for example, first and last names, and configuring Amelia. SSO options also have tradeoffs to consider when recommending options to clients.
 # Collecting Client Information for SSO
 Information collected from clients varies based on their SSO choice. SAML2 and LDAP are the most common with PKI lightly used.
@@ -195,3 +196,4 @@ OA46zRiyt4BPlbgIaFyG6P7GWSddMi/14EimQjjDbr4ZfvlEdPJmimHExZY3KQ==
     </IDPSSODescriptor>
 </EntityDescriptor>
 ```
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Intents define user goals and intents, often with a reference to expected data and utterances required to meet the goal. For example, to retrieve a copy of a hotel bill, an intent might include the utterance, "I lost my hotel bill. Can you send me a copy?"
 Intents connect specific user phrases with responses from Amelia to confirm entities or call a BPN.
 Intents can be collected in a tab-separated value (TSV) classifier file with the intent name(s) in one column and utterances to their right in a second column. However, these files cannot include negative utterances or FAQs. Importing these TSV files adds each intent with all their utterances.
@@ -294,3 +295,4 @@ Creation of effective intents depends on several factors.
 -   Use descriptive class names. Be consistent in the use of camelCase or snake_case notation.
 -   For best results, use live chat examples to test the intent model. Use test utterances as close as possible to what people would say to trigger the model and process. Consider extreme programming techniques, for example, one person creates utterances to train the model while a second person creates utterances to test the model.
 -   If overmatching happens with an intent, add similar sentence structures and word choices in the negative class that would not trigger the intent model.
+{% /version %}

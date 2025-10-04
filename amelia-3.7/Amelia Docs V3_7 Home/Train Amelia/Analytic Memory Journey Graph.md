@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The Analytic Memory page displays Journey Analytics which show the conversation and resolution flows as Amelia handles conversations. The flow diagram begins with the number of conversations on the left then evolves to include conversations Amelia covered and conversations she escalated. Above the flow diagram are graphs to show her performance over a designated time period. Mouse over a line node in the top graphs to display counts.
 The AUTHORITY_JOURNEY_VIEW authority is required to view the graph. This authority is included in the Admin, Agent, Agent Supervisor, Knowledge Designer, Power User, and RBAC Administrator roles.
 The BPN Graph button is not active currently.
@@ -16,3 +17,4 @@ Table. Journey Analytics Dropdown Options
 | Date Range | Select a date or date range to display conversation flows. Options are Today, Yesterday, Week to Date, Last Week, Month to Date, and Last Month, as well as years, quarters, and months based on log data stored in the Amelia instance. Today is default. |
 | Data Type | Select a specific type of data to filter conversation flows. Options are Intent, Agent, BPN, and None. Selecting Intent, Agent, or BPN displays a second dropdown list of all available choices for that type of data. None is the default filter option; all data is used to display conversation flows. |
 
+{% /version %}

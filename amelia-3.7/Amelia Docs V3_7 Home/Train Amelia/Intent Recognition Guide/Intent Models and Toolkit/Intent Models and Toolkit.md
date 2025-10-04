@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Once a proposed [intent architecture](Intent%20Architecture) is created, the next step is to implement the architecture with Amelia. In practice, this involves implementing and optimizing the tools will use to *detect* any intents and sub-intents users express as they interact with Amelia. 
 This section covers best practices for working with the various tools in the intent detection toolbox, as used in an intent recognition context. The vast majority of the content will be on machine learning models, as these by far are both the most common and most complex tools used.
 Following are the various tools available to find an intent (if any) of a user utterance. As noted under [Intent Architecture](Intent%20Architecture), these tools are used in various configurations or combinations to support each other.
@@ -45,3 +46,4 @@ The use and syntax of edge expressions is covered under Process Flows and Edge 
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
+{% /version %}

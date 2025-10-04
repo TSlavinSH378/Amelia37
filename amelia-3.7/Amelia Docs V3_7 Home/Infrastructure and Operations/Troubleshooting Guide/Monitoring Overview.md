@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Amelia is monitored as a collection of multiple services broken up into relevant technology groups. Each technology group is a separate service with a unique name, for example, amelia-batch-service or amelia-escalation-service. In the case of a cluster, each node is a service with a different app name, for example, app01, app02, app03. Each of these systems are monitored in different ways.
 When troubleshooting, begin with the alert or other indication of a problem. If the system is slow or down with no alerts, however, begin with the basic environment and systems then the Amelia systems, as described in this document. Collect as much information as possible before contacting IPsoft.
 Troubleshooting Amelia systems and environment uses the monitoring and other output of technology groups to identify and resolve problems. Each Amelia host is monitored in the following ways.
@@ -214,3 +215,4 @@ Table. Monitoring CLI Commands
 | RabbitMQ | rabbitmqctl status |
 | MySQL | service mysql status OR ps aux | grep mysql |
 
+{% /version %}

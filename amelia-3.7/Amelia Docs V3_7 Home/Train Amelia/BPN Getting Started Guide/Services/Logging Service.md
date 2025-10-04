@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The logging service provides Script tasks and libraries the ability to add log entries.
 # Methods
 ## debug
@@ -44,3 +45,4 @@ try {
     log.info("Error fooing", e)
 }
 ```
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Calculator
 <https://docs.google.com/spreadsheets/d/17DGppsUNtFRowHRUkKmL3K4ytf0bswWUITKY3gTYzzo/edit#gid=1133795400>
 # Intent Architecture Template
@@ -18,3 +19,4 @@
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
+{% /version %}

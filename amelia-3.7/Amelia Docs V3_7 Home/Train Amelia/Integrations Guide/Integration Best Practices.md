@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # Compliance
 Since the introduction of GDPR privacy requirements in the European Union, developers need to be mindful of how client data is used within their work.
 ## How can you be sure to be compliant?
@@ -131,3 +132,4 @@ When connecting to resources in a client environment, or hosted by a service pro
    <property key="http.proxyScheme" value="http"/>
 </properties> |
 
+{% /version %}

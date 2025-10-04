@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This page describes the available options for installing the Conductor application.
 # System Requirements
 ## Operating System
@@ -20,3 +21,4 @@ TBD.
 With access to Docker, Docker Compose can be used to pull the Conductor Docker images and run in containers on any environment. All non-Conductor services are also included with this option so there are no additional applications that need to be installed or configured on the host machine.
 ## Kubernetes
 TBD
+{% /version %}

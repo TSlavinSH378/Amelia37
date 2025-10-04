@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Amelia V3 includes a notation system called service prefixes with a service:function() syntax. Service prefixes include a range of possible actions, for example, to capture and evaluate a user choice in a BPN with the bpn service prefix using bpn:choice() syntax.
 Service prefixes are used in the Expression setting field in the Properties Panel for process flow lines.
 # bpn: Functions
@@ -151,3 +152,4 @@ A full set of operators can be used with ctx:, response:, bpn:, and slot: servic
     slot:value()<=500
 Operators also can be concatenated with no spaces and the namespaces repeated. Or is a double pipe (\|\|) while And is a double ampersand (&&).
 `slot:equal('14')||slot:equal("15")`
+{% /version %}

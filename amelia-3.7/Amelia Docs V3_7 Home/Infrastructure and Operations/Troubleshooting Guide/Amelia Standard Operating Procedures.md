@@ -1,3 +1,4 @@
+{% version "3.x" %}
 If an alert identifies an Amelia system, or the basic system troubleshooting has not resolved a problem, these procedures describe how to identify and resolve issues within the Amelia system.
 # Amelia Restart SOPs
 There are several checks that require restarts of the different Amelia components. The following alerts require a restart.
@@ -460,3 +461,4 @@ kill -HUP $(ps -A -ostat,ppid | grep -e '[zZ]'| awk '{ print $2 }')
 > [!warning]  
 >
 > Confirm services are up and running. Look at the log file to determine what caused failure. Then escalate to IPsoft. If zombie processes cannot be removed, escalate to IPsoft.
+{% /version %}

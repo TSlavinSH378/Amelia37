@@ -1,3 +1,4 @@
+{% version "3.x" %}
 To recognize user intent, Amelia uses one or more intents which make up intent scope. The use case determines how high or low recognition might be for Amelia. Intent recognition plus a limited level of disambiguation, sorting out similar but different intents, are critical success factors. The selection and design of Amelia's roles and skills must address intent scope to ensure achievable levels of intent recognition.
 # Identify the Intent Scope
 Six tests can identify and validate intents to determine which intents belong in the collection of intents, or intent scope, Amelia uses to perform her role and use her skills.
@@ -282,3 +283,4 @@ Once intents have been identified and evaluated, placing them into an intent arc
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Intent models help steer conversations with Amelia towards the best BPN process to address the needs of the conversation. An intent model helps Amelia understand and make reasonable judgements about context in the words and phrases of a conversation, for example, to book a hotel room. Models are created with the Intents, Entities, and Annotate functionality in the Amelia Trainer section of Amelia's administration pages.
 Once an intent helps Amelia choose the best BPN process to complete a conversation, entities help Amelia capture data she needs to perform any tasks.
 This demonstration shows how to create an intent and entities needed to create, train, and deploy reasoning models Amelia can use to answer questions about transferring money between countries.
@@ -338,3 +339,4 @@ When the BPN model is built and approved, as described in the section above, ope
 >
 > How Amelia responds depends on a variety of factors. For example, if this demonstration is the only data set in a domain, chances are high Amelia will pick the correct BPN process. However, a domain with many potentially conflicting BPN processes, entities, intents, and other data may yield different results. A successful implementation of Amelia depends on careful planning as much as the data used to train her.
 
+{% /version %}

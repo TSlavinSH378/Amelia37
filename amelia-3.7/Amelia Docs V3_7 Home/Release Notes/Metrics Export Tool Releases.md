@@ -1,3 +1,4 @@
+{% version "3.x" %}
 # 3.7.2
 Release date: February 10, 2020
 ## Summary
@@ -15,3 +16,4 @@ This release only includes one bug fix that will ensure Eddie replay tests can b
 AM3-10810 - This change fixes an issue that did not account for domain switching in conversations and thus could not create an Eddie replay with the proper domain information. This has now been corrected and the Eddie tests should be created with the proper domain codes.
 # Download
 https://dtools.ipsoft.com/artifactory/libs-release-local/net/ipsoft/ameliav3x/ameliav3x-metrics-export/3.7.1/ameliav3x-metrics-export-3.7.1-all.jar
+{% /version %}

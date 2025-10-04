@@ -1,3 +1,4 @@
+{% version "3.x" %}
 There are several checks that require restarts of the different Amelia components. The following alerts require a restart.
 # [R](https://paas.ipcenter.com/IPmon/NY1-IPmon24/cgi-bin/extinfo.cgi?type=2&host=amelia-engine.metlife-amelia-prod.ipsoft.com.ipsoft&service=Amelia+Response+Time)esponse Time Alert
 The Amelia response time alert will go critical immediately if the response time is \> 20 seconds. This means that its taking more than 20 seconds for the Amelia engine to respond to the customer interacting with her.
@@ -153,3 +154,4 @@ For those who like a one-liner, run this command:
 ``` text
 echo -e "[Unit]\nRequires=clamd@av-gateway.service" | SYSTEMD_EDITOR=/usr/bin/tee systemctl edit ipsoft-av-gateway.service; systemctl restart ipsoft-av-gateway; sleep 30; systemctl status ipsoft-av-gateway
 ```
+{% /version %}

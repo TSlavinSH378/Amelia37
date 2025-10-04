@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This exercise uses the FAQs and Manual to demonstrate how well Amelia uses these inputs to create a semantic memory.
 1.  Upload the PDF manual
 2.  Use the conversation area to test Amelia's knowledge of the PDF manual content
@@ -21,3 +22,4 @@ Finally, upload the FAQs Excel spreadsheet with questions and answers about the 
 Also note the Debug information about sub-systems Amelia uses to answer FAQ questions. The FAQ sub-system is used to respond, not SemnetDoc. Also note the SemnetDoc response is accurate to some degree but includes extra characters. Amelia is able to choose the correct FAQ in her semantic memory despite a mostly accurate but incomplete response based on the uploaded manual.
 ![](attachments/28476795/28476797.jpg)
 Figure. Mind Semantic Memory Workspace Using FAQs and Manual
+{% /version %}

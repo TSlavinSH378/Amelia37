@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The Amelia MS Teams Gateway allows users to have a conversation with Amelia through the MS Teams chat software.  
 # Text Messages
 Normal text message conversation is supported.
@@ -42,3 +43,4 @@ If the user does not fill out all information, the form will return empty string
 Figure. Multi-line Input with Response Echo Blank and Date Excluded
 Note the missing date field in the echo.
 multiline.bpmn
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 For problems that do not resolve with these procedures, the next step is to collect information and file an incident report with IPsoft.
 # Information to Collect
 If the issue requires attention from IPsoft, collect all possible information appropriate for the issue. This includes collecting all appropriate log files and other data as described in this document.
@@ -20,3 +21,4 @@ Before opening an incident request or Request for Change (RFC), collect the foll
 -   Who does this effect? (i.e. what is the level of impact)
 -   Are there any screenshots attached or extracts of the exact conversation?
 Once information has been collected, refer to your Service Agreement for the method of contacting IPsoft for support.
+{% /version %}

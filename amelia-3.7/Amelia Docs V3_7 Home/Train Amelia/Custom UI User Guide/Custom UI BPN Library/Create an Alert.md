@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This demonstration creates an alert created in a Script task and sent as a JSON string for display by Amelia.
 ![](attachments/11939954/11939956.png)
 Figure. doAlert BPN
@@ -45,3 +46,4 @@ When the BPN model is built and approved, as described in the section above, ope
     ![](attachments/11939954/11939955.png)  
     Figure. Output of doAlert BPN  
 4.  Amelia displays the the last Say task in the BPN.
+{% /version %}

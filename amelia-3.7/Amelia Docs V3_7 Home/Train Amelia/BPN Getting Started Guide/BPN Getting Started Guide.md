@@ -1,3 +1,4 @@
+{% version "3.x" %}
 -   [Introduction to BPNs](Introduction%20to%20BPNs)
 -   [Process Memory Interfaces](Process%20Memory%20Interfaces)
 -   [BPN Best Practices](BPN%20Best%20Practices)
@@ -12,3 +13,4 @@
 -   [Services](Services)
 -   [Appendix A: Execution Object](Appendix%20A_%20Execution%20Object)
 -   [Appendix B: BPN Script Sandboxing and Whitelists](Appendix%20B_%20BPN%20Script%20Sandboxing%20and%20Whitelists)
+{% /version %}

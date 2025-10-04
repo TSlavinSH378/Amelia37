@@ -1,3 +1,4 @@
+{% version "3.x" %}
 People with disabilities need access to the same technology as everyone else. Web accessibility ensures that people with physical and non-physical disabilities have equal access to the web.
 # How much is Amelia accessible?
 IPsoft follows Web Content Accessibility Guidelines in terms of accessibility.  For developer convenience, W3 created a [checklist](https://www.w3.org/TR/2006/WD-WCAG20-20060427/appendixB.html) of success criteria which IPsoft used during implementation accessibility. Operating systems such as Windows, iOS, and Android come equipped with accessibility modules that can easily be built into applications, while the W3C's [Accessible Rich Internet Applications Suite](http://www.w3.org/WAI/intro/aria) (ARIA) defines how applications written in Ajax, HTML, JavaScript, and similar scripting languages should provide information on user interaction to assistive technologies.
@@ -62,3 +63,4 @@ There is a list of roles we used in Amelia:
 -   role="combobox"
 ### Screen reader messages
 In a web application, it's a common practice to add some additional information which is hidden from vision but still visible for screen readers. For this purpose, we use the \`.screen-reader-only\` class which hide this sort of information in a specific way defined with CSS.
+{% /version %}

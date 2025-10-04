@@ -1,3 +1,4 @@
+{% version "3.x" %}
 These operating procedures help debug possible issues the Percona/MySQL database.
 # Purging Binary Database Log Files
 In cases where disk space is limited, purging binary database log files can reclaim space. These files can be located with this command:
@@ -116,3 +117,4 @@ com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: WSREP has 
 2019-07-05 16:31:17.467  INFO 54483 — [main] net.ipsoft.ameliav3.AmeliaEngineService  : Started AmeliaEngineService in 38.598 seconds (JVM running for 39.628)
 2019-07-20 01:27:45.764  INFO 10959 — [main] net.ipsoft.ameliav3.AmeliaEngineService  : Started AmeliaEngineService in 124.532 seconds (JVM running for 131.213)
 ```
+{% /version %}

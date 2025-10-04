@@ -1,3 +1,4 @@
+{% version "3.x" %}
 In addition to administration pages that allow monitoring of the software application, Amelia’s systems and software are monitored in different ways externally.
 Amelia is monitored as a collection of multiple services and hosts divided into relevant technology groups. Each technology group is a separate host with a unique hostname, for example, amelia-batch. In the case of a cluster, each node is a host with a different app name, for example, app01, app02, app03. Each of these systems are monitored in different ways.
 Each Amelia host contains a complete Amelia system, for example, Amelia Batch, Engine, Web, Escalation, MySQL, and so on.
@@ -151,3 +152,4 @@ Table. Monitoring CLI Commands
 | RabbitMQ | rabbitmqctl status |
 | MySQL | service mysql status OR ps aux | grep mysql |
 
+{% /version %}

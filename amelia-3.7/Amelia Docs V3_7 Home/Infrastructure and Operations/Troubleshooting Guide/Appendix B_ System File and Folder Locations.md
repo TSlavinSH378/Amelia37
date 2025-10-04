@@ -1,3 +1,4 @@
+{% version "3.x" %}
 When debugging, there could be system files to check and preserve. The table below lists the file locations used by the Amelia system. If a folder or file does not exist, in most cases, it is for a service not installed, for example, a LivePerson integration.
 # Configuration Files
 The Amelia system includes configuration files for the system, service units, and properties.
@@ -81,3 +82,4 @@ The Amelia system includes configuration files for the system, service units, an
 | /root/.ssh/ | Root ssh keys / directory | May have additional keys & original id* files |
 | /apps/IPsoft/amelia/amelia_ks.jceks | Amelia keystore |  |
 
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This page describes the application configuration properties organized by subsystem.
 # Arbitration
 
@@ -258,3 +259,4 @@ amelia-humanization-positive-response
 \|
     amelia.humanization.escalation.low-satisfaction-threshold
 \| -0.60 \| negative decimal \| Mentions the threshold for low satisfaction \|
+{% /version %}

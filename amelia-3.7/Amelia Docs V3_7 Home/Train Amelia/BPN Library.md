@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This page links to short tutorials that show how to use different Amelia V3 features and services. Tutorials introduce basic features with the ability to extend, as well as prepare customers to work with IPsoft Cognitive engineers.
 # Miscellaneous BPNs
 -   [Create a Dynamic Template with FreeMarker](https://docs.ipsoft.com/display/AmeliaDocsV37/Script+Tasks#ScriptTasks-CreateaBPN)
@@ -24,3 +25,4 @@ This page links to short tutorials that show how to use different Amelia V3 feat
 -   [Create a Timeline Graph](Timeline%20Graphs)
 -   [Create Suggested Responses](List%20Autocomplete)
 -   [Create a Survey](Surveys)
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 High quality data is needed to train and validate an intent model. However, data can be hard to find or develop. The best place to start is by collecting existing data from chat, voice, messaging, ticketing, and other systems. New data sources might include end users, support agents, Amelia team members, and crowd sourcing. Once data is collected, quality and privacy issues need to be addressed.
 # Collecting Existing Data
 Live end user data is the best existing data to collect, if it exists. Collecting existing data can happen as part of the use case discovery process. To determine the relevant use cases for Amelia to deal with, it can be useful to dig into existing data to extract intent utterances and an overview of what users ask about.
@@ -70,3 +71,4 @@ There are several ways to collect and format utterances.
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
+{% /version %}

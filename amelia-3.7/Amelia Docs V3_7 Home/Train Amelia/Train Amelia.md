@@ -1,3 +1,4 @@
+{% version "3.x" %}
 -   [Amelia Basics](Amelia%20Basics)
 -   [Training Video Library](Training%20Video%20Library)
 -   [BPN Getting Started Guide](BPN%20Getting%20Started%20Guide)
@@ -11,3 +12,4 @@
 -   [Analytic Memory Journey Graph](Analytic%20Memory%20Journey%20Graph)
 -   [Episodic Memory Guide](Episodic%20Memory%20Guide)
 -   [BPN Library](BPN%20Library)
+{% /version %}

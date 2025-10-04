@@ -1,3 +1,4 @@
+{% version "3.x" %}
 **Table. Slack Gateway Features**
 <table class="wrapped confluenceTable">
 <tbody>
@@ -51,3 +52,4 @@ The response will be sent back as a JSON, containing field name and the value, t
 </tr>
 </tbody>
 </table>
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The BPN creation process involves opening a model followed by layout of different elements to document one or more process flows. Models are submitted for approval and become active within Amelia upon approval.
 ![](attachments/11939409/11941390.jpg)
 Figure. Process Memory BPN Editor Workspace
@@ -52,3 +53,4 @@ Common reasons BPNs fail to trigger during a conversation are several:
 # Copy, Import, and Export BPNs
 BPNs can be copied from one to another through export then import of a BPN into a new model. Click the Export or Import button at the top of the Process Memory BPN workspace. BPNs can be exported in XML (.bpnm) format or PDF.
 Importing a BPN into a BPN model will overwrite existing tasks and other elements in the destination model. It also is possible to use the Lasso tool from the BPN tool bar to select one or more elements of a BPN model then use Ctrl+C/Command+C to copy the elements and Ctrl+V/Command+V to paste the elements elsewhere in the model. It is not currently possible to copy and paste model elements from one model to another.
+{% /version %}

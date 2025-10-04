@@ -1,3 +1,4 @@
+{% version "3.x" %}
 -   [Alexa Gateway](Alexa%20Gateway)
     -   [Alexa Overview](Alexa%20Overview)
     -   [Alexa Skill Creation](Alexa%20Skill%20Creation)
@@ -10,3 +11,4 @@
     -   [Slack API](Slack%20API)
     -   [Slack Bot Initial Configuration](Slack%20Bot%20Initial%20Configuration)
     -   [Slack Gateway Features](Slack%20Gateway%20Features)
+{% /version %}

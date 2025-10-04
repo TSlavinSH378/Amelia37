@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Graphs can be displayed in Amelia's conversation in the custom user interface. Data is defined with a JSON name:value structure in a BPN Script task then sent with an integration message to the interface.
 > [!warning]  
 >
@@ -350,3 +351,4 @@ Table. Chat Note Code Structure Elements
 | styles | Optional. Set labelSize and labelWeight for titles within a payload displayed within a chat note. |
 | markupProps | Defines properties of a subcomponent |
 
+{% /version %}

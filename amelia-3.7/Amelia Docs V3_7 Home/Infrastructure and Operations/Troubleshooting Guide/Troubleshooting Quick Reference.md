@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The table below includes links to the most common issues encountered by the Amelia software system and possible solutions.
 -   System-related solutions are in [System Troubleshooting](System%20Troubleshooting).
 -   Standard Operating Procedures for Amelia-related problems are in [Standard Operating Procedures](Standard%20Operating%20Procedures).
@@ -18,3 +19,4 @@ In addition, these resources might be useful to troubleshooting problems:
 -   [Using grep to Find Problems](https://docs.ipsoft.com/pages/viewpage.action?pageId=11929473#AmeliaStandardOperatingProcedures(SOPs)-UsinggreptoFindProblems)
 -   [Log File Locations](Appendix%20A_%20Log%20File%20Locations)
 -   [System File Locations](Appendix%20B_%20System%20File%20and%20Folder%20Locations)
+{% /version %}

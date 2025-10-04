@@ -1,5 +1,7 @@
+{% version "3.x" %}
 -   [REST Gateway API Guide](REST%20Gateway%20API%20Guide)
 -   [Android Mobile SDK](Android%20Mobile%20SDK)
 -   [iOS Mobile SDK](iOS%20Mobile%20SDK)
 -   [Java SDK](Java%20SDK)
 -   [JavaScript SDK](JavaScript%20SDK)
+{% /version %}

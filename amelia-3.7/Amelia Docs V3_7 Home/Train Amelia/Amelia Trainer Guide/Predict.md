@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The Predict page tests different Natural Language Processing (NLP) models. Previously, the only way to test these models was in conversation with Amelia. The Predict page displays useful data about how Amelia processes and understand what users say to her. Currently, only one utterance can be tested at a time.
 Click the Amelia Trainer link on the left side of the administration pages then click the Predict link to display the workspace. Clicking results in the search results area in some cases opens the intent, entity, or other element.
 ![](attachments/11939612/25461593.jpg)
@@ -72,3 +73,4 @@ Table. Predict Workspace Elements
 </tr>
 </tbody>
 </table>
+{% /version %}

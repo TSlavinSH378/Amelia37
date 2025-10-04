@@ -1,3 +1,4 @@
+{% version "3.x" %}
 ## How many intents can Amelia handle?
 There is no fixed answer to this. It depends on a number of factors, notably these two:
 -   What are the intents and how do they fit together?
@@ -38,3 +39,4 @@ Note that in testing, scores are usually better, so set the bar higher in testin
 -   [Measuring Intent Recognition](Measuring%20Intent%20Recognition)
 -   [Intent Recognition Resources](Intent%20Recognition%20Resources)
 -   [Intent Recognition FAQ](Intent%20Recognition%20FAQ)
+{% /version %}

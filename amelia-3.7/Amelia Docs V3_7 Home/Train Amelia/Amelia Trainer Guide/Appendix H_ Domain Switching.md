@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Amelia can direct a conversation to different domains in real time based on utterances. Each utterance is evaluated by a processor that detects the correct domain to handle the utterance. When a new domain is detected, Amelia completes or suspends the existing context and sends an outbound domain change message to the session. This outbound message leads to a change in the domain handling the conversation.
 For example, a parent domain handles HR requests. It has two child domains, one to handle user accounts and a second domain to handle PTO balance requests. A conversation with the utterance, "I'm locked out of my computer," would be processed by the parent HR domain classifier model and routed to the child domain that handles user accounts. Later in the same conversation, if the person says, "show me my pto balance," the parent HR domain classifier model would evaluate this utterance and route the conversation to the child domain that handles PTO balance requests.
 Configuring Amelia to handle domain switches requires creating parent/child domains, training models, and configuring settings in the application.
@@ -71,3 +72,4 @@ Figure. Example Domain Switching Test Utterances
 # Domain Switching Impact on Metrics
 Domains get scores at the context level because a user can access multiple domains in the same conversation. In addition, a domain name prefix is added to BPNs and intents triggered during a conversation then logged. These can be viewed with Journey Analytics and Metrics summaries in Amelia's administration pages.
 If the Transcripts panel on a Domain form has Anonymize User selected, the conversation summary will anonymize user data.
+{% /version %}

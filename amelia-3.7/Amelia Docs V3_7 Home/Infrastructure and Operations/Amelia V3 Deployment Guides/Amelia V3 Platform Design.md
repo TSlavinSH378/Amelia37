@@ -1,3 +1,4 @@
+{% version "3.x" %}
 In the SAML2 case, support is provided by Spring Security SAML
 > [!warning]  
 >
@@ -1197,3 +1198,4 @@ Integration services run with the rest of the admin services.  We have observed
 In a 1000 concurrent user configuration with a heavy reliance on integrations we generally see an average of 10 flows per second executing with minimal load on the integration servers.
 Integration services may be scaled to their own VMs and may be added in batches of 3 nodes to provide additional scaling. 
 Scaling of integration services is beyond the scope of this testing due to the variety of back end systems that may influence integration performance.
+{% /version %}

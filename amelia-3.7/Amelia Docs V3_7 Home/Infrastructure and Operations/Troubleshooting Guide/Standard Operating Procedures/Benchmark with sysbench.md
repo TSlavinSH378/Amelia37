@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Amelia includes [sysbench](https://github.com/akopytov/sysbench) to benchmark technical performance.
 # CPU
 To benchmark CPU performance, run this command:
@@ -91,3 +92,4 @@ To benchmark HAproxy performance, run this command:
 sysbench /usr/share/sysbench/oltp_insert.lua --db-driver=mysql --mysql-host=127.0.0.1 --mysql-port=13306 --mysql-user=root --mysql-password=4296s639869876cssa6i --time=60 --max-requests=0 --threads=8 --report-interval=1 run
 mysql -S /apps/IPsoft/amelia/amelia-kdb-master/mysql.sock -e "DROP DATABASE IF EXISTS sbtest"
 ```
+{% /version %}

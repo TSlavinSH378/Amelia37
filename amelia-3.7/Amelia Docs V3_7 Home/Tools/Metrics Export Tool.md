@@ -1,3 +1,4 @@
+{% version "3.x" %}
 > [!info]  
 >
 > [Conductor Engine CLI](Conductor) is the next generation of this tool. Consider using Conductor instead unless there is a legacy reason to use this tool.
@@ -133,3 +134,4 @@ See the following pages for the appropriate data dictionaries and schemas that a
 > Using this tool requires Java 8 Update 152 or above on the executing machine (your laptop, server, or otherwise).
 
 External Releases: <https://artifactory.ipsoft.com/artifactory/libs-release-local/net/ipsoft/ameliav3x/ameliav3x-metrics-export/>
+{% /version %}

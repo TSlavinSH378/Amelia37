@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Grammars are sets of rewriting rules that represent Natural Language patterns concisely, for example, the unconstructed casual way people talk. Grammars help Amelia use natural language to recognize the user’s goal intent (Intents) and data (Entities) needed to address their intent.
 Business Process Networks (BPNs) use grammars to help provide Amelia with structure to follow processes, not only the rote question and answer structure of FAQs but also more complex processes with multiple paths and outcomes.
 Amelia can capture and understand hundreds of thousands of user utterances by combining grammars into patterns that represent semantics constructs and meanings. These semantics constructs are represented by grammars are called Language Units and they can be of intent or entity type.
@@ -889,3 +890,4 @@ Having $ANY_ALL on the ends of a definition like the above can lead to overmatch
    (check insurance $ANY_ALL)
 ;
 ```
+{% /version %}

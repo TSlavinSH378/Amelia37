@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Conductor is a web service that features both a web interface and a REST API to perform content and configuration management tasks across IPsoft applications. The service provides features to view visual representations of multiple environments and their differences, as well as automate the migration of content and configuration between them and from other sources.
 -   [Conductor Overview](Conductor%20Overview)
     -   [Authentication Guide](Authentication%20Guide)
@@ -9,3 +10,4 @@ Conductor is a web service that features both a web interface and a REST API to 
 -   [Conductor CLI](Conductor%20CLI)
 -   [Conductor Installation](Conductor%20Installation)
     -   [Conductor Docker Compose Installation](Conductor%20Docker%20Compose%20Installation)
+{% /version %}

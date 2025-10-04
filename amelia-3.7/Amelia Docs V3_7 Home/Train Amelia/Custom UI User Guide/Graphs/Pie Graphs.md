@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Pie graphs can be displayed in Amelia's conversation in the custom user interface. Data is sent with an integration message from a BPN Script task to the interface.
 # Chat Log
 Pie graphs can display in the chat log area, as part of the conversation.
@@ -1251,3 +1252,4 @@ def jsonString =
 '''
 messageService.sendIntegrationMessage(jsonString)
 ```
+{% /version %}

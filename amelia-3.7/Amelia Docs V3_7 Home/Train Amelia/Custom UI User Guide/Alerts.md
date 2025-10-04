@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Alerts display small pieces of information to users in the form of a banner that appears above the chat input box or in the conversation flow. A Script task defines the alert then sends the data to the custom user interface.
 The code example below can be dropped into a Script task in a simple BPN to demonstrate how they work. Once the BPN is saved and deployed, type `run the workflow BPNName` in the custom user interface chat box, where `BPNName `is the name of the simple BPN.
 ![](attachments/20809561/20809562.png)
@@ -157,3 +158,4 @@ def jsonString = """
     """
 messageService.sendIntegrationMessage(jsonString)
 ```
+{% /version %}

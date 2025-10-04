@@ -1,3 +1,4 @@
+{% version "3.x" %}
 There are several possible user interfaces for an Amelia system, depending on the customer requirements:
 -   Basic website interface with the Amelia avatar, a chat box, and a conversation area
 -   A website interface with the basic elements but also data from the conversation displayed to one side of the screen, for example, data Amelia collects to generate an insurance quote
@@ -9,3 +10,4 @@ For all visual interfaces, there is an IPsoft UI Style Guide for Amelia that inc
 Here's an example of how User Interface guidelines impact possible interfaces – the website user interface, mobile, and kiosk interfaces with the custom UI – when they display image buttons.
 ![](attachments/11940474/25462819.png)
 Figure. Converse with Mobile, Desktop, and Kiosk User Interfaces
+{% /version %}

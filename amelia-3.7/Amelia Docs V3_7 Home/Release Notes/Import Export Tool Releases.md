@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Release notes for this tool track Amelia releases, for example, 3.7 are backwards compatible within their Amelia releases. A 3.7.0 and 3.7.1 Import Export Tool release both work with Amelia 3.7.0 to the latest 3.7.x Amelia release.
 # 3.7.11
 Release date: May 27, 2020
@@ -175,3 +176,4 @@ AM3-9469 - Fixed a bug where JSON files were created for classifier models that 
 AM3-9439 - Fixed a bug where multimedia files exported from the content manager would be incorrectly written to the file system.
 AM3-9356 - Fixed a bug where exporting entities from a file system would not import into an Amelia instance.
 AM3-9429 - Fixed a bug where exporting intents from a file system would not import into an Amelia instance.
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This demonstration creates suggested responses to appear above the chat input in the conversation area.
 ![](attachments/11939970/11939971.png)
 Figure. doSuggestedResponses BPN
@@ -100,3 +101,4 @@ When the BPN model is built and approved, as described in the section above, ope
     ![](attachments/11939970/11939972.png)  
     Figure. Output of doSuggestedResponses BPN  
 4.  Click the green up arrow to submit it as a response. Amelia displays the response from the last Say task in the BPN.
+{% /version %}

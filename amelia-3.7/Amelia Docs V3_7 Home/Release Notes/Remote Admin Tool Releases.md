@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Release notes for this tool track Amelia releases, for example, 3.6 and 3.7 are backwards compatible within their Amelia releases. A 3.6.1 Remote Admin Tool release both work with Amelia 3.6.0 to the latest 3.6.x Amelia release.
 # 3.7.3
 Release date: April 16, 2020
@@ -60,3 +61,4 @@ AM3-9938 - This change will allow setting an initial password for a new user whe
 ```
 ## Bugs Fixed
 AM3-9993 - Fixes a bug that caused writing files to non-absolute paths to fail with a NullPointerException.
+{% /version %}

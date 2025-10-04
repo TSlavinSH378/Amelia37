@@ -1,3 +1,4 @@
+{% version "3.x" %}
 This version of Amelia includes significant improvements and additions from earlier versions. Consult the [release notes](Release%20Notes) and documentation for details about all changes.
 ## General
 -   Amelia is compatible with Safari (v10), Firefox (v57 Quantum), and Microsoft Edge (v42.17134)
@@ -19,3 +20,4 @@ This version of Amelia includes significant improvements and additions from earl
 -   [BPN Script tasks can execute integration flows](Integration%20Service)
 ## Custom User Interface
 -   [Individual users can edit and publish individual UI bundles](Deploy%20and%20Publish%20UI%20Bundles)
+{% /version %}

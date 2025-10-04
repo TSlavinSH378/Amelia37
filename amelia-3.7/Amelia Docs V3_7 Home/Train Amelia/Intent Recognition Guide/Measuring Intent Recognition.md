@@ -1,3 +1,4 @@
+{% version "3.x" %}
 Intent recognition should be measured in production environments to understand current status at any time and to improve intent recognition. There are three aspects to measuring intent recognition.
 -   **Selecting the Data Basis for Intent Recognition Metrics** — what to measure when measuring intent recognition
 -   **Measuring Intent Recognition by Sample** — how to measure intent recognition
@@ -184,3 +185,4 @@ Start measuring intent recognition when an Amelia project goes into production. 
 -   Measuring against a *fixed* sample data set, that's only updated when the Amelia implementation changes
 -   Measuring at given intervals against *new / expanded* data sets
 Both of these approaches have pros and cons.
+{% /version %}

@@ -1,3 +1,4 @@
+{% version "3.x" %}
 > [!warning]  
 >
 > Per Email conversation with Anton Leskin and Noah Grosshandler 4/2/2024, this content has been hidden. We currently have no engineering/product support for this feature.
@@ -29,3 +30,4 @@ The SDK package zip file includes an integration guide, release notes, and API d
 | 3.7.1 | 3.7.0 | 3.7+ | Amelia-SDK-Android-3.7.1.zip | 3/21/2019 | Fixed file download issue |
 | 3.7.0 | 3.7.0 | 3.7+ | Amelia-SDK-Android-3.7.0.zip | 3/19/2019 | Pilot version to prepare for 1Desk Chat overlay |
 
+{% /version %}

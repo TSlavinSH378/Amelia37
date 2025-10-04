@@ -1,3 +1,4 @@
+{% version "3.x" %}
 **More System Settings**
 -   [Authentication Systems](Authentication%20Systems)
 -   [Authentication Policies](Authentication%20Policies)
@@ -12,3 +13,4 @@
 -   [Facial Recognition](Facial%20Recognition)
 -   [Response Pools](Response%20Pools)
 -   [1Rpa Instances](1Rpa%20Instances)
+{% /version %}

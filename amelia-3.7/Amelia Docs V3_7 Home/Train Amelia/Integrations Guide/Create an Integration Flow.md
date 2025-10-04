@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The API integrations are defined in the Amelia V3 administration pages. Click the Integrations Home link on the left side then click Integration Home to display the home page. To create an integration, at least configure one Host data and one or more Flows.
 An integration flow also can be created with an integration template, as described at the bottom of this page.
 # Configure a Host
@@ -174,3 +175,4 @@ Figure. Create Flow from Template Popup
 Integration flows also can be converted to templates. In the Flow editor, click the Save icon to display a dropdown list. Select the Save as Template option. Flow data will appear in a New Integration Template form with some values pre-filled. Type in Name and enter other data to complete the template.
 ![](attachments/11939847/11941859.png)
 Figure. Save as Template Dropdown
+{% /version %}

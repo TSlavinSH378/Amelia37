@@ -1,3 +1,4 @@
+{% version "3.x" %}
 The text service provides manipulation, search, and matching operations for BPN Script tasks and libraries.
 # Methods
 ## searchExact
@@ -48,3 +49,4 @@ Semantically matches a set of strings against a sentence. Returns a result table
 | sentence | Sentence with one or more single word tokens |
 | tokenMatchThreshold | Token similarity (0..1) threshold for a match |
 
+{% /version %}
